@@ -1,0 +1,5572 @@
+[
+    {
+        "player": "COPY P",
+        "augments": [
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.33"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uac70\ub300\ud55c \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubaa8\ub8e8\uac00 \ubb3c\ub801\ud574\uc9c8 \ub178\ub987",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ube5b\uc758 \uc18d\ub3c4",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub5a0\uc624\ub974\ub294 \uc545\uba85+",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub3c4\ub451\uc9c8",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc790\uc6b4 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc790\uc6b4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc++",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc774\uc0c1\uc8fc\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc2a4\ud154\ub77c\ucf58\uc758 \ucd95\ubcf5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc644\ubcbd\ud55c \ubc18\ubcf5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc9c0\uc6d0 \ucc3d\uace0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \uc800\ud56d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc5ec\uba85\uc758 \uad11\ucc44",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub300\uaca9\ubcc0 \uc0dd\uc131\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uad73\uac74\ud55c \ub3cc\uc9c4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc704\ud5d8\ud55c \ud589\ubcf4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uac04\uc774 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud544\ud2b8\uc624\ubc84 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc774\uc911 \uacf5\uc911 \ubcf4\uae09",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "InV LeVition",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.67"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#4.67"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud0c0\uace4 \uc601\ud63c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc9d5\ubcd1",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uacfc\ucda9\uc804 \ub9c8\ub098\uc0d8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud6c4\ubc18 \uc804\ubb38\uac00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc644\uc804\ud55c \uc9c0\ubc30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc548\uc815\uc801\uc778 \uc9c4\ud654",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud654\ud559\uacf5\ud559 \uac15\ud654",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \uc800\ud56d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud544\ud2b8\uc624\ubc84 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uacf5\ud5c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uac80\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uaf2c\uaf2c\ub9c8 \uac70\uc778+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc804\uc7c1\uae30\uacc4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "Haval\u0131 nick",
+        "augments": [
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "66.7%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 II",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c II",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc778\ub0b4\ub825 \ud6c8\ub828",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uac70\ub300\ud55c \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubd88\uad74\uc758 \uc758\uc9c0",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\ube4c\uc9c0\uc6cc\ud130 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc740\uc218\uc800",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc288\ub9ac\ub9c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud3b8\ubc95",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc6b0\ub450\uba38\ub9ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubaa9\uc228\uac12",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc555\ub3c4\uc801\uc778 \ud798",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub2e8\uace8 \uace0\uac1d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc2e4\ubc84 \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc804\uc220\uc801 \uc6b0\uc704",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc9c0\uc6d0 \ucc3d\uace0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud544\ud2b8\uc624\ubc84 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "Puimuri",
+        "augments": [
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "66.7%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uac70\ub300\ud55c \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud6c4\ubc18 \uc804\ubb38\uac00",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc794\ud639\ud55c \uacc4\uc57d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc900\ube44 \uc6b4\ub3d9 II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc+",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc791\uc740 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc704\ud5d8\ud55c \ud589\ubcf4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubd80\uc775\ubd80+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc801\uc744 \uc54c\ub77c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uac70\ub300\ud55c \ud798",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uad76\uc8fc\ub9b0 \uc0ac\ub0e5\uafbc",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub3c4\uc804\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud30c\ubb3b\ud78c \ubcf4\ubb3c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc624\ub298\uc740 \uc544\ub2c8\uc57c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uaf2c\ub9c8 \uac70\uc778",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ub9c8\ubc95\uc0ac \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "FoemanDD",
+        "augments": [
+            {
+                "name": "\ucc2c\ub780\ud55c \uc720\ubb3c",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#4.33"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uc2b9\uc2b9\uc7a5\uad6c",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \uc2ec\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uc5f0\uacb0 \ubd88\uac00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubc29\ub791\ud558\ub294 \uc870\ub828\uc0ac",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc8fd\uc74c\uc758 \uace0\ud1b5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubd80\uc775\ubd80+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc9c0\uc6d0 \ucc3d\uace0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uacf5\ud5c8 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc545\uc758 \ubd88\uae38",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud765\uccad\ub9dd\uccad",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud480\ub824\ub09c \uc544\ub974\uce74\ub098",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud30c\ubb3b\ud78c \ubcf4\ubb3c III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc778\ub0b4\ub825 \ud6c8\ub828",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0dd\uba85\uc758 \ubd88\uaf43",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uac74\uac15 \ub610 \uac74\uac15",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc791\uc740 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ubcc4\ub4e4\uc758 \ud0c4\uc0dd",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc774\uc911 \uacf5\uc911 \ubcf4\uae09",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud504\ub810\uc694\ub4dc \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "ImS\u00f8Fresh",
+        "augments": [
+            {
+                "name": "\uc911\ud615 \ub300\uc7a5\uac04",
+                "plays": "4",
+                "win_rate": "25.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.25"
+            },
+            {
+                "name": "\ud6cc\ub96d\ud55c \uc19c\uc528",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.33"
+            },
+            {
+                "name": "\ub2a5\uc218\ub2a5\ub780\ud55c \uc19c\uc528",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc18c\ud615 \ub300\uc7a5\uac04",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ub9c8\ubc95\uc0ac \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc704\ud5d8\ud55c \ud589\ubcf4",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc288\ub9ac\ub9c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ucc45\ub7b5\uac00 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud0c0\uace4 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubaa9\uc228\uac12",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ube5b\uc758 \uc18d\ub3c4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub9c8\ubc95\uc0ac \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc5ec\uba85\uc758 \uad11\ucc44",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc704\ub300\ud55c \uacb0\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc9c0\uc625\uc758 \uacc4\uc57d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc774\uc0c1\ud55c \uae08\uc694\uc77c+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ucc45\ub7b5\uac00 \uc601\ud63c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc694\uc0c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub3c4\uc804\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud480\ub824\ub09c \uc544\ub974\uce74\ub098",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uae30\uc6d0\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            }
+        ]
+    },
+    {
+        "player": "\uc220\uc0b4\ub3c8",
+        "augments": [
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "5",
+                "win_rate": "20.0%",
+                "top_rate": "60.0%",
+                "avg_rank": "#3.80"
+            },
+            {
+                "name": "\uc0ac\uc218 \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\uc0ac\uc218 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc801\uc744 \uc54c\ub77c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uac80\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc14b\ubd80\ud130 \ub0a8\ub0a8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub300\uaca9\ubcc0 \uc0dd\uc131\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc9c0\uc6d0 \ucc3d\uace0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ucc45\ub7b5\uac00 \uc601\ud63c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790\uc758 \uacb0\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ube7c\uc557\uae34 \uc0dd\uba85\ub825",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc288\ub9ac\ub9c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub3c4\uc804\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "Kr Day",
+        "augments": [
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "4",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.25"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud611\ub825 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc9d5\ubcd1",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubc29\ub791\ud558\ub294 \uc870\ub828\uc0ac",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud0c0\uace4 \uc601\ud63c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud6cc\ub96d\ud55c \uc19c\uc528",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubcc4\ub4e4\uc758 \ud0c4\uc0dd",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub2a5\uc218\ub2a5\ub780\ud55c \uc19c\uc528",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc911\ud615 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub3c4\uc804\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc544\uc774\ud15c \uafb8\ub7ec\ubbf8 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0bc\ucd1d\uc0ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc544\uc774\ud15c \uafb8\ub7ec\ubbf8 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc5c4\uccad\ub098\uac8c \uc774\ub85c\uc6b4 \ud6a8\uacfc!",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc18c\ud615 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uaf2c\ub9c8 \uac70\uc778",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub9c8\ub098 \ubd88\ud0dc\uc6b0\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc2b9\uc2b9\uc7a5\uad6c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc785\ubb38\uc6a9 \ud0a4\ud2b8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud480\ub824\ub09c \uc544\ub974\uce74\ub098",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc2a4\ud154\ub77c\ucf58\uc758 \ucd95\ubcf5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc785\ub9db\ub300\ub85c \uace0\ub974\ub294 \ubd80\ud488",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc9c0\uc6d0 \ucc3d\uace0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc644\uc804\ud55c \uc9c0\ubc30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            }
+        ]
+    },
+    {
+        "player": "Sologesang",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "6",
+                "win_rate": "33.3%",
+                "top_rate": "83.3%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \uc2ec\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 I",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud669\uae08 \uc54c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc548\uc815\uc801\uc778 \uc9c4\ud654",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc654\ub2e4\uac14\ub2e4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub3c4\ub451\uc9c8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud0c0\uace4 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\ub791\uc758 \uae30\ub3c4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc740\uc218\uc800",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc5f0\uacb0 \ubd88\uac00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc218\ud608 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc694\uc0c8 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc801\uc744 \uc54c\ub77c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uacb0\ud22c\ud558\ub294 \uc0ac\uc218",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\uc790\uc6b4 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "Deannn",
+        "augments": [
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "5",
+                "win_rate": "20.0%",
+                "top_rate": "80.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 II",
+                "plays": "4",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.25"
+            },
+            {
+                "name": "\uc0dd\uc77c \uc120\ubb3c",
+                "plays": "3",
+                "win_rate": "66.7%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.67"
+            },
+            {
+                "name": "\ub3c4\uc804\uc790 \uc655\uad00",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "33.3%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ube5b\uc758 \uc18d\ub3c4",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc77c\uad00\uc131",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uc790\ub9ac \ube44\uc6c0",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc218\ud608 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub2e4\ub978 \ud0dc\uc0dd II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \uc800\ud56d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub3c4\ub451\uc9c8",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc5c4\uccad\ub098\uac8c \uc774\ub85c\uc6b4 \ud6a8\uacfc!",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \ubcf4\ub8e8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubd88\uad74\uc758 \uc758\uc9c0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc791\ubcc4 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc0c1\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ubcc4\ub4e4\uc758 \ud0c4\uc0dd",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud504\ub810\uc694\ub4dc \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud638\uc704 \uc784\ubb34",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            }
+        ]
+    },
+    {
+        "player": "zoro5773",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "11",
+                "win_rate": "27.3%",
+                "top_rate": "81.8%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uac70\ub300\ud55c \uafb8\ub7ec\ubbf8",
+                "plays": "5",
+                "win_rate": "0.0%",
+                "top_rate": "40.0%",
+                "avg_rank": "#4.40"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.50"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc7ac\ud65c\uc6a9 \uc4f0\ub808\uae30\ud1b5+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc804\uc7a5\uc758 \ub3cc\ud48d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ubaa9\uc228\uac12",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc694\uc0c8 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud30c\ubb3b\ud78c \ubcf4\ubb3c III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uacb0\ud22c\ud558\ub294 \uc0ac\uc218",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub2e8\uace8 \uace0\uac1d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc545\uc758 \ubd88\uae38",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uacfc\ucda9\uc804 \ub9c8\ub098\uc0d8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ubb38\uc81c\uac00 \ub450 \ubc30 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "ATM Dungcon",
+        "augments": [
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "3",
+                "win_rate": "66.7%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.33"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "3",
+                "win_rate": "66.7%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.33"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc644\uc804\ud55c \uc9c0\ubc30",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc9d5\ubcd1",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ube7c\uc557\uae34 \uc0dd\uba85\ub825",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc644\ubcbd\ud55c \ubc18\ubcf5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc548\uc815\uc801\uc778 \uc9c4\ud654",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc804\uc7c1\uae30\uacc4 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "ARAM",
+        "augments": [
+            {
+                "name": "\uaf2c\ub9c8 \uac70\uc778",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud611\ub825 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uc774\uc0c1\ud55c \uae08\uc694\uc77c+",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\uc0c8\ub85c\uace0\uce68\uc758 \ub0a0 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.50"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub3c8!",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc804\ub9ac\ud488 II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ucc45\ub7b5\uac00 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0c8\ub85c\uace0\uce68\uc758 \ub0a0 I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uac74\uac15 \ub610 \uac74\uac15",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ucc9c\uad70\ub9cc\ub9c8+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc774\uc0c1\uc8fc\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc804\uc7c1\uae30\uacc4 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc545\uc758 \ubd88\uae38",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uacfc\ucda9\uc804 \ub9c8\ub098\uc0d8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud480\ub824\ub09c \uc544\ub974\uce74\ub098",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub2e4\ub978 \ud0dc\uc0dd II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc7ac\ud65c\uc6a9 \uc4f0\ub808\uae30\ud1b5+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ubd80\uc775\ubd80+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub3c8 \ub3c8!",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790\uc758 \uacb0\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\ubcc4\ub4e4\uc758 \ud0c4\uc0dd",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\ub3c4\ub451\uc9c8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "GVidigal",
+        "augments": [
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 II",
+                "plays": "3",
+                "win_rate": "66.7%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.67"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "33.3%",
+                "avg_rank": "#5.33"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc6b0\ub450\uba38\ub9ac",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c II",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ud638\uc704 \uc784\ubb34",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc704\ub300\ud55c \uacb0\uc758",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \uc2ec\uc7a5",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c I",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.50"
+            },
+            {
+                "name": "\uc545\uc758 \ubd88\uae38",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc740\uc218\uc800",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc694\uc0c8 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc5f0\uacb0 \ubd88\uac00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ube0c\ub860\uc988 \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub2e4\ub978 \ud0dc\uc0dd II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc774\uc0c1\uc8fc\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubc29\ub791\ud558\ub294 \uc870\ub828\uc0ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc774\uc911 \uacf5\uc911 \ubcf4\uae09",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubcc0\ub355\uc2a4\ub7ec\uc6b4 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc624\ub298\uc740 \uc544\ub2c8\uc57c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ubaa8\ub8e8\uac00 \ubb3c\ub801\ud574\uc9c8 \ub178\ub987",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "COPY C",
+        "augments": [
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.67"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#3.33"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 I",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ube5b\uc758 \uc18d\ub3c4",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uac80\uc758 \uc218\ud638\uc790",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\uc740\uc218\uc800",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubcc4\ub4e4\uc758 \ud0c4\uc0dd",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uac70\ub300\ud55c \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud30c\ubb3b\ud78c \ubcf4\ubb3c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc9c0\uc625\uc758 \uacc4\uc57d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc790\ub9ac \ube44\uc6c0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc774\uc0c1\uc8fc\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc218\ud638\uc790\uc758 \uce5c\uad6c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc791\ubcc4 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud30c\ubb3b\ud78c \ubcf4\ubb3c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc804\ud22c \ub9c8\ubc95\uc0ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ucc2c\ub780\ud55c \uc720\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ube7c\uc557\uae34 \uc0dd\uba85\ub825",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub9c8\ubc95\uc0ac \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc8fc\uc0ac\uc704 \ub358\uc9c0\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ub9c8\ubc95\uc0ac \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ub2e8\uace8 \uace0\uac1d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uac10\uc2dc\uc790 \ud63c\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud604\ub780\ud55c \uc190\ub180\ub9bc",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uaf2c\ub9c8 \uac70\uc778",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "a random guy",
+        "augments": [
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "5",
+                "win_rate": "0.0%",
+                "top_rate": "60.0%",
+                "avg_rank": "#3.60"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "4",
+                "win_rate": "25.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.25"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "4",
+                "win_rate": "25.0%",
+                "top_rate": "75.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 I",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "33.3%",
+                "avg_rank": "#3.67"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \uc655\uad00",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.50"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ucc2c\ub780\ud55c \uc720\ubb3c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub9c8\ubc95\uc0ac \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc14b\ubd80\ud130 \ub0a8\ub0a8",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc++",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc791\uc740 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ube5b\uc758 \uc18d\ub3c4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud65c\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            }
+        ]
+    },
+    {
+        "player": "Ian952",
+        "augments": [
+            {
+                "name": "\uc544\uc774\ud15c \uafb8\ub7ec\ubbf8 II",
+                "plays": "4",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\uc801\uc744 \uc54c\ub77c",
+                "plays": "4",
+                "win_rate": "25.0%",
+                "top_rate": "25.0%",
+                "avg_rank": "#4.25"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "3",
+                "win_rate": "66.7%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.33"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uc785\ub9db\ub300\ub85c \uace0\ub974\ub294 \ubd80\ud488",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc2e4\ubc84 \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud544\ud2b8\uc624\ubc84 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uac74\uac15 \uad00\ub9ac",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0dd\uc77c \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc774\uc911 \uacf5\uc911 \ubcf4\uae09",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc791\ubcc4 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc9c0\uc625\uc758 \uacc4\uc57d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc5f0\uacb0 \ubd88\uac00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub9c8\ub098 \ubd88\ud0dc\uc6b0\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc815\ub2f9\ud55c \ubcf4\uc0c1 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ube7c\uc557\uae34 \uc0dd\uba85\ub825",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ube0c\ub860\uc988 \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub9c8\ub825 \uc9d1\uc911",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc774\uc0c1\ud55c \uae08\uc694\uc77c+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ucc45\ub7b5\uac00 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            }
+        ]
+    },
+    {
+        "player": "Vn Daubuoi",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "4",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac I",
+                "plays": "3",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.50"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 I",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uad76\uc8fc\ub9b0 \uc0ac\ub0e5\uafbc",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uaf2c\uaf2c\ub9c8 \uac70\uc778+",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub09c\uacf5\ubd88\ub77d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub3c4\ub451\uc9c8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uac00\uc9c0 \ubed7\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc5ec\uba85\uc758 \uad11\ucc44",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc288\ub9ac\ub9c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub9c8\ub098 \ubd88\ud0dc\uc6b0\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc790\uc6b4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uae30\uc6d0\uc790 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "SpencerTFT",
+        "augments": [
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "4",
+                "win_rate": "25.0%",
+                "top_rate": "75.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "4",
+                "win_rate": "25.0%",
+                "top_rate": "75.0%",
+                "avg_rank": "#3.25"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \uc2ec\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud30c\ubb3b\ud78c \ubcf4\ubb3c III",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub09c\ub3d9\uafbc \uc655\uad00",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.50"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ud589\uc6b4\uc758 \uc7a5\uac11+",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc2b9\uc2b9\uc7a5\uad6c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc644\ubcbd\ud55c \ubc18\ubcf5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc774\uc0c1\uc8fc\uc758",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc21c\uad50\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc804\ud22c \ub9c8\ubc95\uc0ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ucc9c\uad70\ub9cc\ub9c8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc804\uc220\uc801 \uc6b0\uc704",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc5f0\uacb0 \ubd88\uac00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uaf2c\uaf2c\ub9c8 \uac70\uc778+",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc654\ub2e4\uac14\ub2e4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ube4c\uc9c0\uc6cc\ud130 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub3c4\uc804\uc790 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uad73\uac74\ud55c \ub3cc\uc9c4",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ubaa9\uc228\uac12",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "IlIllllll",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "11",
+                "win_rate": "45.5%",
+                "top_rate": "54.5%",
+                "avg_rank": "#3.64"
+            },
+            {
+                "name": "\ud070 \uafb8\ub7ec\ubbf8",
+                "plays": "3",
+                "win_rate": "33.3%",
+                "top_rate": "33.3%",
+                "avg_rank": "#4.33"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc801\uc744 \uc54c\ub77c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc774\uc911 \uacf5\uc911 \ubcf4\uae09",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \uc800\ud56d",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5e4\uc9c0 \ud380\ub4dc+",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ube0c\ub860\uc988 \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc800\uc8fc\ubc1b\uc740 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uaf2c\uaf2c\ub9c8 \uac70\uc778+",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ucc9c\uad70\ub9cc\ub9c8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ube7c\uc557\uae34 \uc0dd\uba85\ub825",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \uc544\uc774\ud15c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub9c8\ubc95 \uc9c0\ud321\uc774",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ub2e8\uacb0 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            }
+        ]
+    },
+    {
+        "player": "G1W LeVition",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "4",
+                "win_rate": "50.0%",
+                "top_rate": "75.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c II",
+                "plays": "3",
+                "win_rate": "0.0%",
+                "top_rate": "66.7%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \uc655\uad00",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud68c\ubcf5\uc758 \uad6c I",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubd89\uc740 \ub369\uad74\uc815\ub839",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.50"
+            },
+            {
+                "name": "\uace0\uc815\ub41c \uc9c0\uc6d0 III",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud544\ud2b8\uc624\ubc84 \uc601\ud63c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uacb0\ud22c\ud558\ub294 \uc0ac\uc218",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud734\ub300\uc6a9 \ub300\uc7a5\uac04",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc548\uc815\uc801\uc778 \uc9c4\ud654",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ub2e8\uace8 \uace0\uac1d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc544\uc774\uc624\ub2c8\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ud1a0\ubc8c\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\ubc29\ub791\ud558\ub294 \uc870\ub828\uc0ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.00"
+            },
+            {
+                "name": "\uc774\uc911 \uacf5\uc911 \ubcf4\uae09",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc6b0\ub450\uba38\ub9ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ub9dd\uc790\uc758 \uc120\ubb3c",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790\uc758 \uacb0\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud559\uc0b4\uc790 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc9c0\uc625\uc758 \uacc4\uc57d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc0b4\uc778\uc220\uc0ac III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uace0\ub300\uc758 \uae30\ub85d \ubcf4\uad00\uc18c I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\ub370\ub9c8\uc2dc\uc544 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#6.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \uc2e0\uccb4 III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ub3c4\uc11c \ub300\ucd9c\uc99d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ub2e4\ub978 \ud0dc\uc0dd III",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \uc800\ud56d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \uc655\uad00",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    },
+    {
+        "player": "SayGoodBey",
+        "augments": [
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8 II",
+                "plays": "8",
+                "win_rate": "0.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#5.13"
+            },
+            {
+                "name": "\uaf2c\ub9c8 \uac70\uc778",
+                "plays": "2",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ub808\ubca8 \uc5c5!",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\uacb0\uc804\uc6a9 \uafb8\ub7ec\ubbf8",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.50"
+            },
+            {
+                "name": "\ud22c\uc790 \uc218\uc775\ub960",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#2.50"
+            },
+            {
+                "name": "\uc804\uc5fc",
+                "plays": "2",
+                "win_rate": "50.0%",
+                "top_rate": "50.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud310\ub3c4\ub77c\uc758 \ub300\uae30\uc11d",
+                "plays": "2",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\ub179\uc11c\uc2a4 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc218\ud608 I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc0ac\uc218 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc644\uc804\ud55c \uc9c0\ubc30",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc804\ub7b5\uac00\uc758 \ub3c4\uad6c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc288\ub9ac\ub9c8 \ubb38\uc7a5",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 I",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\uc5f0\uc1c4\ub9c8\ubc95\uc0ac \uc601\ud63c",
+                "plays": "1",
+                "win_rate": "100.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#1.00"
+            },
+            {
+                "name": "\ud504\ub810\uc694\ub4dc \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ud0c0\uace4 \uc2ec\uc7a5",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\ucd5c\ud6c4\uc758 \uc800\ud56d",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uba3c \uce5c\uad6c II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#3.00"
+            },
+            {
+                "name": "\uc80a\uc74c, \uad11\ub780, \uc790\uc720",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "100.0%",
+                "avg_rank": "#4.00"
+            },
+            {
+                "name": "\uace8\ub4dc \ud2f0\ucf13",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ud398\ud2b8\ub9ac\uc0ac\uc774\ud2b8 \uc0ac\uc2ac",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ubaa8\ub8e8\uac00 \ubb3c\ub801\ud574\uc9c8 \ub178\ub987",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uc6b0\ub974\ud504\uc758 \uafb8\ub7ec\ubbf8",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\uac00\uc9c0 \ubed7\uae30",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#5.00"
+            },
+            {
+                "name": "\ubcf4\uc11d \uc5f0\uaf43 II",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc704\ub300\ud55c \uacb0\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\ud5cc\uc2e0",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uc0ac\uc774\ubc84\ub124\ud2f1 \ud761\ud608 I",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#7.00"
+            },
+            {
+                "name": "\uac80\uc758 \uc218\ud638\uc790",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            },
+            {
+                "name": "\uc774\uc0c1\uc8fc\uc758",
+                "plays": "1",
+                "win_rate": "0.0%",
+                "top_rate": "0.0%",
+                "avg_rank": "#8.00"
+            }
+        ]
+    }
+]
