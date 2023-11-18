@@ -52,6 +52,11 @@ const insertData = async () => {
 
                 await client.query('INSERT INTO tft_schema.match_augments (match_id, augment_id, phase, placement) VALUES ($1, $2, $3, $4)', [matchId, augmentId, phase, match.placement]);
                 logger.info(`Inserted augment: ${augmentName} for match ID: ${matchId}`);
+                
+                // Update the times_played count for the augment
+                await client.query('UPDATE tft_schema.augments SET times_played = times_played + 1 WHERE name = $1', [augmentName]);
+                logger.info(`Updated times played for augment: ${augmentName}`);
+
               }
             }
           } else {
