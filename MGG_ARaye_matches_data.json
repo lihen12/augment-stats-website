@@ -1,0 +1,802 @@
+[
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Know Your Enemy",
+            "4-2": "Demacia Crest"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unified Resistance I",
+            "3-2": "Stationary Support II",
+            "4-2": "Long Distance Pals II"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Sentinel's Spirit",
+            "3-2": "Healing Orbs II",
+            "4-2": ""
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Stolen Vitality",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Stationary Support III",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Ionia Crest",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Healing Orbs I",
+            "4-2": "Demacia Crest"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Capricious Forge",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Healing Orbs I",
+            "3-2": "Unknown Augment",
+            "4-2": ""
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Tons of Stats!",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Bruiser Heart",
+            "3-2": "Frequent Flier",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Zaun Heart",
+            "4-2": "Challenger Crest"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Healing Orbs I",
+            "4-2": "Ancient Archives II"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Slayer Crest",
+            "3-2": "Contagion",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Bilgewater Crown",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Martyr",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Dedication",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Petricite Shackles"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Return on Investment",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Titanic Strength",
+            "4-2": "Blinding Speed"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Wandering Trainer",
+            "3-2": "Pandora's Bench",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 8,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Cybernetic Leech II",
+            "4-2": ""
+        }
+    },
+    {
+        "placement": 6,
+        "augments": {
+            "2-1": "Built Different II",
+            "3-2": "Last Stand",
+            "4-2": "Golden Ticket"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 7,
+        "augments": {
+            "2-1": "Endurance Training",
+            "3-2": "Gargantuan Resolve",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Noxus Crown",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Cybernetic Bulk I",
+            "3-2": "Dedication",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "You Have My Sword",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "placement": 8,
+        "augments": {
+            "2-1": "Gifts from the Fallen",
+            "3-2": "Healing Orbs I",
+            "4-2": "Mana Burn"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Combat Caster",
+            "4-2": "Rejuvenating Flames"
+        }
+    },
+    {
+        "placement": 8,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Return on Investment",
+            "4-2": ""
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "High End Sector",
+            "3-2": "Level Up!",
+            "4-2": "Bruiser Crown"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Bronze Ticket",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Bronze Ticket",
+            "4-2": "Perfected Repetition"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Golden Ticket",
+            "3-2": "Bronze Ticket",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "placement": 7,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Unknown Augment",
+            "4-2": "Gifts from the Fallen"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Inconsistency",
+            "3-2": "Morning Light",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Cybernetic Leech II",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Stable Evolution",
+            "3-2": "Return on Investment",
+            "4-2": "Multicaster Soul"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Long Distance Pals II",
+            "3-2": "Gunner Crown",
+            "4-2": "Gunner Heart"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Ravenous Hunter",
+            "3-2": "Juggernaut Heart",
+            "4-2": "Challenger Crest"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Overcharged Manafont",
+            "3-2": "Ancient Archives II",
+            "4-2": "Sorcerer Crest"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Frequent Flier",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Stationary Support III",
+            "3-2": "Vanquisher Crown",
+            "4-2": "Impenetrable Bulwark"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Red Buff",
+            "3-2": "Gifts from the Fallen",
+            "4-2": "Stolen Vitality"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Vampiric Blades",
+            "3-2": "Gunner Crest",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Cybernetic Bulk I",
+            "3-2": "Ancient Archives I",
+            "4-2": "Bilgewater Crown"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Silver Ticket",
+            "3-2": "Gifts from the Fallen",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "placement": 6,
+        "augments": {
+            "2-1": "Binary Airdrop",
+            "3-2": "Pandora's Bench",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Inconsistency",
+            "3-2": "Idealism",
+            "4-2": "Vanquisher Crown"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Radiant Relics",
+            "4-2": "Vanquisher Crown"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "",
+            "3-2": "",
+            "4-2": ""
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Healing Orbs I",
+            "3-2": "Gifts from the Fallen",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Unified Resistance I",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Caretaker's Chosen",
+            "3-2": "Transfusion I",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "",
+            "3-2": "",
+            "4-2": ""
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Lucky Gloves",
+            "3-2": "Pandora's Items",
+            "4-2": "Stolen Vitality"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Transfusion II",
+            "3-2": "Bronze Ticket",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Long Distance Pals II",
+            "3-2": "Unknown Augment",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Patient Study",
+            "3-2": "Gifts from the Fallen",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Martyr",
+            "3-2": "Contagion",
+            "4-2": "Bruiser Crest"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Golden Ticket",
+            "3-2": "Radiant Relics",
+            "4-2": "Cybernetic Leech III"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Vanquisher Crown",
+            "4-2": "Gifts from the Fallen"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Silver Spoon",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Stolen Vitality"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Inconsistency",
+            "3-2": "Unified Resistance II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Dedication",
+            "3-2": "Healing Orbs I",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Birthday Present",
+            "3-2": "Unified Resistance II",
+            "4-2": "Impenetrable Bulwark"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Living Forge",
+            "3-2": "Stationary Support III",
+            "4-2": "Sorcerer Crown"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Noxus Crown",
+            "3-2": "Last Stand",
+            "4-2": "Blinding Speed"
+        }
+    },
+    {
+        "placement": 7,
+        "augments": {
+            "2-1": "A Cut Above",
+            "3-2": "Pandora's Bench",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Metabolic Accelerator",
+            "3-2": "Ancient Archives II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Vanquisher Crest",
+            "3-2": "Pandora's Items II",
+            "4-2": "Mana Burn"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Stationary Support II",
+            "4-2": "Perfected Repetition"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Contagion",
+            "3-2": "Support Cache",
+            "4-2": "Perfected Repetition"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Long Distance Pals II",
+            "3-2": "Army Building",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "placement": 7,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Rich Get Richer+",
+            "4-2": "Social Distancing II"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Unified Resistance I",
+            "4-2": "Stolen Vitality"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Gifts from the Fallen",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "placement": 8,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "Unknown Augment",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Noxus Crest",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "placement": 5,
+        "augments": {
+            "2-1": "Binary Airdrop",
+            "3-2": "Long Distance Pals II",
+            "4-2": "Gifts from the Fallen"
+        }
+    },
+    {
+        "placement": 6,
+        "augments": {
+            "2-1": "Double Trouble II",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Morning Light"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Gifts from the Fallen",
+            "3-2": "Recombobulator",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Silver Ticket",
+            "3-2": "Unified Resistance I",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Overcharged Manafont",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Healing Orbs I"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Riftwalk",
+            "3-2": "Long Distance Pals II",
+            "4-2": "Gifts from the Fallen"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Long Distance Pals II"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Stolen Vitality",
+            "3-2": "Dedication",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "placement": 4,
+        "augments": {
+            "2-1": "Long Distance Pals II",
+            "3-2": "Army Building",
+            "4-2": "Rogue Crest"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Birthday Present",
+            "3-2": "Lucky Gloves",
+            "4-2": "Ionia Crown"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Silver Ticket",
+            "3-2": "Red Buff",
+            "4-2": "Gunner Crest"
+        }
+    },
+    {
+        "placement": 2,
+        "augments": {
+            "2-1": "Healing Orbs II",
+            "3-2": "Noxus Crest",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Bastion Heart",
+            "3-2": "Bastion Crest",
+            "4-2": "Targon Heart"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Noxus Crest",
+            "3-2": "Long Distance Pals II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "placement": 1,
+        "augments": {
+            "2-1": "Gifts from the Fallen",
+            "3-2": "Demacia Crest",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Long Distance Pals II",
+            "3-2": "Dedication",
+            "4-2": "Sentinel's Spirit"
+        }
+    },
+    {
+        "placement": 3,
+        "augments": {
+            "2-1": "Bilgewater Crown",
+            "3-2": "Red Buff",
+            "4-2": "Unknown Augment"
+        }
+    }
+]

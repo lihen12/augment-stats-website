@@ -68,18 +68,12 @@ def scrape_player_matches(driver, player_url, augment_mapping):
         for match in matches:
             placement = int(match.find_element(By.CSS_SELECTOR, "h5.placement").text.strip('#'))
             augment_images = match.find_elements(By.CSS_SELECTOR, "div.Augments div.item img")
-
-            augments = {label: '' for label in ['2-1', '3-2', '4-2']}
+            augments = dict.fromkeys(['2-1', '3-2', '4-2'], '')
             for index, img in enumerate(augment_images):
                 label = ['2-1', '3-2', '4-2'][index]
                 augments[label] = augment_mapping.get(img.get_attribute('src'), 'Unknown Augment')
-
-            # Generate a unique identifier for the match
-            match_details = f"{player_url}-{placement}-{json.dumps(augments)}"
-            match_hash = hashlib.md5(match_details.encode()).hexdigest()
-
-            all_matches_data.append({'unique_id': match_hash, 'placement': placement, 'augments': augments})
-
+            
+            all_matches_data.append({'placement': placement, 'augments': augments})
     return all_matches_data
 
 if __name__ == "__main__":
@@ -89,7 +83,7 @@ if __name__ == "__main__":
     for player in players_data:
         player_url = player['profile_link'] + '/set9.5/matches?gameMode=rank'
         matches_data = scrape_player_matches(driver, player_url, augment_mapping)
-        filename = f"../../data/json/{player['name'].replace(' ', '_')}_matches_data.json"
+        filename = f"../../data/{player['name'].replace(' ', '_')}_matches_data.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(matches_data, f, ensure_ascii=False, indent=4)
     logging.info("Data collection complete.")
