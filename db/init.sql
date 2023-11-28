@@ -47,3 +47,9 @@ DROP CONSTRAINT IF EXISTS unique_augment_phase;
 
 ALTER TABLE tft_schema.augment_phase_placement
 ADD CONSTRAINT unique_augment_phase UNIQUE (augment_id, phase);
+
+ALTER TABLE tft_schema.augment_average_placement ADD COLUMN last_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP;
+ALTER TABLE tft_schema.augment_phase_placement ADD COLUMN last_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP;
+
+-- TRUNCATE TABLE tft_schema.augment_average_placement;
+-- TRUNCATE TABLE tft_schema.augment_phase_placement;
