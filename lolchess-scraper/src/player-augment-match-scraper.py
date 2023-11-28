@@ -40,7 +40,7 @@ def create_augment_mapping(driver):
     augment_names = {}
     logging.info("Starting to create augment mapping...")
     for tier in range(1, 4):
-        url = f"https://lolchess.gg/guide/augments/set9.5?tier={tier}&hl=en"
+        url = f"https://lolchess.gg/guide/augments/set10?tier={tier}&hl=en"
         driver.get(url)
         WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.css-xr49db")))
         augment_containers = driver.find_elements(By.CSS_SELECTOR, "div.css-rbtdul.ept36rh2")
@@ -87,7 +87,7 @@ if __name__ == "__main__":
     players_data = get_top_players(driver, 'https://lolchess.gg/leaderboards?region=global&mode=ranked')
     augment_mapping = create_augment_mapping(driver)
     for player in players_data:
-        player_url = player['profile_link'] + '/set9.5/matches?gameMode=rank'
+        player_url = player['profile_link'] + '/set10/matches?gameMode=rank'
         matches_data = scrape_player_matches(driver, player_url, augment_mapping)
         filename = f"../../data/json/{player['name'].replace(' ', '_')}_matches_data.json"
         with open(filename, 'w', encoding='utf-8') as f:

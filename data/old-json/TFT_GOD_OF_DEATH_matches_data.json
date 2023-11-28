@@ -1,0 +1,902 @@
+[
+    {
+        "unique_id": "dbff4d903ba31cd77aab65d1d3a19b26",
+        "placement": 5,
+        "augments": {
+            "2-1": "Vanquisher Crest",
+            "3-2": "Pandora's Items II",
+            "4-2": "Phreaky Friday+"
+        }
+    },
+    {
+        "unique_id": "6b0b8c38c6f0de5ca3d85a00ca573b5a",
+        "placement": 5,
+        "augments": {
+            "2-1": "Targon Heart",
+            "3-2": "Sorcerer Crown",
+            "4-2": "Pandora's Bench"
+        }
+    },
+    {
+        "unique_id": "7383023137d3111a68d323664eb106d6",
+        "placement": 2,
+        "augments": {
+            "2-1": "Sorcerer Heart",
+            "3-2": "Idealism",
+            "4-2": "Tactician's Tools"
+        }
+    },
+    {
+        "unique_id": "3ad271acc48db93508bb85d24cd02d8a",
+        "placement": 6,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Army Building",
+            "4-2": "Invoker Crown"
+        }
+    },
+    {
+        "unique_id": "38a9edffad6fdde752c635ec5f44f08b",
+        "placement": 6,
+        "augments": {
+            "2-1": "You Have My Sword",
+            "3-2": "Unknown Augment",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "7da897f9b84e0ee2a1bb26e0819990ee",
+        "placement": 5,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Gargantuan Resolve",
+            "4-2": "Infernal Contract"
+        }
+    },
+    {
+        "unique_id": "63aef87aef342210cb2b5ff8fc9bab2c",
+        "placement": 1,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Final Reserves",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "1036ede0330e4e9707229fe11ccc14cc",
+        "placement": 1,
+        "augments": {
+            "2-1": "Double Trouble II",
+            "3-2": "Jeweled Lotus I",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "a2918aaeea44e9c5b6d9ea6f89c37462",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stolen Vitality",
+            "3-2": "Unknown Augment",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "unique_id": "b4c7054a2cf7a450fc717b29145e03cb",
+        "placement": 1,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Martyr",
+            "4-2": "Vanquisher Crown"
+        }
+    },
+    {
+        "unique_id": "e35d36be11f363c19a5b90f5f0673bd3",
+        "placement": 1,
+        "augments": {
+            "2-1": "Pandora's Bench",
+            "3-2": "Ancient Archives I",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "8b02bfa337eee81e1105f22409f69a14",
+        "placement": 2,
+        "augments": {
+            "2-1": "Not Today",
+            "3-2": "Noxus Crown",
+            "4-2": "Pandora's Items"
+        }
+    },
+    {
+        "unique_id": "4ad793d7eae27d7b30c7d499841a408a",
+        "placement": 3,
+        "augments": {
+            "2-1": "Pandora's Bench",
+            "3-2": "Army Building",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "b8d873516ad71ac1946e6143859f5c40",
+        "placement": 2,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Unknown Augment",
+            "4-2": "Ionia Crown"
+        }
+    },
+    {
+        "unique_id": "45fbac7c325bffbaa7174796a46995a1",
+        "placement": 2,
+        "augments": {
+            "2-1": "Cybernetic Leech I",
+            "3-2": "Loving Invocation",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "287a76fd7bcd4ad2fb7c84cbcd419cdc",
+        "placement": 5,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Jeweled Lotus I",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "unique_id": "0e43f736fdc423336eecd9c9662f4d80",
+        "placement": 6,
+        "augments": {
+            "2-1": "Red Buff",
+            "3-2": "Social Distancing II",
+            "4-2": "Vanquisher Crown"
+        }
+    },
+    {
+        "unique_id": "73cac93951361d400108ab69069c5056",
+        "placement": 4,
+        "augments": {
+            "2-1": "You Have My Sword",
+            "3-2": "Level Up!",
+            "4-2": "Sentinel's Spirit"
+        }
+    },
+    {
+        "unique_id": "4d88a044ee4d8dedcb0864ead4f808a7",
+        "placement": 6,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Tiny Titans",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "73a68834b7dc60c3d66c13abad8c5597",
+        "placement": 4,
+        "augments": {
+            "2-1": "You Have My Sword",
+            "3-2": "Vanquisher Heart",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "b356d5b4abd3ca3b0c3ab25b89e20402",
+        "placement": 3,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Tiny Titans",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "76483da8f6e88e354a97da3c726d8eac",
+        "placement": 2,
+        "augments": {
+            "2-1": "Sorcerer Crown",
+            "3-2": "Tactician's Tools",
+            "4-2": "Sorcerer Heart"
+        }
+    },
+    {
+        "unique_id": "45141ff3596d27706c8a45141ab19313",
+        "placement": 5,
+        "augments": {
+            "2-1": "Tactician's Tools",
+            "3-2": "Tiny Titans",
+            "4-2": "Cybernetic Leech III"
+        }
+    },
+    {
+        "unique_id": "1485843d3a36783f864210bf66aefd61",
+        "placement": 2,
+        "augments": {
+            "2-1": "Vanquisher Crest",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Jeweled Lotus I"
+        }
+    },
+    {
+        "unique_id": "8659f8395add1973f9defc5e0c596c06",
+        "placement": 2,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Healing Orbs I",
+            "4-2": "Pandora's Items II"
+        }
+    },
+    {
+        "unique_id": "fa576bb3d8e10339d3058771208eca7f",
+        "placement": 2,
+        "augments": {
+            "2-1": "Ancient Archives II",
+            "3-2": "Return on Investment",
+            "4-2": "Stable Evolution"
+        }
+    },
+    {
+        "unique_id": "15c1f0b0c11eda6a438da8d87595fe87",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stars are Born",
+            "3-2": "Salvage Bin+",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "de57ae7c741f0fb330d08e2f916f9562",
+        "placement": 3,
+        "augments": {
+            "2-1": "Stationary Support III",
+            "3-2": "Radiant Relics",
+            "4-2": "Ionia Crown"
+        }
+    },
+    {
+        "unique_id": "55662e9a07ad56ee4a2b351c99e0d754",
+        "placement": 1,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "You Have My Bow",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "a07024966d80b3442cbfbcabb94e62ae",
+        "placement": 2,
+        "augments": {
+            "2-1": "Vanquisher Heart",
+            "3-2": "Unified Resistance I",
+            "4-2": "Vanquisher Crown"
+        }
+    },
+    {
+        "unique_id": "1ef74dca698ce4e00e7bc55d905ab123",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Know Your Enemy",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "31c95f0edb54f29bd5bdb8087ff93bc8",
+        "placement": 4,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Cybernetic Leech I",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "1308a74be42213fbd6ddcc8d865cfdf7",
+        "placement": 1,
+        "augments": {
+            "2-1": "Shurima Crown",
+            "3-2": "Harmacist III",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "9d7fd4024b8562b2f8827da7c4453f7e",
+        "placement": 1,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Pandora's Items II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "bde8c77c91ec649508bf447a5c61c33c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Sorcerer Crest",
+            "3-2": "Sorcerer Crown",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "d51d60cdc781e88eec10b29fc57f89bc",
+        "placement": 2,
+        "augments": {
+            "2-1": "Bruiser Heart",
+            "3-2": "Idealism",
+            "4-2": "Ancient Archives II"
+        }
+    },
+    {
+        "unique_id": "444c2002fa8cfdc5bbe69b931a42f5cb",
+        "placement": 2,
+        "augments": {
+            "2-1": "Cybernetic Bulk II",
+            "3-2": "Pandora's Items II",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "14133d80295874101a2ef52e0387a78b",
+        "placement": 4,
+        "augments": {
+            "2-1": "Inconsistency",
+            "3-2": "You Have My Bow",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "unique_id": "65202fc78bf452b164e10ad0993ad972",
+        "placement": 3,
+        "augments": {
+            "2-1": "Long Distance Pals II",
+            "3-2": "Cybernetic Leech III",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "unique_id": "b9c8b5acd9240399c17d432439aa568d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Idealism",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "92fae9f68c5415eb8937d1ba8dbcea06",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Bench",
+            "3-2": "Slayer Heart",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "85fe4c246ea31af1e46751a36edf0711",
+        "placement": 2,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Idealism",
+            "4-2": "Ionia Crest"
+        }
+    },
+    {
+        "unique_id": "20d6cf5e4b5c1b75c4d42e90507651e3",
+        "placement": 7,
+        "augments": {
+            "2-1": "The Boss",
+            "3-2": "Pandora's Bench",
+            "4-2": "Adrenaline Rush"
+        }
+    },
+    {
+        "unique_id": "3c7eab85502c52b050cd736912750179",
+        "placement": 3,
+        "augments": {
+            "2-1": "Red Buff",
+            "3-2": "Gargantuan Resolve",
+            "4-2": "Salvage Bin+"
+        }
+    },
+    {
+        "unique_id": "7060e1b90dccd33dc42ca78160abe1d1",
+        "placement": 4,
+        "augments": {
+            "2-1": "Risky Moves",
+            "3-2": "Dedication",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "496f1e6aada441d23d567fde83e0045e",
+        "placement": 2,
+        "augments": {
+            "2-1": "Not Today",
+            "3-2": "Pandora's Items",
+            "4-2": "Long Distance Pals II"
+        }
+    },
+    {
+        "unique_id": "d7e5f85d1dffdb7ce18be02e3d52308a",
+        "placement": 4,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Pandora's Bench",
+            "4-2": "Petricite Shackles"
+        }
+    },
+    {
+        "unique_id": "ff0e629243ff706011a07b299dd3eeca",
+        "placement": 7,
+        "augments": {
+            "2-1": "Dedication",
+            "3-2": "Tiny Titans",
+            "4-2": "Vanquisher Crest"
+        }
+    },
+    {
+        "unique_id": "61e9b7890cf9262e451ae320275c3586",
+        "placement": 2,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Pandora's Items",
+            "4-2": "Long Distance Pals II"
+        }
+    },
+    {
+        "unique_id": "f9ff992868a94e39df022bdeb444b8aa",
+        "placement": 1,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Pandora's Bench",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "f5871569e713315f9283c05fd368b052",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Salvage Bin+",
+            "4-2": "Juggernaut Crest"
+        }
+    },
+    {
+        "unique_id": "c054a650165e035afa2de5df6bad82e9",
+        "placement": 1,
+        "augments": {
+            "2-1": "The Boss",
+            "3-2": "Healing Orbs II",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "unique_id": "5418dbaffb733b24baf20eb41aaa4d17",
+        "placement": 7,
+        "augments": {
+            "2-1": "Shurima Crest",
+            "3-2": "Harmacist II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "c068aebee788ab6aaae307486654e9cf",
+        "placement": 6,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Tactician's Tools",
+            "4-2": "Indomitable Will"
+        }
+    },
+    {
+        "unique_id": "b3ccc14f27ad45d47436727b7eb04194",
+        "placement": 8,
+        "augments": {
+            "2-1": "Living Forge",
+            "3-2": "Gunner Heart",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "8e11dc86258acfdf4932095f1a878c6b",
+        "placement": 6,
+        "augments": {
+            "2-1": "Demonflare",
+            "3-2": "Golden Ticket",
+            "4-2": "Pandora's Items"
+        }
+    },
+    {
+        "unique_id": "da590fdaa930b5f170a661b9a27ef101",
+        "placement": 2,
+        "augments": {
+            "2-1": "Dedication",
+            "3-2": "Harmacist I",
+            "4-2": "Infusion"
+        }
+    },
+    {
+        "unique_id": "ca4a6b0fd7ea3e3eec18040615ec8ced",
+        "placement": 4,
+        "augments": {
+            "2-1": "Bilgewater Crest",
+            "3-2": "Blinding Speed",
+            "4-2": "Red Buff"
+        }
+    },
+    {
+        "unique_id": "3896fb9d3fd20fc6190ea1cff4f15b1b",
+        "placement": 4,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Radiant Relics",
+            "4-2": "Pandora's Items"
+        }
+    },
+    {
+        "unique_id": "fcb6f7f23040363d3c51d2c43403d80d",
+        "placement": 5,
+        "augments": {
+            "2-1": "Ancient Archives I",
+            "3-2": "Idealism",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "e391e1285ee64e66c3702e641fa615e6",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unified Resistance II",
+            "3-2": "Pandora's Bench",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "c2336bed12e68e483802916f83539501",
+        "placement": 1,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Tactician's Tools",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "75e11bbb0688e3f85147b1f4306ec64c",
+        "placement": 3,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Ancient Archives II",
+            "4-2": "Pandora's Items"
+        }
+    },
+    {
+        "unique_id": "f008043ffde7c3b07268a261e9edf79d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Jeweled Lotus I",
+            "3-2": "Salvage Bin+",
+            "4-2": "What The Forge"
+        }
+    },
+    {
+        "unique_id": "7916fa8fd173f9d2d1cfc5e588152c95",
+        "placement": 4,
+        "augments": {
+            "2-1": "Spoils of War I",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Pandora's Items II"
+        }
+    },
+    {
+        "unique_id": "e9c32fb2f8d9f0ba074eec81bb120813",
+        "placement": 1,
+        "augments": {
+            "2-1": "Void Crest",
+            "3-2": "Void Crown",
+            "4-2": "Pandora's Bench"
+        }
+    },
+    {
+        "unique_id": "9eff16f450dfc3265c5095439ca75d69",
+        "placement": 2,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Dedication",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "c0a66727ef4a6639c7d3a5c6342e2272",
+        "placement": 2,
+        "augments": {
+            "2-1": "Cybernetic Leech I",
+            "3-2": "Gifts from the Fallen",
+            "4-2": "Pandora's Box"
+        }
+    },
+    {
+        "unique_id": "b738ae84d92c8fbc657c03f827735837",
+        "placement": 4,
+        "augments": {
+            "2-1": "Army Building",
+            "3-2": "Magic Wand",
+            "4-2": "Targon Heart"
+        }
+    },
+    {
+        "unique_id": "629f2101c8c5016c22e012695a55098f",
+        "placement": 8,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Dedication",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "9fdfdb400b34c00856aca20da7c16e09",
+        "placement": 6,
+        "augments": {
+            "2-1": "Challenger Heart",
+            "3-2": "Defensive Dash",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "eb000c14afcb8d824721c552091d864b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Ravenous Hunter",
+            "3-2": "Unknown Augment",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "18ecb68f7406623d8f592d34ab476cb9",
+        "placement": 1,
+        "augments": {
+            "2-1": "Dedication",
+            "3-2": "Unified Resistance I",
+            "4-2": "Shurima Crest"
+        }
+    },
+    {
+        "unique_id": "473bf8e530d2ec3b3c173edb363d8780",
+        "placement": 7,
+        "augments": {
+            "2-1": "Ravenous Hunter",
+            "3-2": "Transfusion I",
+            "4-2": "Adrenaline Rush"
+        }
+    },
+    {
+        "unique_id": "f7a8ed323da29b46df2109cace1cace6",
+        "placement": 2,
+        "augments": {
+            "2-1": "Shimmering Inventors",
+            "3-2": "Tiny Titans",
+            "4-2": "Zaun Crest"
+        }
+    },
+    {
+        "unique_id": "14b1f53f05d812a4cbfd97cd06d5fe4a",
+        "placement": 2,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Bastion Crown",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "bd76c7e719360b797f690785a5642b15",
+        "placement": 2,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Unified Resistance I"
+        }
+    },
+    {
+        "unique_id": "6889679c200e6d829e4861c0b353ec2f",
+        "placement": 4,
+        "augments": {
+            "2-1": "Riftwalk",
+            "3-2": "Long Distance Pals II",
+            "4-2": "Salvage Bin+"
+        }
+    },
+    {
+        "unique_id": "0020f4d8c7c2e1659a79cab691ff82ad",
+        "placement": 6,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Harmacist I",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "a1e020dc7c98c496594914f16cb05a47",
+        "placement": 1,
+        "augments": {
+            "2-1": "Ancient Archives II",
+            "3-2": "Cursed Crown",
+            "4-2": "Ionia Crown"
+        }
+    },
+    {
+        "unique_id": "45334796d714ac134566f0dedad7b54c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Tactician's Tools",
+            "4-2": "Vanquisher Heart"
+        }
+    },
+    {
+        "unique_id": "3201ee35d70712c52afb0114223fe023",
+        "placement": 3,
+        "augments": {
+            "2-1": "Sorcerer Crest",
+            "3-2": "Radiant Relics",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "778d0cb74f03d3c1d618a5eb5f3adb4b",
+        "placement": 3,
+        "augments": {
+            "2-1": "Total Domination",
+            "3-2": "Roll The Dice",
+            "4-2": "Noxus Crest"
+        }
+    },
+    {
+        "unique_id": "bc21090ba9be6d3622d0c09c77e44c16",
+        "placement": 3,
+        "augments": {
+            "2-1": "Stable Evolution",
+            "3-2": "Healing Orbs I",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "f7e9123e69b69b42b94aa85a337595f2",
+        "placement": 4,
+        "augments": {
+            "2-1": "Demacia Crown",
+            "3-2": "Shoplifting",
+            "4-2": "Demacia Crest"
+        }
+    },
+    {
+        "unique_id": "3e542664e9123280f645df55140b1625",
+        "placement": 1,
+        "augments": {
+            "2-1": "Riftwalk",
+            "3-2": "Ancient Archives II",
+            "4-2": "Long Distance Pals II"
+        }
+    },
+    {
+        "unique_id": "a04a400feeee6a3746b1d26dca0d65fd",
+        "placement": 2,
+        "augments": {
+            "2-1": "Ancient Archives I",
+            "3-2": "Tactician's Tools",
+            "4-2": "Vanquisher Heart"
+        }
+    },
+    {
+        "unique_id": "fd801e7d5a7fe553964fca99e1b7e577",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Ancient Archives I",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "63617c69621c7a2d840934f718fcf3a6",
+        "placement": 1,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Shoplifting",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "f005d156dcb80c81adc2ab8b40a95654",
+        "placement": 8,
+        "augments": {
+            "2-1": "Double Trouble III",
+            "3-2": "Binary Airdrop",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "dd7552023ebbd31a02cfa2c4f0204c90",
+        "placement": 2,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Long Distance Pals II",
+            "4-2": "Void Crown"
+        }
+    },
+    {
+        "unique_id": "e52a1ceae8edd48f7b947cacb7456ea1",
+        "placement": 2,
+        "augments": {
+            "2-1": "Living Forge",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Sorcerer Crest"
+        }
+    },
+    {
+        "unique_id": "a736c6928575e7a939d971d624d37030",
+        "placement": 1,
+        "augments": {
+            "2-1": "Total Domination",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Noxus Crest"
+        }
+    },
+    {
+        "unique_id": "ebc47cecf10d738f77d1ee9d3ea9c228",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Cursed Crown",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "f79f5572e9f56867f919c82871692716",
+        "placement": 3,
+        "augments": {
+            "2-1": "Ancient Archives II",
+            "3-2": "Tiniest Titan+",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "c9fba3ca9b3278002408739966dc1181",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Binary Airdrop",
+            "4-2": "Juggernaut Crown"
+        }
+    },
+    {
+        "unique_id": "006b3f8f93493d498adb338568e25d0c",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Defensive Dash",
+            "4-2": "Challenger Crest"
+        }
+    },
+    {
+        "unique_id": "05ae69fbbcf7d1e9492c44e7f9af7195",
+        "placement": 8,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Box",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "unique_id": "f2bfa7f8a52444b3e522b3913cc74de6",
+        "placement": 8,
+        "augments": {
+            "2-1": "Unified Resistance II",
+            "3-2": "Pandora's Bench",
+            "4-2": "Social Distancing II"
+        }
+    },
+    {
+        "unique_id": "a7497056e5ba440e92e90c83490226c3",
+        "placement": 5,
+        "augments": {
+            "2-1": "Demonflare",
+            "3-2": "Unleashed Arcana",
+            "4-2": "Pandora's Items"
+        }
+    }
+]

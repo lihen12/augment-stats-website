@@ -433,3 +433,62 @@ Stacktrace:
 
 2023-11-17 03:03:59,883:INFO:Augment mapping creation finished.
 2023-11-17 03:24:39,907:INFO:Data collection complete.
+2023-11-27 15:55:44,076:INFO:Fetching top players from the leaderboard...
+2023-11-27 15:55:48,391:INFO:Leaderboard loaded.
+2023-11-27 15:55:52,707:INFO:Starting to create augment mapping...
+2023-11-27 15:55:57,658:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=119.0.6045.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6ED4282B2+55298]
+	(No symbol) [0x00007FF6ED395E02]
+	(No symbol) [0x00007FF6ED2505AB]
+	(No symbol) [0x00007FF6ED29175C]
+	(No symbol) [0x00007FF6ED2918DC]
+	(No symbol) [0x00007FF6ED28819C]
+	(No symbol) [0x00007FF6ED2B20EF]
+	(No symbol) [0x00007FF6ED2880CF]
+	(No symbol) [0x00007FF6ED2B22C0]
+	(No symbol) [0x00007FF6ED2CAAA4]
+	(No symbol) [0x00007FF6ED2B1E83]
+	(No symbol) [0x00007FF6ED28670A]
+	(No symbol) [0x00007FF6ED287964]
+	GetHandleVerifier [0x00007FF6ED7A0AAB+3694587]
+	GetHandleVerifier [0x00007FF6ED7F728E+4048862]
+	GetHandleVerifier [0x00007FF6ED7EF173+4015811]
+	GetHandleVerifier [0x00007FF6ED4C47D6+695590]
+	(No symbol) [0x00007FF6ED3A0CE8]
+	(No symbol) [0x00007FF6ED39CF34]
+	(No symbol) [0x00007FF6ED39D062]
+	(No symbol) [0x00007FF6ED38D3A3]
+	BaseThreadInitThunk [0x00007FFAC66F7344+20]
+	RtlUserThreadStart [0x00007FFAC84026B1+33]
+
+2023-11-27 15:55:57,664:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=119.0.6045.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6ED4282B2+55298]
+	(No symbol) [0x00007FF6ED395E02]
+	(No symbol) [0x00007FF6ED2505AB]
+	(No symbol) [0x00007FF6ED29175C]
+	(No symbol) [0x00007FF6ED2918DC]
+	(No symbol) [0x00007FF6ED28819C]
+	(No symbol) [0x00007FF6ED2B20EF]
+	(No symbol) [0x00007FF6ED2880CF]
+	(No symbol) [0x00007FF6ED2B22C0]
+	(No symbol) [0x00007FF6ED2CAAA4]
+	(No symbol) [0x00007FF6ED2B1E83]
+	(No symbol) [0x00007FF6ED28670A]
+	(No symbol) [0x00007FF6ED287964]
+	GetHandleVerifier [0x00007FF6ED7A0AAB+3694587]
+	GetHandleVerifier [0x00007FF6ED7F728E+4048862]
+	GetHandleVerifier [0x00007FF6ED7EF173+4015811]
+	GetHandleVerifier [0x00007FF6ED4C47D6+695590]
+	(No symbol) [0x00007FF6ED3A0CE8]
+	(No symbol) [0x00007FF6ED39CF34]
+	(No symbol) [0x00007FF6ED39D062]
+	(No symbol) [0x00007FF6ED38D3A3]
+	BaseThreadInitThunk [0x00007FFAC66F7344+20]
+	RtlUserThreadStart [0x00007FFAC84026B1+33]
+
+2023-11-27 15:56:00,664:INFO:Augment mapping creation finished.
+2023-11-27 16:15:06,904:INFO:Data collection complete.

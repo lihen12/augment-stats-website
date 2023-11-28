@@ -1,0 +1,902 @@
+[
+    {
+        "unique_id": "1c851729bc3e12f9b1eb1b0cb97d4b64",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Items II",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "65152ce1660a25b92c046d2443c69879",
+        "placement": 7,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Jeweled Lotus I",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "ab3a091bb5870a6c892c7a968e6f1296",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Rogue Crest",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "94e65c07e26001db58b85bd750853167",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Bench",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "unique_id": "c3ca885d424c54fea2a0ddf9f7df89aa",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "What The Forge",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "bc4a0696f61a2fd7a996cd1f7feed8c6",
+        "placement": 1,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "You Have My Sword",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "be2b8ed32b481ebbc02ad84f4c01ce37",
+        "placement": 6,
+        "augments": {
+            "2-1": "Final Reserves",
+            "3-2": "Red Buff",
+            "4-2": ""
+        }
+    },
+    {
+        "unique_id": "2e19a0eed74bfd49148e2768cfdf0196",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Red Buff"
+        }
+    },
+    {
+        "unique_id": "cae352b618b93f265c63333dc55dbb37",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "unique_id": "0fa7213819a52bea8303035e21f4891c",
+        "placement": 1,
+        "augments": {
+            "2-1": "Jeweled Lotus II",
+            "3-2": "Bilgewater Crest",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "unique_id": "1443eec164f5af571dfbfe61cc43312b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Sorcerer Heart",
+            "4-2": "Golden Ticket"
+        }
+    },
+    {
+        "unique_id": "0112d129fce89590c2674bc803445d5e",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Level Up!",
+            "4-2": "Red Buff"
+        }
+    },
+    {
+        "unique_id": "8537eb004005aaddb5cc583e6f153a78",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "8e91fb80cdd86815d954386028c636d8",
+        "placement": 7,
+        "augments": {
+            "2-1": "",
+            "3-2": "",
+            "4-2": ""
+        }
+    },
+    {
+        "unique_id": "8c361cab07710929a67f2303184fcaf6",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Bronze Ticket",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "b0b34fa83c00d7396cd7c698e895b143",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Tactician's Tools",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "59e9793f1c0f3baa4de01ba69f1ce04a",
+        "placement": 7,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Stable Evolution"
+        }
+    },
+    {
+        "unique_id": "c5e6c0ecbd21b15a61dd842c8727421f",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unified Resistance II",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "78a1f77358ff27b07cc98580c201f455",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Red Buff",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "57f14d3182991c3f2946f46a4cde3520",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Chemtech Enhancements",
+            "4-2": "Zaun Crown"
+        }
+    },
+    {
+        "unique_id": "e2928871c8872482964d818d5bad6e82",
+        "placement": 7,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "The Boss",
+            "4-2": "Vanquisher Crest"
+        }
+    },
+    {
+        "unique_id": "df55f5b7e717ed881746c3bb3339e1a2",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Tiny Titans",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "77a1e719a9e80135e383f9531a0137c8",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Indomitable Will",
+            "4-2": "What The Forge"
+        }
+    },
+    {
+        "unique_id": "9e6986bbb517178654445363bfc51c55",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "9f73a932dd9e65c818accb7ea416d5a3",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "a24142bb911679a06de23f9fb9bafa0e",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Frequent Flier",
+            "4-2": "Perfected Repetition"
+        }
+    },
+    {
+        "unique_id": "b88d06eb81bd52fa82199334b90bf90b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Hedge Fund+",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "a20abaa960382416a75867a139f9216b",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "You Have My Bow",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "1e7379dbe8c4da5695f40c2f9dd8c85a",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Items",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "f71e369271474ff556488934262a90d2",
+        "placement": 3,
+        "augments": {
+            "2-1": "Sorcerer Heart",
+            "3-2": "Support Cache",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "4b62016a991ffcfb7e9b248e700ee464",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Vanquisher Crest",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "a621e50570ce4e19ce47e1d0d6dff2cd",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Level Up!",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "58d1047607ab8d707a977c4a2c9428ad",
+        "placement": 2,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Frequent Flier",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "2bfa0b7ec7e997684cd97e373b681c6e",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Martyr",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "a143e7b35c8a1b02cd4e0552f82d995d",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Items",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "unique_id": "ff20af7017bb456cca626aaf826d35cb",
+        "placement": 8,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Transfusion I",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "ced2bcce97eb094e7bf988648edc5ad8",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "You Have My Bow",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "adca3269b798eae00ec1eb05795ceb94",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Last Stand",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "5c2c466463fffe8d230013235dc5694a",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Invoker Crest",
+            "4-2": "Bastion Crest"
+        }
+    },
+    {
+        "unique_id": "29b08839844ede268ac7e0d6632ebe44",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Invoker Crest",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "f5d70ebf2f91ddfcd4c3e71836412e22",
+        "placement": 1,
+        "augments": {
+            "2-1": "Demacia Crown",
+            "3-2": "Cybernetic Leech II",
+            "4-2": "Demacia Crest"
+        }
+    },
+    {
+        "unique_id": "565bfea1528dc82d1553c7e638e8f3f6",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Golden Ticket",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "6a7f85dbd88f64b492d11469501e0df3",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Dedication",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "01713198af05dfbc31411fba4ff567ef",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Martyr",
+            "4-2": "What The Forge"
+        }
+    },
+    {
+        "unique_id": "b686e8d6356b908a7a20f3259b9c934b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Items",
+            "4-2": "Slayer Crown"
+        }
+    },
+    {
+        "unique_id": "45c61ef06ddac2e6266534812fc31ae1",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Indomitable Will",
+            "4-2": "Demacia Crest"
+        }
+    },
+    {
+        "unique_id": "e4c3548269f4cc66480f11fbe5153f55",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Salvage Bin+",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "28b29001908dc4f861c95f77ed756228",
+        "placement": 5,
+        "augments": {
+            "2-1": "Pandora's Bench",
+            "3-2": "Unified Resistance I",
+            "4-2": "Perfected Repetition"
+        }
+    },
+    {
+        "unique_id": "411f8b05d64daa1faf22de92bb762eb8",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Transfusion II",
+            "4-2": "Loving Invocation"
+        }
+    },
+    {
+        "unique_id": "c2c63887856270bdddd42d133dbf4d31",
+        "placement": 7,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Last Stand",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "9baae517aa1b443e5c23e1f213740d11",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "a1c5c277727aa0bfdc0d3b115dcd650e",
+        "placement": 2,
+        "augments": {
+            "2-1": "Noxus Crest",
+            "3-2": "Jeweled Lotus I",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "bb0b5e4812393bf536df7cac22379637",
+        "placement": 5,
+        "augments": {
+            "2-1": "Piltover Heart",
+            "3-2": "Transfusion I",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "c59627ecc1d40166cc1faa1a83caa149",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Invoker Heart",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "unique_id": "62bbbdf7168861e6b7699a592359d059",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Stable Evolution",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "fadd4b0375153acd00cc462e0de4b57a",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Pandora's Bench",
+            "4-2": "Demacia Crest"
+        }
+    },
+    {
+        "unique_id": "40654bbab272d075a6965b982f231fd1",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stars are Born",
+            "3-2": "Unknown Augment",
+            "4-2": "Indomitable Will"
+        }
+    },
+    {
+        "unique_id": "473e256ee4a3cb6225b0779318f3f992",
+        "placement": 3,
+        "augments": {
+            "2-1": "Sorcerer Heart",
+            "3-2": "Frequent Flier",
+            "4-2": "Stellacorn's Blessing"
+        }
+    },
+    {
+        "unique_id": "bf3e9a553c46d3f245629c345d5fb613",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Bilgewater Crest",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "57dee9cd1d4635911bf18e6848b03392",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Bruiser Crest",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "fabc1a84749adfc5c817e2ea31323838",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Contagion",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "5dfec6d757f170aa225e1fd1188488b6",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Three's a Crowd",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "13db10780a24e0e25d36c160aa5d48f7",
+        "placement": 8,
+        "augments": {
+            "2-1": "Bilgewater Crown",
+            "3-2": "Level Up!",
+            "4-2": "Tactician's Tools"
+        }
+    },
+    {
+        "unique_id": "de9d43b6648b43040725213d1185e305",
+        "placement": 3,
+        "augments": {
+            "2-1": "Early Education",
+            "3-2": "On a Roll",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "64b94b5db13b78cb700a7704e2619535",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Bruiser Crest"
+        }
+    },
+    {
+        "unique_id": "2970aac5b94c92b633cc9517af431357",
+        "placement": 7,
+        "augments": {
+            "2-1": "You Have My Bow",
+            "3-2": "Return on Investment",
+            "4-2": "Bastion Crown"
+        }
+    },
+    {
+        "unique_id": "eae32d6eb7f3f3a9438d60b14904d212",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Red Buff",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "abd9fb3955d4fa606e569b9b75fc1680",
+        "placement": 3,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Blinding Speed",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "c7dda875b14567cde123a5ba836dcce3",
+        "placement": 3,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "Bruiser Crown",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "81dc367db70488e1d2a13bdb0f8568e9",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "7434216e5df79e249c43cbdf3f114ea1",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Branching Out",
+            "4-2": "Gifts from the Fallen"
+        }
+    },
+    {
+        "unique_id": "67ce7cfda8fffd2998222f2c24bb8d63",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Blinding Speed",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "e27f7eb0bf9d7582ce09a4678d955676",
+        "placement": 2,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Branching Out",
+            "4-2": "Slayer's Resolve"
+        }
+    },
+    {
+        "unique_id": "7b9a510a9cb3334af5606b6f0bf36783",
+        "placement": 1,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Return on Investment",
+            "4-2": "Ancient Archives II"
+        }
+    },
+    {
+        "unique_id": "d4cff3ad423ca78c94d71999658dc392",
+        "placement": 4,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Bronze Ticket",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "e76e35030d906e9b6ff3e730b5de44a6",
+        "placement": 7,
+        "augments": {
+            "2-1": "Caretaker's Chosen",
+            "3-2": "Social Distancing II",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "44a757d5506a896c9f9c1c29cb6597c2",
+        "placement": 6,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Zaun Heart",
+            "4-2": "Infernal Contract"
+        }
+    },
+    {
+        "unique_id": "3dffc4bb5576629449c4e9a2d73c7039",
+        "placement": 4,
+        "augments": {
+            "2-1": "Double Trouble III",
+            "3-2": "Golden Ticket",
+            "4-2": "Targon Heart"
+        }
+    },
+    {
+        "unique_id": "b7f25262ccd76bf5505397cef9469b00",
+        "placement": 2,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Dedication",
+            "4-2": "Infusion"
+        }
+    },
+    {
+        "unique_id": "fecb0f6bab3975dfa023a648c8c2b089",
+        "placement": 5,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Unknown Augment",
+            "4-2": "Library Card"
+        }
+    },
+    {
+        "unique_id": "13c86db328df3fb9459d08f6cea0d30a",
+        "placement": 3,
+        "augments": {
+            "2-1": "Return on Investment",
+            "3-2": "Jeweled Lotus I",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "0dc163191704fa41e805bcdc5f07a7cd",
+        "placement": 4,
+        "augments": {
+            "2-1": "Hedge Fund",
+            "3-2": "Tiny Titans",
+            "4-2": "Support Cache"
+        }
+    },
+    {
+        "unique_id": "3d82e72ed5d5fd66f5cb7a5c8e9d6c03",
+        "placement": 5,
+        "augments": {
+            "2-1": "Inconsistency",
+            "3-2": "Healing Orbs II",
+            "4-2": "Tactician's Tools"
+        }
+    },
+    {
+        "unique_id": "25e0ec51dba49a7d3790f6763d716ca6",
+        "placement": 5,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "Rich Get Richer+",
+            "4-2": "Strategist Heart"
+        }
+    },
+    {
+        "unique_id": "e1c9ad1c1750b3ee468a52bf20c83e42",
+        "placement": 5,
+        "augments": {
+            "2-1": "Silver Spoon",
+            "3-2": "Social Distancing I",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "fda2d7940cff42259ebb5205988f1ded",
+        "placement": 4,
+        "augments": {
+            "2-1": "Caretaker's Chosen",
+            "3-2": "Magic Wand",
+            "4-2": "Stationary Support III"
+        }
+    },
+    {
+        "unique_id": "b275d7aa04582a30578f63566521c8fd",
+        "placement": 4,
+        "augments": {
+            "2-1": "Lucky Gloves",
+            "3-2": "Double Trouble III",
+            "4-2": "Golden Ticket"
+        }
+    },
+    {
+        "unique_id": "6223a0ed9906cac7d44e8a5e81d1972e",
+        "placement": 6,
+        "augments": {
+            "2-1": "Healing Orbs I",
+            "3-2": "Unified Resistance II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "44719f3e95072f954a3f62f4f3dc3c90",
+        "placement": 4,
+        "augments": {
+            "2-1": "Inconsistency",
+            "3-2": "Last Stand",
+            "4-2": "Sorcerer Crest"
+        }
+    },
+    {
+        "unique_id": "84ba6cb524f33df81c8431ec41b1c599",
+        "placement": 6,
+        "augments": {
+            "2-1": "Early Education",
+            "3-2": "Army Building",
+            "4-2": "Social Distancing II"
+        }
+    },
+    {
+        "unique_id": "cd5a66a217582dd1e503f34ed4558a9c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Pandora's Bench",
+            "3-2": "Stable Evolution",
+            "4-2": "Void Crown"
+        }
+    },
+    {
+        "unique_id": "226676b0ae5887a0faf0c0efa9b31726",
+        "placement": 8,
+        "augments": {
+            "2-1": "You Have My Sword",
+            "3-2": "Last Stand",
+            "4-2": "Salvage Bin+"
+        }
+    },
+    {
+        "unique_id": "82092e3ca0fc4039e57ecd002628aa82",
+        "placement": 5,
+        "augments": {
+            "2-1": "Pandora's Bench",
+            "3-2": "Pandora's Items II",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "263e76a6aa28eddbeab46143d62b8246",
+        "placement": 5,
+        "augments": {
+            "2-1": "Ionia Crest",
+            "3-2": "Ionia Crown",
+            "4-2": "Red Buff"
+        }
+    },
+    {
+        "unique_id": "c496d1f385231e076e0e8e8f5963b86b",
+        "placement": 5,
+        "augments": {
+            "2-1": "Double Trouble II",
+            "3-2": "Multicaster Soul",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "d2a9518e75ca90ecb0e94d1f722a4bcc",
+        "placement": 1,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Final Reserves",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "6c51a220ca51fc806f87f6f597d27c12",
+        "placement": 7,
+        "augments": {
+            "2-1": "Caretaker's Ally",
+            "3-2": "Ancient Archives I",
+            "4-2": "Cybernetic Leech II"
+        }
+    },
+    {
+        "unique_id": "ead213eed5f0d2862ad9b27a3fcf23e9",
+        "placement": 1,
+        "augments": {
+            "2-1": "Slayer Heart",
+            "3-2": "Vampiric Blades",
+            "4-2": "Social Distancing III"
+        }
+    },
+    {
+        "unique_id": "51a1e7a1789b7947db4d4adb80690cbf",
+        "placement": 1,
+        "augments": {
+            "2-1": "Demonflare",
+            "3-2": "Golden Ticket",
+            "4-2": "Healing Orbs I"
+        }
+    },
+    {
+        "unique_id": "84cf76787378e049c0f35b8eef2b0f27",
+        "placement": 4,
+        "augments": {
+            "2-1": "Ravenous Hunter",
+            "3-2": "Indomitable Will",
+            "4-2": "Unknown Augment"
+        }
+    }
+]

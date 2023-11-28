@@ -4,3 +4,4 @@
 {"level":"error","message":"Error in data insertion: error: there is no unique or exclusion constraint matching the ON CONFLICT specification"}
 {"level":"error","message":"Error in data insertion: Error: The server does not support SSL connections"}
 {"level":"error","message":"Error in data insertion: error: there is no unique or exclusion constraint matching the ON CONFLICT specification"}
+{"level":"error","message":"Error in data insertion: error: relation \"tft_schema.players\" does not exist"}

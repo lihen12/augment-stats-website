@@ -1,0 +1,902 @@
+[
+    {
+        "unique_id": "3803f2daf4a0365832a9f9605fc3378d",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Emotional Connection",
+            "4-2": "Crown Guarded"
+        }
+    },
+    {
+        "unique_id": "2c66b8ba0a066fa602409213977932c1",
+        "placement": 4,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "488b17725cb5ab216307d06de737fcb7",
+        "placement": 1,
+        "augments": {
+            "2-1": "Metabolic Accelerator",
+            "3-2": "Wellness Trust",
+            "4-2": "Recombobulator"
+        }
+    },
+    {
+        "unique_id": "17bd9d14fa77678acc1e55a3562f01c0",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Keepers II"
+        }
+    },
+    {
+        "unique_id": "9b6182ab66ab5837a681d14df3e36d91",
+        "placement": 6,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Reach The Summit",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "c704d920bbb851721c78a6017f611a3a",
+        "placement": 2,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Support Cache",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "3603a067ac605074a8694a1dcb525647",
+        "placement": 4,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Contagion",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "80ce063f3147771e8e71802cc9acd974",
+        "placement": 5,
+        "augments": {
+            "2-1": "A Cut Above",
+            "3-2": "Hedge Fund+",
+            "4-2": "Balanced Budget II"
+        }
+    },
+    {
+        "unique_id": "89e0c2f094de83b059e30dbd6c116af5",
+        "placement": 5,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Indomitable Will",
+            "4-2": "Blistering Strikes"
+        }
+    },
+    {
+        "unique_id": "dcf5c6a773594a3148ac3f5a9e61627a",
+        "placement": 3,
+        "augments": {
+            "2-1": "Cutting Corners",
+            "3-2": "Big Grab Bag",
+            "4-2": "Double The Funk"
+        }
+    },
+    {
+        "unique_id": "db3dd0050404665af0629fe639f42cc2",
+        "placement": 3,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Idealism",
+            "4-2": "Impenetrable Bulwark"
+        }
+    },
+    {
+        "unique_id": "8831295a4f2538ee8914a76ba7a701a1",
+        "placement": 4,
+        "augments": {
+            "2-1": "Fully Adapted",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Ascension"
+        }
+    },
+    {
+        "unique_id": "b4bf080554868dedd1684b296c53c154",
+        "placement": 8,
+        "augments": {
+            "2-1": "Scape goat",
+            "3-2": "Best Friends I",
+            "4-2": ""
+        }
+    },
+    {
+        "unique_id": "d43100c5a9714d65849882739d2f9d2d",
+        "placement": 8,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Pandora's Items II",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "676183a8e9c4368337ea547d61faedab",
+        "placement": 8,
+        "augments": {
+            "2-1": "Going Long",
+            "3-2": "Final Reserves",
+            "4-2": "Lucky Gloves+"
+        }
+    },
+    {
+        "unique_id": "ecd35f14f0aa5ef137938d9ef56bef27",
+        "placement": 5,
+        "augments": {
+            "2-1": "Ascension",
+            "3-2": "Wellness Trust",
+            "4-2": "Item Grab Bag I"
+        }
+    },
+    {
+        "unique_id": "445fd331fb63d1a068a0114018d04c33",
+        "placement": 1,
+        "augments": {
+            "2-1": "Scape goat",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "32fe763722841751af7ad30f173f5d71",
+        "placement": 3,
+        "augments": {
+            "2-1": "New Recruit",
+            "3-2": "Blinding Speed",
+            "4-2": "What The Forge"
+        }
+    },
+    {
+        "unique_id": "9d48a447c280094cff94d284d5a1da24",
+        "placement": 2,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Contagion",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "unique_id": "394813a099ca9b639805699d3d9944ab",
+        "placement": 7,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Unified Resistance II",
+            "4-2": "Crown Guarded"
+        }
+    },
+    {
+        "unique_id": "034ae9c2347acd8a8352d98981735a71",
+        "placement": 2,
+        "augments": {
+            "2-1": "Pandora's Items III",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Cybernetic Uplink II"
+        }
+    },
+    {
+        "unique_id": "2f2687e8968d92187f292e78ca8d959e",
+        "placement": 7,
+        "augments": {
+            "2-1": "Item Grab Bag I",
+            "3-2": "Frequent Flier",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "69bccc18beaecc2df540a957d02f90c9",
+        "placement": 4,
+        "augments": {
+            "2-1": "Cybernetic Uplink II",
+            "3-2": "Recombobulator",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "69a6fbf14ab74450e82d50280125610e",
+        "placement": 3,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Binary Airdrop",
+            "4-2": "Blank Slate"
+        }
+    },
+    {
+        "unique_id": "33ab728b901968b4cedc1d819d999fd6",
+        "placement": 4,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Idealism",
+            "4-2": "Final Ascension"
+        }
+    },
+    {
+        "unique_id": "73fdbd30a4efbe2d57efb21c571be3f4",
+        "placement": 3,
+        "augments": {
+            "2-1": "Tiny Titans",
+            "3-2": "Pandora's Items",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "470df725603f5e00ec0eafa2133b2b7c",
+        "placement": 4,
+        "augments": {
+            "2-1": "Level Up!",
+            "3-2": "Radiant Relics",
+            "4-2": "Crown Guarded"
+        }
+    },
+    {
+        "unique_id": "9dbec2dedd717d25b50972d1ddbeb491",
+        "placement": 2,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Blistering Strikes",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "9db3d503f796e8d590082d780d214dd2",
+        "placement": 1,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Pandora's Items",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "ebe97aa3084af512bd88b73a5a141aef",
+        "placement": 3,
+        "augments": {
+            "2-1": "Birthday Present",
+            "3-2": "Unleashed Arcana",
+            "4-2": "What The Forge"
+        }
+    },
+    {
+        "unique_id": "947f51ac97c1468293f4e74de18ef949",
+        "placement": 4,
+        "augments": {
+            "2-1": "Going Long",
+            "3-2": "Unknown Augment",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "2560b0b0a2296b48778edb6e32266fcf",
+        "placement": 6,
+        "augments": {
+            "2-1": "Level Up!",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Cybernetic Uplink II"
+        }
+    },
+    {
+        "unique_id": "f7074ddca874dd570df33d2e78ae56fe",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Pandora's Items III"
+        }
+    },
+    {
+        "unique_id": "fbf221fd52bc50e7b78922fe9fcf849d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Good For Something II",
+            "3-2": "You Have My Bow",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "805561f15b55c8b88423fa8f5bdc56a9",
+        "placement": 1,
+        "augments": {
+            "2-1": "Level Up!",
+            "3-2": "Best Friends I",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "2acd2471be620056a564a57adee43105",
+        "placement": 1,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Pandora's Items",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "86484fef46741344d4b04506431cca68",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Indomitable Will",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "57fc0bc9712c593c449b8ebfe6fc3c4f",
+        "placement": 6,
+        "augments": {
+            "2-1": "Golden Ticket",
+            "3-2": "Recombobulator",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "20b4249b74cea6b797a10ab6daedfd02",
+        "placement": 4,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Cybernetic Uplink II",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "d140ae13d484cf3097c824256905a687",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items III",
+            "3-2": "The Ol' Razzle Dazzle",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "e82987a6c642e9042fd3e319e5fe622f",
+        "placement": 6,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Rolling For Days I",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "0b2a8ff9f743c93429d439fb2d765a68",
+        "placement": 1,
+        "augments": {
+            "2-1": "Level Up!",
+            "3-2": "Rich Get Richer+",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "3f703acb3cf3f69643cbc814fa5bd2ca",
+        "placement": 7,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Salvage Bin+",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "81a15ca4cc9f78567796b82066bd9166",
+        "placement": 8,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Contagion",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "cdb74c1fe0d60630724c015d7f7db88b",
+        "placement": 2,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Sleight of Hand",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "cc59af1a36810601feb53b648a819d87",
+        "placement": 5,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Unified Resistance II",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "9d9522d5a536e1deb87ae12b6a956ac6",
+        "placement": 2,
+        "augments": {
+            "2-1": "That's Jazz, Baby!",
+            "3-2": "Teaming Up I",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "bd6120a8b154f33b5a69efecc9a3ea74",
+        "placement": 3,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Healing Orbs II",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "42ac0fc05a67a958d1e53595fa0dbfbf",
+        "placement": 3,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Pandora's Items II",
+            "4-2": "That's Jazz, Baby!"
+        }
+    },
+    {
+        "unique_id": "172b90e124620bdfb2b7fe5ad554e009",
+        "placement": 7,
+        "augments": {
+            "2-1": "Sticks And Stones",
+            "3-2": "Pandora's Items",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "78e661fe0240c30db17bb5c8f1d2cbd6",
+        "placement": 1,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Rich Get Richer+",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "85b2a2ef5b1c64a20990b2250b9825f3",
+        "placement": 6,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Heart throbs",
+            "4-2": "Balanced Budget II"
+        }
+    },
+    {
+        "unique_id": "ac41783ef422474ebdf9f875f2962686",
+        "placement": 1,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Capricious Forge",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "4b6ae2bd0d3274694b6ef6f879b0178e",
+        "placement": 2,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "New Recruit",
+            "4-2": "Healing Orbs I"
+        }
+    },
+    {
+        "unique_id": "86d01183346d5464794736fa483edd4d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Silver Veil",
+            "4-2": "Final Ascension"
+        }
+    },
+    {
+        "unique_id": "b2abd6115550493372ca5f08f77b26ca",
+        "placement": 1,
+        "augments": {
+            "2-1": "Pumping Up III",
+            "3-2": "Pandora's Items",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "f3ab1fec96b47c11e9af96f441a5a846",
+        "placement": 1,
+        "augments": {
+            "2-1": "Low Interest Rates",
+            "3-2": "Gargantuan Resolve",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "245ce186ff96806a099d9fb83b209df6",
+        "placement": 8,
+        "augments": {
+            "2-1": "Pumping Up III",
+            "3-2": "Team Building",
+            "4-2": "Pandora's Items II"
+        }
+    },
+    {
+        "unique_id": "27036f6df27c740aa3aeb9667476cd0b",
+        "placement": 7,
+        "augments": {
+            "2-1": "Silver Spoon",
+            "3-2": "Team Building",
+            "4-2": "The Golden Egg"
+        }
+    },
+    {
+        "unique_id": "39da081aa5a6d0e4d673466b68ce975d",
+        "placement": 3,
+        "augments": {
+            "2-1": "Shock Treatment",
+            "3-2": "Teaming Up I",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "8e53503778cdc3910cf81993512dd935",
+        "placement": 8,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "What The Forge",
+            "4-2": "The Golden Egg"
+        }
+    },
+    {
+        "unique_id": "4289dc766f115f7e7798c5c53ac39cb7",
+        "placement": 5,
+        "augments": {
+            "2-1": "Spoils of War I",
+            "3-2": "Ascension",
+            "4-2": "Phreaky Friday+"
+        }
+    },
+    {
+        "unique_id": "fe568de407b081f89b84801963c6a605",
+        "placement": 6,
+        "augments": {
+            "2-1": "Metabolic Accelerator",
+            "3-2": "Magic Wand",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "68e060500d2e2d344dab894a185d2f6c",
+        "placement": 3,
+        "augments": {
+            "2-1": "Escort Quest",
+            "3-2": "Shock Treatment",
+            "4-2": "Blinged Out"
+        }
+    },
+    {
+        "unique_id": "a318e5784ad9d6c1cde4953ec2391f19",
+        "placement": 6,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Healing Orbs I",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "cbccc528edb777cbd38b805761d8e653",
+        "placement": 6,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Unified Resistance II",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "78f10ea0df34738e0d615a2ef4691b14",
+        "placement": 8,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Partial Ascension",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "1b7bb4db3385fcd0434431051315914f",
+        "placement": 7,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Final Reserves",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "f28975db51095c5f4442500e34397dcf",
+        "placement": 7,
+        "augments": {
+            "2-1": "Parting Gifts",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "bcf8b54343a01e7dbb9ce17c60b44580",
+        "placement": 7,
+        "augments": {
+            "2-1": "Hedge Fund",
+            "3-2": "Contagion",
+            "4-2": "Metal Heads"
+        }
+    },
+    {
+        "unique_id": "4d8a513061d302dce411776d13c55ba3",
+        "placement": 2,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Radiant Relics",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "4b8e4726c62c63674cd8a619529618c8",
+        "placement": 4,
+        "augments": {
+            "2-1": "Stationary Support III",
+            "3-2": "Heroic Presence",
+            "4-2": "Ascension"
+        }
+    },
+    {
+        "unique_id": "d51cdfc0e7b4d4d7b96f2d5d3b4534ab",
+        "placement": 1,
+        "augments": {
+            "2-1": "Fully Adapted",
+            "3-2": "Cybernetic Uplink II",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "26ad6d05ac7259c841f4ef8706d487b6",
+        "placement": 1,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Vampirism I",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "e1a9514513b5a19d466801df943d9677",
+        "placement": 3,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "70b4fed8fef8e07ed3fdcb7f0661b107",
+        "placement": 3,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Blistering Strikes",
+            "4-2": "Roll The Dice"
+        }
+    },
+    {
+        "unique_id": "887b886a44bfadb30da77b285a46f265",
+        "placement": 3,
+        "augments": {
+            "2-1": "Consistency",
+            "3-2": "Crown Guarded",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "11a80e3bfc3e6b0c6fcec6d759de74c2",
+        "placement": 2,
+        "augments": {
+            "2-1": "Cutting Corners",
+            "3-2": "Shock Treatment",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "300cfec4c3ed9b366af423972e6495b7",
+        "placement": 5,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Tiny Titans",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "20393f6933c056ebcafacfb3d4cad540",
+        "placement": 5,
+        "augments": {
+            "2-1": "Crown Guarded",
+            "3-2": "Blistering Strikes",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "d073adb17cd9982a771cb76fb7923c90",
+        "placement": 3,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Unified Resistance II",
+            "4-2": "Unknown Augment"
+        }
+    },
+    {
+        "unique_id": "eefcca489360feee656b85e2310efdc9",
+        "placement": 3,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Tiny Titans",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "0fa4c5b61581ff9f16b02b85a30d7efc",
+        "placement": 7,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Harmacist II",
+            "4-2": "Live For Danger"
+        }
+    },
+    {
+        "unique_id": "287706223a2b7eab45c8f83556c3509a",
+        "placement": 7,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Ascension",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "f5ea4caeb773088c0294f88897f7162f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Pandora's Items III",
+            "3-2": "Recombobulator",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "0b8f635eee50fd216bfd973b6241b2c5",
+        "placement": 1,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "That's Jazz, Baby!",
+            "4-2": "Support Cache"
+        }
+    },
+    {
+        "unique_id": "eba0e757e0fa7ae2f0d37385e74c9ab0",
+        "placement": 5,
+        "augments": {
+            "2-1": "Item Grab Bag I",
+            "3-2": "Rich Get Richer+",
+            "4-2": "Impenetrable Bulwark"
+        }
+    },
+    {
+        "unique_id": "ef3aa9ad0b2c08384c8668ea5090cafd",
+        "placement": 2,
+        "augments": {
+            "2-1": "Lucky Gloves",
+            "3-2": "Rich Get Richer+",
+            "4-2": "The Golden Egg"
+        }
+    },
+    {
+        "unique_id": "bc3f7d95208e4967cda570abef6ca077",
+        "placement": 2,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Unknown Augment",
+            "4-2": "Impenetrable Bulwark"
+        }
+    },
+    {
+        "unique_id": "b50d7ecfa5227affe531d2f5e8acdb40",
+        "placement": 8,
+        "augments": {
+            "2-1": "Metabolic Accelerator",
+            "3-2": "Shock Treatment",
+            "4-2": ""
+        }
+    },
+    {
+        "unique_id": "28fee04de5712d068699cf83fd8f7377",
+        "placement": 5,
+        "augments": {
+            "2-1": "Pandora's Items II",
+            "3-2": "Ascension",
+            "4-2": "Support Cache"
+        }
+    },
+    {
+        "unique_id": "260d82eb6288476bce050ef86a15c522",
+        "placement": 1,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "That's Jazz, Baby!",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "13b3d3600f90b1a93eefde72114053e8",
+        "placement": 2,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Big Grab Bag",
+            "4-2": "You Have My Sword"
+        }
+    },
+    {
+        "unique_id": "c52be5ca5284294292858696b05e7aba",
+        "placement": 5,
+        "augments": {
+            "2-1": "Big Gains",
+            "3-2": "Idealism",
+            "4-2": "Best Friends II"
+        }
+    },
+    {
+        "unique_id": "c09b0d355359eda297017553dade3d8c",
+        "placement": 8,
+        "augments": {
+            "2-1": "New Recruit",
+            "3-2": "Final Reserves",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "8d31f64f9e41f17d38bc1afe524cf1aa",
+        "placement": 2,
+        "augments": {
+            "2-1": "A Cut Above",
+            "3-2": "Radiant Relics",
+            "4-2": "You Have My Sword"
+        }
+    },
+    {
+        "unique_id": "be4fdb8f13705926be420cceccb8331f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Rich Get Richer+",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "38e1fb52a09534a16b63b2094075e79f",
+        "placement": 1,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Gargantuan Resolve",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "a1b0283a89f4fd966d681f965df6e28a",
+        "placement": 3,
+        "augments": {
+            "2-1": "Infusion",
+            "3-2": "Unknown Augment",
+            "4-2": "Long Distance Pals II"
+        }
+    },
+    {
+        "unique_id": "b878e9d0672044017f7e9a29092885c4",
+        "placement": 2,
+        "augments": {
+            "2-1": "Radiant Relics",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Overwhelming Force"
+        }
+    }
+]
