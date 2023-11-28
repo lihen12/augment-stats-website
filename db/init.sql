@@ -41,3 +41,9 @@ CREATE TABLE tft_schema.augment_phase_placement (
     phase TEXT NOT NULL,
     average_placement NUMERIC(10,2)
 );
+
+ALTER TABLE tft_schema.augment_phase_placement
+DROP CONSTRAINT IF EXISTS unique_augment_phase;
+
+ALTER TABLE tft_schema.augment_phase_placement
+ADD CONSTRAINT unique_augment_phase UNIQUE (augment_id, phase);
