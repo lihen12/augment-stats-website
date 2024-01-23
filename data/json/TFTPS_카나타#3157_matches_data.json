@@ -1,5 +1,41 @@
 [
     {
+        "unique_id": "bc875590617a96f734bfe6023bbaa011",
+        "placement": 6,
+        "augments": {
+            "2-1": "Stars are Born",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "e2bb720efd227f774ae06856d37bea27",
+        "placement": 1,
+        "augments": {
+            "2-1": "Scrappy Inventions",
+            "3-2": "Silver Veil",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "08c562d69fe49ad2d9111fc7ab514102",
+        "placement": 3,
+        "augments": {
+            "2-1": "Golden Ticket",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "5dea8ef3c4e404fbbd48087a62ebab83",
+        "placement": 8,
+        "augments": {
+            "2-1": "Harmacist II",
+            "3-2": "Buried Treasures III",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
         "unique_id": "e39b571ea374aff2aef851c486b200b2",
         "placement": 3,
         "augments": {
@@ -861,42 +897,6 @@
             "2-1": "Iron Assets",
             "3-2": "Big Grab Bag",
             "4-2": "Cybernetic Bulk II"
-        }
-    },
-    {
-        "unique_id": "3371bd4cd99da7133aff1bad2198b25b",
-        "placement": 3,
-        "augments": {
-            "2-1": "Stationary Support I",
-            "3-2": "You Have My Sword",
-            "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "957ede1d239fa4f636002a84c6de3af3",
-        "placement": 7,
-        "augments": {
-            "2-1": "Caretaker's Favor",
-            "3-2": "Cybernetic Bulk I",
-            "4-2": "Inspiring Epitaph"
-        }
-    },
-    {
-        "unique_id": "3c4dc86246e0e6c5386653d9bc112507",
-        "placement": 6,
-        "augments": {
-            "2-1": "Buried Treasures I",
-            "3-2": "Unified Resistance I",
-            "4-2": "Overwhelming Force"
-        }
-    },
-    {
-        "unique_id": "62e94d1f3234dbb10722a45692187c6e",
-        "placement": 4,
-        "augments": {
-            "2-1": "Stationary Support III",
-            "3-2": "Cybernetic Bulk I",
-            "4-2": "Heavy Hitters"
         }
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "71eb32c3d0357f090c54fdf00333efe9",
+        "placement": 6,
+        "augments": {
+            "2-1": "Not Today",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
         "unique_id": "278fecc5fe3fdb66fccd24abfcac8262",
         "placement": 3,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "What Doesn't Kill You",
             "3-2": "Stationary Support III",
             "4-2": "Teaming Up II"
-        }
-    },
-    {
-        "unique_id": "0200f722dfea361cc6e7bbcdb0e80605",
-        "placement": 3,
-        "augments": {
-            "2-1": "Scrappy Inventions",
-            "3-2": "Binary Airdrop",
-            "4-2": "Recombobulator"
         }
     }
 ]

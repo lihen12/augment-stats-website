@@ -1,5 +1,23 @@
 [
     {
+        "unique_id": "0661dc026951dca5b63f4db99d4adcc2",
+        "placement": 2,
+        "augments": {
+            "2-1": "Hedge Fund",
+            "3-2": "Team Building",
+            "4-2": "Gift from the fallen"
+        }
+    },
+    {
+        "unique_id": "1a5b61c548e58582e64df60717746bf6",
+        "placement": 4,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Roll The Dice",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
         "unique_id": "dc061f7cea27205049768c8deb1b5db6",
         "placement": 2,
         "augments": {
@@ -879,24 +897,6 @@
             "2-1": "Spoils of War III",
             "3-2": "Little Buddies",
             "4-2": "Inspiring Epitaph"
-        }
-    },
-    {
-        "unique_id": "58163531c233866cbfdabe505ecc72b1",
-        "placement": 3,
-        "augments": {
-            "2-1": "Stimpack",
-            "3-2": "Blistering Strikes",
-            "4-2": "Lucky Gloves+"
-        }
-    },
-    {
-        "unique_id": "84073de2fd9c7ec5e70ed83af5320985",
-        "placement": 5,
-        "augments": {
-            "2-1": "Team Building",
-            "3-2": "Teaming Up I",
-            "4-2": "One, Two, Five!"
         }
     }
 ]

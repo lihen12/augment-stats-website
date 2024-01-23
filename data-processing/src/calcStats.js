@@ -51,7 +51,7 @@ const calculateAndInsertStats = async () => {
     logger.info('Average placement statistics updated.');
 
     // Calculate and Insert Phase-Specific Placement Averages for each Augment
-    res = await client.query(`
+    /*res = await client.query(`
       INSERT INTO tft_schema.augment_phase_placement (augment_id, phase, average_placement, last_updated)
       SELECT augments.augment_id, match_augments.phase, AVG(matches.placement) AS avg_placement, CURRENT_TIMESTAMP
       FROM tft_schema.augments
@@ -59,6 +59,19 @@ const calculateAndInsertStats = async () => {
       JOIN tft_schema.matches ON match_augments.match_id = matches.match_id
       GROUP BY augments.augment_id, match_augments.phase
       ON CONFLICT (id) DO UPDATE 
+      SET average_placement = EXCLUDED.average_placement, last_updated = CURRENT_TIMESTAMP;
+    `);
+    logger.info('Phase-specific placement statistics updated.');*/
+
+    // Calculate and Insert Phase-Specific Placement Averages for each Augment
+    res = await client.query(`
+      INSERT INTO tft_schema.augment_phase_placement (augment_id, phase, average_placement, last_updated)
+      SELECT augments.augment_id, match_augments.phase, AVG(matches.placement) AS avg_placement, CURRENT_TIMESTAMP
+      FROM tft_schema.augments
+      JOIN tft_schema.match_augments ON augments.augment_id = match_augments.augment_id
+      JOIN tft_schema.matches ON match_augments.match_id = matches.match_id
+      GROUP BY augments.augment_id, match_augments.phase
+      ON CONFLICT (augment_id, phase) DO UPDATE 
       SET average_placement = EXCLUDED.average_placement, last_updated = CURRENT_TIMESTAMP;
     `);
     logger.info('Phase-specific placement statistics updated.');

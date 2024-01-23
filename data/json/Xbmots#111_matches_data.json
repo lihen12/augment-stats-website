@@ -1,5 +1,32 @@
 [
     {
+        "unique_id": "47d139fbe396a0d707b19efc1ff077a7",
+        "placement": 7,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Remember Your Roots",
+            "4-2": "Heavy Hitters"
+        }
+    },
+    {
+        "unique_id": "941775d393ca78580db4979e32838df2",
+        "placement": 8,
+        "augments": {
+            "2-1": "Emotional Connection",
+            "3-2": "Frequent Flier",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "e3f75e4768c84316590e6f61f85ba8fc",
+        "placement": 1,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Idealism",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
         "unique_id": "5fe4791d851b7732ea2d2f5a27fb328a",
         "placement": 1,
         "augments": {
@@ -870,33 +897,6 @@
             "2-1": "Roll The Dice",
             "3-2": "Vampirism II",
             "4-2": "Rolling For Days I"
-        }
-    },
-    {
-        "unique_id": "7d3dce44a662967ac69ad3eb20db8573",
-        "placement": 2,
-        "augments": {
-            "2-1": "Radiant Relics",
-            "3-2": "Lucky Gloves+",
-            "4-2": "Harmacist III"
-        }
-    },
-    {
-        "unique_id": "5b3465680ec6b4d7b3b6749c94a06f35",
-        "placement": 8,
-        "augments": {
-            "2-1": "Roll The Dice",
-            "3-2": "Blistering Strikes",
-            "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "1197bcd1c990b4ccac7266c42181e911",
-        "placement": 1,
-        "augments": {
-            "2-1": "Spoils of War I",
-            "3-2": "Harmacist I",
-            "4-2": "Harmacist III"
         }
     }
 ]

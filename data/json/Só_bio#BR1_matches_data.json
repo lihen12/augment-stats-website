@@ -1,5 +1,68 @@
 [
     {
+        "unique_id": "401470730c000ea5f60b7c52524ac4a7",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Tiniest Titan+",
+            "4-2": "Harmacist I"
+        }
+    },
+    {
+        "unique_id": "cc3d9bceb6c0f4c8a82cfb269d1c8be9",
+        "placement": 1,
+        "augments": {
+            "2-1": "Shopping Spree",
+            "3-2": "Silver Veil",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
+        "unique_id": "fde485a6c95d92b54dbd5db3e2e21e99",
+        "placement": 3,
+        "augments": {
+            "2-1": "Insert Coin",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Harmacist I"
+        }
+    },
+    {
+        "unique_id": "858bf92cdea28d8f587043d1e2e663dc",
+        "placement": 2,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Healing Orbs I",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "075ce7d3dba7568be86ebfc5678b19f8",
+        "placement": 2,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "e17d68549a27ba81f9c6d91326a70ccd",
+        "placement": 6,
+        "augments": {
+            "2-1": "Rich Get Richer",
+            "3-2": "Binary Airdrop",
+            "4-2": "Healing Orbs I"
+        }
+    },
+    {
+        "unique_id": "b7d22f10299aa7d6b82a83b5d3b3c917",
+        "placement": 5,
+        "augments": {
+            "2-1": "Escort Quest",
+            "3-2": "New Recruit",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
         "unique_id": "234c93ebf114eebb5fdcf41de0b4c1aa",
         "placement": 2,
         "augments": {
@@ -834,69 +897,6 @@
             "2-1": "Clear Mind",
             "3-2": "Three's a Crowd",
             "4-2": "Prisimatic Ticket"
-        }
-    },
-    {
-        "unique_id": "459558a18076b5f912cef4d3028bf3f4",
-        "placement": 3,
-        "augments": {
-            "2-1": "Shopping Spree",
-            "3-2": "Big Grab Bag",
-            "4-2": "New Recruit"
-        }
-    },
-    {
-        "unique_id": "63267b924ce22e95ec0b181b486c637d",
-        "placement": 6,
-        "augments": {
-            "2-1": "Spoils of War I",
-            "3-2": "Blistering Strikes",
-            "4-2": "Jeweled Lotus III"
-        }
-    },
-    {
-        "unique_id": "6d0985ce27523bf396329fb0bed96c80",
-        "placement": 2,
-        "augments": {
-            "2-1": "On a Roll",
-            "3-2": "Missed Connections",
-            "4-2": "The Golden Egg"
-        }
-    },
-    {
-        "unique_id": "7bc5d4b9dd44ec4628c2c283617a573f",
-        "placement": 2,
-        "augments": {
-            "2-1": "Escort Quest",
-            "3-2": "Portable Forge++",
-            "4-2": "Remember Your Roots"
-        }
-    },
-    {
-        "unique_id": "9668849c0c0ac1182883ab07b176b9ff",
-        "placement": 8,
-        "augments": {
-            "2-1": "Phreaky Friday",
-            "3-2": "Team Building",
-            "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "8dc3ffbf48b17cfbc9043b86494dbcb4",
-        "placement": 5,
-        "augments": {
-            "2-1": "Escort Quest",
-            "3-2": "Unified Resistance I",
-            "4-2": "Phreaky Friday+"
-        }
-    },
-    {
-        "unique_id": "4b1ab48ee6e207e783cab63bb12d872f",
-        "placement": 2,
-        "augments": {
-            "2-1": "Scrappy Inventions",
-            "3-2": "Cybernetic Bulk II",
-            "4-2": "Salvage Bin+"
         }
     }
 ]

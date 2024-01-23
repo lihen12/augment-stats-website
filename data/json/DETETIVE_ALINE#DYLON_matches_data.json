@@ -1,5 +1,23 @@
 [
     {
+        "unique_id": "9af285fb0ae31923f1099ca94f6d92c7",
+        "placement": 4,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
+        "unique_id": "1d02a3fec83d6dff85126eebc80ff23b",
+        "placement": 5,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Lucky Gloves+",
+            "4-2": "Double The Funk"
+        }
+    },
+    {
         "unique_id": "6b397ff8297a191926a071fba7de9c6d",
         "placement": 1,
         "augments": {
@@ -879,24 +897,6 @@
             "2-1": "Living Forge",
             "3-2": "Idealism",
             "4-2": "Teaming Up II"
-        }
-    },
-    {
-        "unique_id": "672e033c11c738f32a472c9a0fc8d2a0",
-        "placement": 4,
-        "augments": {
-            "2-1": "Pumping Up I",
-            "3-2": "Inspiring Epitaph",
-            "4-2": "Gift from the fallen"
-        }
-    },
-    {
-        "unique_id": "2c3d91f4cb4a94c621e1fe004a1769c1",
-        "placement": 6,
-        "augments": {
-            "2-1": "Silver Spoon",
-            "3-2": "Sticks And Stones",
-            "4-2": "Crown Guarded"
         }
     }
 ]

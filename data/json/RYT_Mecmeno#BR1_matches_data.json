@@ -1,5 +1,59 @@
 [
     {
+        "unique_id": "713172a2279152bcc582c530e7368f98",
+        "placement": 2,
+        "augments": {
+            "2-1": "Emotional Connection",
+            "3-2": "Buried Treasures III",
+            "4-2": "Harmacist I"
+        }
+    },
+    {
+        "unique_id": "ffb6e5c2b202b895d4660ba57122340f",
+        "placement": 1,
+        "augments": {
+            "2-1": "Lucky Gloves",
+            "3-2": "Late game Specialist",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "65627502e636d3ae1543ecf0d27bd763",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Little Buddies",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "d334ffade47d8247a690df248dbb3fb1",
+        "placement": 4,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Determined investors",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "f7c6f74435b34bd08c7253f2b07c390f",
+        "placement": 5,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Crash Test Dummies",
+            "4-2": "Talent Search"
+        }
+    },
+    {
+        "unique_id": "010789cc7ed193a011fcf3972d880404",
+        "placement": 7,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "Twin Terror II",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
         "unique_id": "3644e11cfa314f78204180dd353974a9",
         "placement": 4,
         "augments": {
@@ -843,60 +897,6 @@
             "2-1": "Rich Get Richer",
             "3-2": "Stationary Support III",
             "4-2": "Jeweled Lotus II"
-        }
-    },
-    {
-        "unique_id": "b7459320831012aaaa130ac4b55ee2f3",
-        "placement": 5,
-        "augments": {
-            "2-1": "Pandora's Items",
-            "3-2": "Crash Test Dummies",
-            "4-2": "Blinged Out"
-        }
-    },
-    {
-        "unique_id": "7c70ff80b0e8b535c1109674d9ed0596",
-        "placement": 7,
-        "augments": {
-            "2-1": "Lucky Streak",
-            "3-2": "Partial Ascension",
-            "4-2": "You Have My Sword"
-        }
-    },
-    {
-        "unique_id": "4c0ddd8d5aefdb6f346086bac85495a3",
-        "placement": 1,
-        "augments": {
-            "2-1": "Patient Study",
-            "3-2": "Vampirism II",
-            "4-2": "Jeweled Lotus II"
-        }
-    },
-    {
-        "unique_id": "0a5ef6475dc2e11434373b293aa49513",
-        "placement": 2,
-        "augments": {
-            "2-1": "Stationary Support II",
-            "3-2": "Buried Treasures III",
-            "4-2": "Cybernetic Bulk I"
-        }
-    },
-    {
-        "unique_id": "234cab68c1fdd4c14018573c2e02ef2b",
-        "placement": 2,
-        "augments": {
-            "2-1": "Inspiring Epitaph",
-            "3-2": "Vampirism I",
-            "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "e7ef3d9d0797c52a4c975ed69e0255a9",
-        "placement": 2,
-        "augments": {
-            "2-1": "Crown Guarded",
-            "3-2": "Stationary Support III",
-            "4-2": "Expose Weakness"
         }
     }
 ]

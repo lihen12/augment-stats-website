@@ -1,5 +1,50 @@
 [
     {
+        "unique_id": "101a6659806fca0a6deb53f6f5bc17d1",
+        "placement": 5,
+        "augments": {
+            "2-1": "Patient Study",
+            "3-2": "Blistering Strikes",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "6c7d3528df3fd0b01c6c4c411d6be957",
+        "placement": 1,
+        "augments": {
+            "2-1": "Escort Quest",
+            "3-2": "Best Friends I",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "909403574586b58b5d4f2ac40d66cfa3",
+        "placement": 5,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "That's Jazz, Baby!",
+            "4-2": "Overwhelming Force"
+        }
+    },
+    {
+        "unique_id": "cb5d7a7bda3af63a2aaf543613202bab",
+        "placement": 2,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "Binary Airdrop",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "41a192a5b048eaf9d165d96a57dc5084",
+        "placement": 6,
+        "augments": {
+            "2-1": "Unified Resistance I",
+            "3-2": "Capricious Forge",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
         "unique_id": "af4e1da3acdfc1c5aa188a81d706ef37",
         "placement": 3,
         "augments": {
@@ -852,51 +897,6 @@
             "2-1": "Three's Company",
             "3-2": "Parting Gifts",
             "4-2": "Martyr"
-        }
-    },
-    {
-        "unique_id": "ea8061029c8cf981fb92c31df0427096",
-        "placement": 4,
-        "augments": {
-            "2-1": "Pumping Up III",
-            "3-2": "Determined investors",
-            "4-2": "Know Your Enemy"
-        }
-    },
-    {
-        "unique_id": "dc8fb3f7443cac084393adcf23856ba4",
-        "placement": 8,
-        "augments": {
-            "2-1": "Best Friends I",
-            "3-2": "Teaming Up II",
-            "4-2": "What The Forge"
-        }
-    },
-    {
-        "unique_id": "3bf03d381874e8277dd03a18eb26e6d7",
-        "placement": 8,
-        "augments": {
-            "2-1": "Scape goat",
-            "3-2": "Golden Ticket",
-            "4-2": "Know Your Enemy"
-        }
-    },
-    {
-        "unique_id": "2450c3cba10b8337d11663a2a573b535",
-        "placement": 1,
-        "augments": {
-            "2-1": "What Doesn't Kill You",
-            "3-2": "Phreaky Friday+",
-            "4-2": "Little Buddies"
-        }
-    },
-    {
-        "unique_id": "25f1f5bc216a8abf482ba1d79d9e1828",
-        "placement": 8,
-        "augments": {
-            "2-1": "Help Is On The Way",
-            "3-2": "Team Building",
-            "4-2": "Portable Forge++"
         }
     }
 ]

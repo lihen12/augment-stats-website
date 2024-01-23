@@ -1,5 +1,23 @@
 [
     {
+        "unique_id": "cd6ede5f86bc794d05880999d331c829",
+        "placement": 1,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Inspiring Epitaph",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "6d79649f0e76ff0a1f4259daaf3f30ee",
+        "placement": 5,
+        "augments": {
+            "2-1": "Escort Quest",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Rolling For Days I"
+        }
+    },
+    {
         "unique_id": "f66c4bca3f856540c7f3d40d826e9d69",
         "placement": 2,
         "augments": {
@@ -879,24 +897,6 @@
             "2-1": "Starter Kit",
             "3-2": "Young and Wild and Free",
             "4-2": "Unleashed Arcana"
-        }
-    },
-    {
-        "unique_id": "a6919e62d308a191d80057433580aed6",
-        "placement": 1,
-        "augments": {
-            "2-1": "Heart throbs",
-            "3-2": "Roll The Dice",
-            "4-2": "Teaming Up II"
-        }
-    },
-    {
-        "unique_id": "730ba5484b4243a8c8a6d02264eec3df",
-        "placement": 5,
-        "augments": {
-            "2-1": "Idealism",
-            "3-2": "Teaming Up I",
-            "4-2": "Little Buddies"
         }
     }
 ]

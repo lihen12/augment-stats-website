@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "cfe279a9811420df46bd9b76b3a0e853",
+        "placement": 1,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Vampirism II",
+            "4-2": "New Recruit"
+        }
+    },
+    {
         "unique_id": "52d040d01c3e389b6a03b45b8363e064",
         "placement": 1,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "Blinged Out",
             "3-2": "Buried Treasures III",
             "4-2": "One, Two, Five!"
-        }
-    },
-    {
-        "unique_id": "930fb8489c335e4dd212fe5819c8482a",
-        "placement": 2,
-        "augments": {
-            "2-1": "Combat Caster",
-            "3-2": "Cybernetic Bulk III",
-            "4-2": "Harmacist II"
         }
     }
 ]

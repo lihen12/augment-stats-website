@@ -1,5 +1,32 @@
 [
     {
+        "unique_id": "8ccd75c72b16d9f9e5a8ba77c43aea41",
+        "placement": 3,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Little Buddies",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "aaf86d035682186f01e8b2a0ecac7dd9",
+        "placement": 4,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Martyr",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "e8d9dd082bf7bf2758a51b2f38f95fae",
+        "placement": 6,
+        "augments": {
+            "2-1": "Living Forge",
+            "3-2": "Vampirism I",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
         "unique_id": "299ded06a61ca00a538bc8a7c0b02d35",
         "placement": 4,
         "augments": {
@@ -870,33 +897,6 @@
             "2-1": "Roll The Dice",
             "3-2": "Jeweled Lotus III",
             "4-2": "Teaming Up II"
-        }
-    },
-    {
-        "unique_id": "8a98a059432d0c22f83001d6ed252c6b",
-        "placement": 3,
-        "augments": {
-            "2-1": "Idealism",
-            "3-2": "Teaming Up I",
-            "4-2": "Big Grab Bag"
-        }
-    },
-    {
-        "unique_id": "d9c221fcd90d31e9bc2fcfbc1e44bf97",
-        "placement": 3,
-        "augments": {
-            "2-1": "Stars are Born",
-            "3-2": "Sleight of Hand",
-            "4-2": "You Have My Bow"
-        }
-    },
-    {
-        "unique_id": "9d560e5a237513494e865d8c8c070231",
-        "placement": 8,
-        "augments": {
-            "2-1": "Cluttered Mind",
-            "3-2": "Teaming Up I",
-            "4-2": "Big Grab Bag"
         }
     }
 ]

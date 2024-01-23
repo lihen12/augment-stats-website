@@ -8,3 +8,4 @@
 {"level":"error","message":"Error in stat calculation and insertion: ReferenceError: calculatedStats is not defined"}
 {"level":"error","message":"Error in stat calculation and insertion: Error: getaddrinfo ENOTFOUND base"}
 {"level":"error","message":"Error in stat calculation and insertion: TypeError: Cannot read properties of undefined (reading 'avg_placement')"}
+{"level":"error","message":"Error in stat calculation and insertion: error: duplicate key value violates unique constraint \"unique_augment_phase\""}

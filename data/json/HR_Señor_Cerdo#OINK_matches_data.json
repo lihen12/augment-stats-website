@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "029c6a8650899fa9d0448d7700b179a1",
+        "placement": 6,
+        "augments": {
+            "2-1": "Scape goat",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
         "unique_id": "bfc33fc153b5dbf1bafeee8e1bef7ab5",
         "placement": 4,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "What Doesn't Kill You",
             "3-2": "Indomitable Will",
             "4-2": "What The Forge"
-        }
-    },
-    {
-        "unique_id": "b983c377bfa755cf7dd6d9f85ff67859",
-        "placement": 2,
-        "augments": {
-            "2-1": "Good For Something II",
-            "3-2": "Impenetrable Bulwark",
-            "4-2": "One, Two, Five!"
         }
     }
 ]

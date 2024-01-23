@@ -1,5 +1,77 @@
 [
     {
+        "unique_id": "6941ebd72fd4e967d592adb7ca3a923d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Patient Study",
+            "3-2": "Binary Airdrop",
+            "4-2": "Rolling For Days I"
+        }
+    },
+    {
+        "unique_id": "41ba12dad2664077cf14de372e9b12a9",
+        "placement": 7,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Teaming Up I",
+            "4-2": "Keepers II"
+        }
+    },
+    {
+        "unique_id": "6834b75ce75496b711ddd9112891e69a",
+        "placement": 1,
+        "augments": {
+            "2-1": "Shopping Spree",
+            "3-2": "Silver Veil",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "028554ad1f98d0ef06ca48a063e91fc1",
+        "placement": 2,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Blistering Strikes",
+            "4-2": "Prisimatic Ticket"
+        }
+    },
+    {
+        "unique_id": "38ace43dfb1c0e88a23c94e8a01f7259",
+        "placement": 5,
+        "augments": {
+            "2-1": "Stars are Born",
+            "3-2": "New Recruit",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "deda0724b267aae3a1d3e21038d5ffcd",
+        "placement": 1,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "The Ol' Razzle Dazzle",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "ef0a40ea30fc4af89e62fee7270ecee7",
+        "placement": 1,
+        "augments": {
+            "2-1": "Support Cache",
+            "3-2": "Binary Airdrop",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "379ee3d3caa05c21415be2705cb5fe7e",
+        "placement": 1,
+        "augments": {
+            "2-1": "Metabolic Accelerator",
+            "3-2": "Overwhelming Force",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
         "unique_id": "8a8e9d7718a19ec5b83b3e3341860a7d",
         "placement": 2,
         "augments": {
@@ -825,78 +897,6 @@
             "2-1": "A Cut Above",
             "3-2": "Vampirism I",
             "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "e124abacf4726d685cc8f83b9c07bf20",
-        "placement": 5,
-        "augments": {
-            "2-1": "Gargantuan Resolve",
-            "3-2": "Rolling For Days I",
-            "4-2": "Healing Orbs II"
-        }
-    },
-    {
-        "unique_id": "2ffad5201bf270bcba0d51e5dcb661a1",
-        "placement": 4,
-        "augments": {
-            "2-1": "Help Is On The Way",
-            "3-2": "Cybernetic Bulk I",
-            "4-2": "Jeweled Lotus III"
-        }
-    },
-    {
-        "unique_id": "f0743cd4631ae80776a417c064deab71",
-        "placement": 3,
-        "augments": {
-            "2-1": "Pandora's Items",
-            "3-2": "Magic Wand",
-            "4-2": "Teaming Up II"
-        }
-    },
-    {
-        "unique_id": "a644dd66be53a6432eb71d6506a99cab",
-        "placement": 1,
-        "augments": {
-            "2-1": "Clear Mind",
-            "3-2": "Cybernetic Bulk I",
-            "4-2": "Big Grab Bag"
-        }
-    },
-    {
-        "unique_id": "fb1e8bb57f1372d35fb21213e6dbcf3e",
-        "placement": 3,
-        "augments": {
-            "2-1": "Spoils of War III",
-            "3-2": "Healing Orbs I",
-            "4-2": "Know Your Enemy"
-        }
-    },
-    {
-        "unique_id": "48174c2a7f26bde658b3202b44d3874c",
-        "placement": 3,
-        "augments": {
-            "2-1": "Vampirism II",
-            "3-2": "Harmacist I",
-            "4-2": "Long Distance Pals II"
-        }
-    },
-    {
-        "unique_id": "ed609d17271918fdac593069c4b15787",
-        "placement": 2,
-        "augments": {
-            "2-1": "Healing Orbs II",
-            "3-2": "Cybernetic Bulk I",
-            "4-2": "Know Your Enemy"
-        }
-    },
-    {
-        "unique_id": "0b13e078f5cd6a82e181e10c5396377b",
-        "placement": 1,
-        "augments": {
-            "2-1": "Submit To The Pit",
-            "3-2": "Last Stand",
-            "4-2": "Not Today"
         }
     }
 ]

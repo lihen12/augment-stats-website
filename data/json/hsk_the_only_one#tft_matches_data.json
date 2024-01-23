@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "4d38cca34d7c1382708a7421d3c415d9",
+        "placement": 6,
+        "augments": {
+            "2-1": "Gift from the fallen",
+            "3-2": "Tiny Titans",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
         "unique_id": "b3b5fdf7b1f9812891205149e48bbb8d",
         "placement": 1,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "Stationary Support I",
             "3-2": "Little Buddies",
             "4-2": "Inspiring Epitaph"
-        }
-    },
-    {
-        "unique_id": "c5665aa0f0b542174e8f72c4e302d773",
-        "placement": 5,
-        "augments": {
-            "2-1": "Idealism",
-            "3-2": "Jeweled Lotus II",
-            "4-2": "Little Buddies"
         }
     }
 ]

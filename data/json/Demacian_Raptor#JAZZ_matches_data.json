@@ -1,5 +1,59 @@
 [
     {
+        "unique_id": "33cf964451055b73638ae6015c5c9315",
+        "placement": 6,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Metal Heads",
+            "4-2": "Item Grab Bag I"
+        }
+    },
+    {
+        "unique_id": "6cbebec9313e07b9bc7c94544b5acf9f",
+        "placement": 5,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Crown Guarded",
+            "4-2": "That's Jazz, Baby!"
+        }
+    },
+    {
+        "unique_id": "435494ce66e0825ff6fbf6a0182cf01b",
+        "placement": 3,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Buried Treasures III",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "75bf5a02050589639b647b1f8585e99e",
+        "placement": 1,
+        "augments": {
+            "2-1": "Rich Get Richer",
+            "3-2": "You Have My Sword",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "48df735d1f038fbf975f07f340dcae1c",
+        "placement": 4,
+        "augments": {
+            "2-1": "Twin Terror I",
+            "3-2": "Know Your Enemy",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "1da05e5f69b3fd8f98294cffa9515089",
+        "placement": 1,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Pandora's Items III",
+            "4-2": "Harmacist I"
+        }
+    },
+    {
         "unique_id": "24478ccf54a7b8f189b6ec12c607e2a8",
         "placement": 5,
         "augments": {
@@ -843,60 +897,6 @@
             "2-1": "Buried Treasures III",
             "3-2": "Inspiring Epitaph",
             "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "dc9b482376d0eb89e4a067e7a77fcfa7",
-        "placement": 2,
-        "augments": {
-            "2-1": "AFK",
-            "3-2": "Teaming Up II",
-            "4-2": "Hologram"
-        }
-    },
-    {
-        "unique_id": "b6c8b4157dfe9c6ab616a551230c732d",
-        "placement": 2,
-        "augments": {
-            "2-1": "Pumping Up II",
-            "3-2": "Radiant Relics",
-            "4-2": "Unified Resistance I"
-        }
-    },
-    {
-        "unique_id": "46e4d2ab61fe2a2367273f55c4e8eee9",
-        "placement": 1,
-        "augments": {
-            "2-1": "You Have My Sword",
-            "3-2": "Know Your Enemy",
-            "4-2": "Cybernetic Bulk III"
-        }
-    },
-    {
-        "unique_id": "932e588a33e97163e6e56fde9269e9f4",
-        "placement": 3,
-        "augments": {
-            "2-1": "Help Is On The Way",
-            "3-2": "Jeweled Lotus II",
-            "4-2": "Binary Airdrop"
-        }
-    },
-    {
-        "unique_id": "5fa44c46656277ebc5f4f61dbdb56dd3",
-        "placement": 5,
-        "augments": {
-            "2-1": "Stationary Support II",
-            "3-2": "Big Grab Bag",
-            "4-2": "Martyr"
-        }
-    },
-    {
-        "unique_id": "153d065945938c010f1b7ee2510774a0",
-        "placement": 4,
-        "augments": {
-            "2-1": "Insert Coin",
-            "3-2": "Rolling For Days I",
-            "4-2": "Little Buddies"
         }
     }
 ]

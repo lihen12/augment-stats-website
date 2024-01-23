@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "f15b190136fc9c40f863d419776c4455",
+        "placement": 2,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Keepers II"
+        }
+    },
+    {
         "unique_id": "207158c9cac7f9dec9652b9712deb6d4",
         "placement": 7,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "Roll The Dice",
             "3-2": "Gift from the fallen",
             "4-2": "Inspiring Epitaph"
-        }
-    },
-    {
-        "unique_id": "a8a055edb38094d6a694498b16417d4d",
-        "placement": 3,
-        "augments": {
-            "2-1": "Stationary Support I",
-            "3-2": "Vampirism I",
-            "4-2": "Crash Test Dummies"
         }
     }
 ]

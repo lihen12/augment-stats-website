@@ -1,5 +1,50 @@
 [
     {
+        "unique_id": "2d8e7cba4cfc019c6a762bb37de6e5c3",
+        "placement": 3,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Binary Airdrop",
+            "4-2": "Rolling For Days I"
+        }
+    },
+    {
+        "unique_id": "9a6fb41d8c042dcad31190ad751ee395",
+        "placement": 8,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Unified Resistance I",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "3a029e22b7055493f55971d278405150",
+        "placement": 2,
+        "augments": {
+            "2-1": "Roll The Dice",
+            "3-2": "Tiny Titans",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "dd3b222e055ed9b6205528a3e134f550",
+        "placement": 3,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Teaming Up I",
+            "4-2": "Overwhelming Force"
+        }
+    },
+    {
+        "unique_id": "6ad6bfba97954d1dbd76c7697f176f6f",
+        "placement": 6,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Determined investors",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
         "unique_id": "99408626fc6ba78b4198b5e0b81875ef",
         "placement": 3,
         "augments": {
@@ -852,51 +897,6 @@
             "2-1": "Scrappy Inventions",
             "3-2": "Blistering Strikes",
             "4-2": "Stationary Support II"
-        }
-    },
-    {
-        "unique_id": "847ed5b2d5612279196ec351681ed0c0",
-        "placement": 4,
-        "augments": {
-            "2-1": "Portable Forge",
-            "3-2": "Little Buddies",
-            "4-2": "Jeweled Lotus II"
-        }
-    },
-    {
-        "unique_id": "a03e4f37cfaac0e0844be598fee88df7",
-        "placement": 8,
-        "augments": {
-            "2-1": "Scrappy Inventions",
-            "3-2": "Metal Heads",
-            "4-2": "Return on Investment"
-        }
-    },
-    {
-        "unique_id": "69b8c09ada6689f276de12e0caa8eb9c",
-        "placement": 7,
-        "augments": {
-            "2-1": "Caretaker's Favor",
-            "3-2": "Binary Airdrop",
-            "4-2": "Return on Investment"
-        }
-    },
-    {
-        "unique_id": "5d734a48e09e967dfed589c40c7f9ff7",
-        "placement": 7,
-        "augments": {
-            "2-1": "Salvage Bin",
-            "3-2": "Portable Forge++",
-            "4-2": "Know Your Enemy"
-        }
-    },
-    {
-        "unique_id": "39da87a3c2cd78e15f3b42cbf1e04212",
-        "placement": 1,
-        "augments": {
-            "2-1": "Cluttered Mind",
-            "3-2": "Cybernetic Bulk II",
-            "4-2": "Little Buddies"
         }
     }
 ]

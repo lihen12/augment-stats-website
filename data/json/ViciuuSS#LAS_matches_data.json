@@ -1,5 +1,23 @@
 [
     {
+        "unique_id": "4cf786823adc77bec94855adb3f31152",
+        "placement": 2,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Vampirism I",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "1497666a748431368591337dca1c1e04",
+        "placement": 4,
+        "augments": {
+            "2-1": "Expose Weakness",
+            "3-2": "Vampirism II",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
         "unique_id": "fc1bbe79846e03c506779370c44869db",
         "placement": 5,
         "augments": {
@@ -879,24 +897,6 @@
             "2-1": "You Have My Bow",
             "3-2": "Balanced Budget II",
             "4-2": "Impenetrable Bulwark"
-        }
-    },
-    {
-        "unique_id": "5f0724a1ad270caeec40099c590af2e2",
-        "placement": 4,
-        "augments": {
-            "2-1": "Support Cache",
-            "3-2": "Crash Test Dummies",
-            "4-2": "Portable Forge++"
-        }
-    },
-    {
-        "unique_id": "d4cd50e6835141bbebb6491ae21ddfdf",
-        "placement": 3,
-        "augments": {
-            "2-1": "Portable Forge",
-            "3-2": "Young and Wild and Free",
-            "4-2": "Cybernetic Uplink II"
         }
     }
 ]

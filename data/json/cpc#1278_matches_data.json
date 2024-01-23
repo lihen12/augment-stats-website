@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "6a500cca96dbe78240df27ddc9ee5d61",
+        "placement": 3,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "Buried Treasures III",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
         "unique_id": "160e2418ee05163c945a909dd3e2c5e6",
         "placement": 3,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "Pandora's Items",
             "3-2": "Missed Connections",
             "4-2": "Healing Orbs I"
-        }
-    },
-    {
-        "unique_id": "db2a7dc8ae00bdc5606ac47f950b74b9",
-        "placement": 2,
-        "augments": {
-            "2-1": "Harmacist III",
-            "3-2": "Overwhelming Force",
-            "4-2": "Lucky Gloves+"
         }
     }
 ]

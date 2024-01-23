@@ -1,5 +1,32 @@
 [
     {
+        "unique_id": "82a58d3b655041071241fcb8f5cbe37a",
+        "placement": 2,
+        "augments": {
+            "2-1": "Healing Orbs II",
+            "3-2": "Team Building",
+            "4-2": "Gift from the fallen"
+        }
+    },
+    {
+        "unique_id": "03565ee2782934fbc8966a9cb646ae5c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Crown Guarded",
+            "3-2": "New Recruit",
+            "4-2": "Recombobulator"
+        }
+    },
+    {
+        "unique_id": "88feecc2e8f489d148551fa027355b85",
+        "placement": 5,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Stationary Support III",
+            "4-2": "Cybernetic Uplink I"
+        }
+    },
+    {
         "unique_id": "98f9e1880a1c2701085403b2e75f554a",
         "placement": 7,
         "augments": {
@@ -870,33 +897,6 @@
             "2-1": "Sleight of Hand",
             "3-2": "Little Buddies",
             "4-2": "Harmacist II"
-        }
-    },
-    {
-        "unique_id": "55dbb2e530e7d37d07b0fd0ef37695cd",
-        "placement": 4,
-        "augments": {
-            "2-1": "Roll The Dice",
-            "3-2": "Silver Veil",
-            "4-2": "Crash Test Dummies"
-        }
-    },
-    {
-        "unique_id": "204723b8fefaaa87fbf399a22e24261b",
-        "placement": 1,
-        "augments": {
-            "2-1": "What Doesn't Kill You",
-            "3-2": "Cybernetic Bulk I",
-            "4-2": "Cybernetic Uplink II"
-        }
-    },
-    {
-        "unique_id": "481e34ab09cd59e2cecc20b6f9ea4fe3",
-        "placement": 8,
-        "augments": {
-            "2-1": "Not Today",
-            "3-2": "Stationary Support II",
-            "4-2": "Three's a Crowd"
         }
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "unique_id": "2742c2899573643e334ad9f51fdc26ce",
+        "placement": 2,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Partial Ascension"
+        }
+    },
+    {
         "unique_id": "915f72fb2dddfa069a71d5df775f3d3a",
         "placement": 3,
         "augments": {
@@ -888,15 +897,6 @@
             "2-1": "Tons of Stats!",
             "3-2": "Healing Orbs II",
             "4-2": "Magic Wand"
-        }
-    },
-    {
-        "unique_id": "416ac3ed4a7cd6bde06cf9b14bfa0504",
-        "placement": 3,
-        "augments": {
-            "2-1": "Silver Veil",
-            "3-2": "Partial Ascension",
-            "4-2": "Harmacist II"
         }
     }
 ]
