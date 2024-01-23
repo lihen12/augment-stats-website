@@ -492,3 +492,716 @@ Stacktrace:
 
 2023-11-27 15:56:00,664:INFO:Augment mapping creation finished.
 2023-11-27 16:15:06,904:INFO:Data collection complete.
+2024-01-20 10:42:25,265:INFO:Fetching top players from the leaderboard...
+2024-01-20 10:42:31,344:INFO:Leaderboard loaded.
+2024-01-20 10:42:34,370:INFO:Starting to create augment mapping...
+2024-01-20 10:42:39,174:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF736B582B2+55298]
+	(No symbol) [0x00007FF736AC5E02]
+	(No symbol) [0x00007FF7369805AB]
+	(No symbol) [0x00007FF7369C175C]
+	(No symbol) [0x00007FF7369C18DC]
+	(No symbol) [0x00007FF7369B819C]
+	(No symbol) [0x00007FF7369E20EF]
+	(No symbol) [0x00007FF7369B80CF]
+	(No symbol) [0x00007FF7369E22C0]
+	(No symbol) [0x00007FF7369FAAA4]
+	(No symbol) [0x00007FF7369E1E83]
+	(No symbol) [0x00007FF7369B670A]
+	(No symbol) [0x00007FF7369B7964]
+	GetHandleVerifier [0x00007FF736ED0AAB+3694587]
+	GetHandleVerifier [0x00007FF736F2728E+4048862]
+	GetHandleVerifier [0x00007FF736F1F173+4015811]
+	GetHandleVerifier [0x00007FF736BF47D6+695590]
+	(No symbol) [0x00007FF736AD0CE8]
+	(No symbol) [0x00007FF736ACCF34]
+	(No symbol) [0x00007FF736ACD062]
+	(No symbol) [0x00007FF736ABD3A3]
+	BaseThreadInitThunk [0x00007FFC1BD47344+20]
+	RtlUserThreadStart [0x00007FFC1CCE26B1+33]
+
+2024-01-20 10:42:39,180:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF736B582B2+55298]
+	(No symbol) [0x00007FF736AC5E02]
+	(No symbol) [0x00007FF7369805AB]
+	(No symbol) [0x00007FF7369C175C]
+	(No symbol) [0x00007FF7369C18DC]
+	(No symbol) [0x00007FF7369B819C]
+	(No symbol) [0x00007FF7369E20EF]
+	(No symbol) [0x00007FF7369B80CF]
+	(No symbol) [0x00007FF7369E22C0]
+	(No symbol) [0x00007FF7369FAAA4]
+	(No symbol) [0x00007FF7369E1E83]
+	(No symbol) [0x00007FF7369B670A]
+	(No symbol) [0x00007FF7369B7964]
+	GetHandleVerifier [0x00007FF736ED0AAB+3694587]
+	GetHandleVerifier [0x00007FF736F2728E+4048862]
+	GetHandleVerifier [0x00007FF736F1F173+4015811]
+	GetHandleVerifier [0x00007FF736BF47D6+695590]
+	(No symbol) [0x00007FF736AD0CE8]
+	(No symbol) [0x00007FF736ACCF34]
+	(No symbol) [0x00007FF736ACD062]
+	(No symbol) [0x00007FF736ABD3A3]
+	BaseThreadInitThunk [0x00007FFC1BD47344+20]
+	RtlUserThreadStart [0x00007FFC1CCE26B1+33]
+
+2024-01-20 10:42:41,806:INFO:Augment mapping creation finished.
+2024-01-20 17:32:48,125:INFO:Fetching top players from the leaderboard...
+2024-01-20 17:32:52,458:INFO:Leaderboard loaded.
+2024-01-20 17:32:55,907:INFO:Starting to create augment mapping...
+2024-01-20 17:33:00,745:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF736B582B2+55298]
+	(No symbol) [0x00007FF736AC5E02]
+	(No symbol) [0x00007FF7369805AB]
+	(No symbol) [0x00007FF7369C175C]
+	(No symbol) [0x00007FF7369C18DC]
+	(No symbol) [0x00007FF7369B819C]
+	(No symbol) [0x00007FF7369E20EF]
+	(No symbol) [0x00007FF7369B80CF]
+	(No symbol) [0x00007FF7369E22C0]
+	(No symbol) [0x00007FF7369FAAA4]
+	(No symbol) [0x00007FF7369E1E83]
+	(No symbol) [0x00007FF7369B670A]
+	(No symbol) [0x00007FF7369B7964]
+	GetHandleVerifier [0x00007FF736ED0AAB+3694587]
+	GetHandleVerifier [0x00007FF736F2728E+4048862]
+	GetHandleVerifier [0x00007FF736F1F173+4015811]
+	GetHandleVerifier [0x00007FF736BF47D6+695590]
+	(No symbol) [0x00007FF736AD0CE8]
+	(No symbol) [0x00007FF736ACCF34]
+	(No symbol) [0x00007FF736ACD062]
+	(No symbol) [0x00007FF736ABD3A3]
+	BaseThreadInitThunk [0x00007FFC1BD47344+20]
+	RtlUserThreadStart [0x00007FFC1CCE26B1+33]
+
+2024-01-20 17:33:00,751:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF736B582B2+55298]
+	(No symbol) [0x00007FF736AC5E02]
+	(No symbol) [0x00007FF7369805AB]
+	(No symbol) [0x00007FF7369C175C]
+	(No symbol) [0x00007FF7369C18DC]
+	(No symbol) [0x00007FF7369B819C]
+	(No symbol) [0x00007FF7369E20EF]
+	(No symbol) [0x00007FF7369B80CF]
+	(No symbol) [0x00007FF7369E22C0]
+	(No symbol) [0x00007FF7369FAAA4]
+	(No symbol) [0x00007FF7369E1E83]
+	(No symbol) [0x00007FF7369B670A]
+	(No symbol) [0x00007FF7369B7964]
+	GetHandleVerifier [0x00007FF736ED0AAB+3694587]
+	GetHandleVerifier [0x00007FF736F2728E+4048862]
+	GetHandleVerifier [0x00007FF736F1F173+4015811]
+	GetHandleVerifier [0x00007FF736BF47D6+695590]
+	(No symbol) [0x00007FF736AD0CE8]
+	(No symbol) [0x00007FF736ACCF34]
+	(No symbol) [0x00007FF736ACD062]
+	(No symbol) [0x00007FF736ABD3A3]
+	BaseThreadInitThunk [0x00007FFC1BD47344+20]
+	RtlUserThreadStart [0x00007FFC1CCE26B1+33]
+
+2024-01-20 17:33:03,544:INFO:Augment mapping creation finished.
+2024-01-20 17:35:54,307:INFO:Fetching top players from the leaderboard...
+2024-01-20 17:35:56,007:INFO:Leaderboard loaded.
+2024-01-20 17:35:59,663:INFO:Starting to create augment mapping...
+2024-01-20 17:36:04,399:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF736B582B2+55298]
+	(No symbol) [0x00007FF736AC5E02]
+	(No symbol) [0x00007FF7369805AB]
+	(No symbol) [0x00007FF7369C175C]
+	(No symbol) [0x00007FF7369C18DC]
+	(No symbol) [0x00007FF7369B819C]
+	(No symbol) [0x00007FF7369E20EF]
+	(No symbol) [0x00007FF7369B80CF]
+	(No symbol) [0x00007FF7369E22C0]
+	(No symbol) [0x00007FF7369FAAA4]
+	(No symbol) [0x00007FF7369E1E83]
+	(No symbol) [0x00007FF7369B670A]
+	(No symbol) [0x00007FF7369B7964]
+	GetHandleVerifier [0x00007FF736ED0AAB+3694587]
+	GetHandleVerifier [0x00007FF736F2728E+4048862]
+	GetHandleVerifier [0x00007FF736F1F173+4015811]
+	GetHandleVerifier [0x00007FF736BF47D6+695590]
+	(No symbol) [0x00007FF736AD0CE8]
+	(No symbol) [0x00007FF736ACCF34]
+	(No symbol) [0x00007FF736ACD062]
+	(No symbol) [0x00007FF736ABD3A3]
+	BaseThreadInitThunk [0x00007FFC1BD47344+20]
+	RtlUserThreadStart [0x00007FFC1CCE26B1+33]
+
+2024-01-20 17:36:04,407:ERROR:Error mapping augment: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[starts-with(@src, '//cdn.lolchess.gg')]"}
+  (Session info: headless chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF736B582B2+55298]
+	(No symbol) [0x00007FF736AC5E02]
+	(No symbol) [0x00007FF7369805AB]
+	(No symbol) [0x00007FF7369C175C]
+	(No symbol) [0x00007FF7369C18DC]
+	(No symbol) [0x00007FF7369B819C]
+	(No symbol) [0x00007FF7369E20EF]
+	(No symbol) [0x00007FF7369B80CF]
+	(No symbol) [0x00007FF7369E22C0]
+	(No symbol) [0x00007FF7369FAAA4]
+	(No symbol) [0x00007FF7369E1E83]
+	(No symbol) [0x00007FF7369B670A]
+	(No symbol) [0x00007FF7369B7964]
+	GetHandleVerifier [0x00007FF736ED0AAB+3694587]
+	GetHandleVerifier [0x00007FF736F2728E+4048862]
+	GetHandleVerifier [0x00007FF736F1F173+4015811]
+	GetHandleVerifier [0x00007FF736BF47D6+695590]
+	(No symbol) [0x00007FF736AD0CE8]
+	(No symbol) [0x00007FF736ACCF34]
+	(No symbol) [0x00007FF736ACD062]
+	(No symbol) [0x00007FF736ABD3A3]
+	BaseThreadInitThunk [0x00007FFC1BD47344+20]
+	RtlUserThreadStart [0x00007FFC1CCE26B1+33]
+
+2024-01-20 17:36:07,379:INFO:Augment mapping creation finished.
+2024-01-20 17:57:34,430:INFO:Fetching top players from the leaderboard...
+2024-01-20 17:57:39,023:INFO:Leaderboard loaded.
+2024-01-20 17:57:43,006:INFO:Starting to create augment mapping...
+2024-01-20 17:57:51,252:INFO:Augment mapping creation finished.
+2024-01-22 12:56:01,956:INFO:Starting to create augment mapping...
+2024-01-22 12:56:10,903:INFO:Augment mapping creation finished.
+2024-01-22 12:56:10,905:INFO:Augment mapping data saved.
+2024-01-22 13:01:50,500:ERROR:Timeout while trying to load matches for page 1
+2024-01-22 13:01:50,500:INFO:Match data for Haval\u0131 nick#TR1 saved.
+2024-01-22 13:08:53,200:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=1
+2024-01-22 13:09:03,431:ERROR:Timeout while trying to load matches for page 1
+2024-01-22 13:09:04,711:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=2
+2024-01-22 13:09:14,972:ERROR:Timeout while trying to load matches for page 2
+2024-01-22 13:09:15,761:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=3
+2024-01-22 13:09:26,063:ERROR:Timeout while trying to load matches for page 3
+2024-01-22 13:09:26,926:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=4
+2024-01-22 13:09:37,417:ERROR:Timeout while trying to load matches for page 4
+2024-01-22 13:09:38,136:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=5
+2024-01-22 13:09:48,586:ERROR:Timeout while trying to load matches for page 5
+2024-01-22 13:09:48,586:INFO:Match data for Haval\u0131 nick#TR1 saved.
+2024-01-22 13:11:48,212:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=1
+2024-01-22 13:12:08,522:ERROR:Timeout while trying to load matches for page 1
+2024-01-22 13:12:09,501:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=2
+2024-01-22 13:18:25,424:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=1
+2024-01-22 13:18:26,655:INFO:Match container elements found on page 1
+2024-01-22 13:18:26,875:INFO:Placement found: 5
+2024-01-22 13:18:26,902:INFO:Augment for 2-1 phase found: Clear Mind
+2024-01-22 13:18:26,914:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:26,924:INFO:Augment for 4-2 phase found: Little Buddies
+2024-01-22 13:18:26,924:INFO:Match hash generated: 2d97d83588bd7f7c800d53bae92a5e14
+2024-01-22 13:18:26,938:INFO:Placement found: 1
+2024-01-22 13:18:26,953:INFO:Augment for 2-1 phase found: Portable Forge
+2024-01-22 13:18:26,962:INFO:Augment for 3-2 phase found: Phreaky Friday+
+2024-01-22 13:18:26,994:INFO:Augment for 4-2 phase found: Not Today
+2024-01-22 13:18:26,994:INFO:Match hash generated: d5c26e95f0dddb6198e4963a98ba8e60
+2024-01-22 13:18:27,035:INFO:Placement found: 2
+2024-01-22 13:18:27,211:INFO:Augment for 2-1 phase found: Idealism
+2024-01-22 13:18:27,249:INFO:Augment for 3-2 phase found: Cybernetic Bulk III
+2024-01-22 13:18:27,261:INFO:Augment for 4-2 phase found: Remember Your Roots
+2024-01-22 13:18:27,261:INFO:Match hash generated: 346477a65beb07eeade4159f48f8b27d
+2024-01-22 13:18:27,277:INFO:Placement found: 1
+2024-01-22 13:18:27,294:INFO:Augment for 2-1 phase found: Cluttered Mind
+2024-01-22 13:18:27,302:INFO:Augment for 3-2 phase found: Ascension
+2024-01-22 13:18:27,316:INFO:Augment for 4-2 phase found: Crash Test Dummies
+2024-01-22 13:18:27,316:INFO:Match hash generated: 6ae40b01a281f40f69e4239cf0e3649e
+2024-01-22 13:18:27,330:INFO:Placement found: 3
+2024-01-22 13:18:27,352:INFO:Augment for 2-1 phase found: Item Grab Bag I
+2024-01-22 13:18:27,360:INFO:Augment for 3-2 phase found: Indomitable Will
+2024-01-22 13:18:27,369:INFO:Augment for 4-2 phase found: Radiant Relics
+2024-01-22 13:18:27,369:INFO:Match hash generated: 2200294e896ab79eddc563e008f1a77d
+2024-01-22 13:18:27,387:INFO:Placement found: 3
+2024-01-22 13:18:27,429:INFO:Augment for 2-1 phase found: Component Buffet
+2024-01-22 13:18:27,449:INFO:Augment for 3-2 phase found: Crown Guarded
+2024-01-22 13:18:27,494:INFO:Augment for 4-2 phase found: Little Buddies
+2024-01-22 13:18:27,494:INFO:Match hash generated: 06a776cb1ef74459567d0410aada3905
+2024-01-22 13:18:27,512:INFO:Placement found: 2
+2024-01-22 13:18:27,532:INFO:Augment for 2-1 phase found: Patient Study
+2024-01-22 13:18:27,550:INFO:Augment for 3-2 phase found: Twin Terror II
+2024-01-22 13:18:27,565:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:27,565:INFO:Match hash generated: 90c2c50d78cd69c2edf85b522c7bd99d
+2024-01-22 13:18:27,580:INFO:Placement found: 1
+2024-01-22 13:18:27,607:INFO:Augment for 2-1 phase found: Vampirism II
+2024-01-22 13:18:27,717:INFO:Augment for 3-2 phase found: Sticks And Stones
+2024-01-22 13:18:27,747:INFO:Augment for 4-2 phase found: Stationary Support II
+2024-01-22 13:18:27,747:INFO:Match hash generated: f02e27735341bfe1e313b020124470b0
+2024-01-22 13:18:27,769:INFO:Placement found: 1
+2024-01-22 13:18:27,832:INFO:Augment for 2-1 phase found: Scrappy Inventions
+2024-01-22 13:18:27,846:INFO:Augment for 3-2 phase found: Martyr
+2024-01-22 13:18:27,865:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:27,865:INFO:Match hash generated: a15976a40540f9cb75c12add127615d8
+2024-01-22 13:18:27,904:INFO:Placement found: 1
+2024-01-22 13:18:27,934:INFO:Augment for 2-1 phase found: Salvage Bin
+2024-01-22 13:18:27,944:INFO:Augment for 3-2 phase found: Silver Veil
+2024-01-22 13:18:27,953:INFO:Augment for 4-2 phase found: Unified Resistance II
+2024-01-22 13:18:27,954:INFO:Match hash generated: 54d9e61e78c1c2ded0d90b273107c42c
+2024-01-22 13:18:27,994:INFO:Placement found: 1
+2024-01-22 13:18:28,013:INFO:Augment for 2-1 phase found: Three's Company
+2024-01-22 13:18:28,025:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:28,036:INFO:Augment for 4-2 phase found: Harmacist I
+2024-01-22 13:18:28,036:INFO:Match hash generated: 2a5f4d52f15f5e7a87233eba36d87d1b
+2024-01-22 13:18:28,054:INFO:Placement found: 4
+2024-01-22 13:18:28,072:INFO:Augment for 2-1 phase found: Twin Terror II
+2024-01-22 13:18:28,084:INFO:Augment for 3-2 phase found: On a Roll
+2024-01-22 13:18:28,093:INFO:Augment for 4-2 phase found: Infernal Contract
+2024-01-22 13:18:28,094:INFO:Match hash generated: 66fa3d39631c53958b398990a4c0fc7b
+2024-01-22 13:18:28,119:INFO:Placement found: 1
+2024-01-22 13:18:28,137:INFO:Augment for 2-1 phase found: Not Today
+2024-01-22 13:18:28,149:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:28,159:INFO:Augment for 4-2 phase found: Big Grab Bag
+2024-01-22 13:18:28,159:INFO:Match hash generated: aeea309ceab8f7c5346c55b247871a8b
+2024-01-22 13:18:28,176:INFO:Placement found: 6
+2024-01-22 13:18:28,199:INFO:Augment for 2-1 phase found: Level Up!
+2024-01-22 13:18:28,212:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:28,221:INFO:Augment for 4-2 phase found: Final Ascension
+2024-01-22 13:18:28,222:INFO:Match hash generated: d7a75777bec4bb2b38f17a01d0f5ac6f
+2024-01-22 13:18:28,274:INFO:Placement found: 4
+2024-01-22 13:18:28,300:INFO:Augment for 2-1 phase found: You Have My Bow
+2024-01-22 13:18:28,319:INFO:Augment for 3-2 phase found: Cybernetic Bulk I
+2024-01-22 13:18:28,333:INFO:Augment for 4-2 phase found: Martyr
+2024-01-22 13:18:28,333:INFO:Match hash generated: 97450bd11d2bd391be1689538f11bc45
+2024-01-22 13:18:28,354:INFO:Placement found: 3
+2024-01-22 13:18:28,373:INFO:Augment for 2-1 phase found: Scrappy Inventions
+2024-01-22 13:18:28,391:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:28,401:INFO:Augment for 4-2 phase found: Unified Resistance II
+2024-01-22 13:18:28,401:INFO:Match hash generated: 1b43f3cfb24641e0b205bb08a9548c23
+2024-01-22 13:18:28,424:INFO:Placement found: 1
+2024-01-22 13:18:28,447:INFO:Augment for 2-1 phase found: Caretaker's Favor
+2024-01-22 13:18:28,462:INFO:Augment for 3-2 phase found: Jeweled Lotus II
+2024-01-22 13:18:28,473:INFO:Augment for 4-2 phase found: Gift from the fallen
+2024-01-22 13:18:28,473:INFO:Match hash generated: f3f6d33e582a7ed87428e0495fb6d2f6
+2024-01-22 13:18:28,494:INFO:Placement found: 1
+2024-01-22 13:18:28,515:INFO:Augment for 2-1 phase found: Phreaky Friday
+2024-01-22 13:18:28,525:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:28,536:INFO:Augment for 4-2 phase found: Long Distance Pals II
+2024-01-22 13:18:28,536:INFO:Match hash generated: a21c2a436d345b7bf4d586f1d223160d
+2024-01-22 13:18:28,554:INFO:Placement found: 1
+2024-01-22 13:18:28,576:INFO:Augment for 2-1 phase found: March of Progress
+2024-01-22 13:18:28,586:INFO:Augment for 3-2 phase found: Twin Terror II
+2024-01-22 13:18:28,596:INFO:Augment for 4-2 phase found: Overwhelming Force
+2024-01-22 13:18:28,597:INFO:Match hash generated: 213b5e577e07b2f553383e491e63ab0f
+2024-01-22 13:18:28,616:INFO:Placement found: 2
+2024-01-22 13:18:28,653:INFO:Augment for 2-1 phase found: Metabolic Accelerator
+2024-01-22 13:18:28,669:INFO:Augment for 3-2 phase found: Blinged Out
+2024-01-22 13:18:28,688:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:28,688:INFO:Match hash generated: 4195a9bada50c821fa0c4acb3e527f99
+2024-01-22 13:18:29,578:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=2
+2024-01-22 13:18:30,287:INFO:Match container elements found on page 2
+2024-01-22 13:18:30,352:INFO:Placement found: 2
+2024-01-22 13:18:30,400:INFO:Augment for 2-1 phase found: Cybernetic Bulk II
+2024-01-22 13:18:30,426:INFO:Augment for 3-2 phase found: Tiny Titans
+2024-01-22 13:18:30,434:INFO:Augment for 4-2 phase found: Martyr
+2024-01-22 13:18:30,434:INFO:Match hash generated: d815ea153f8e0b5c787ce744465e9337
+2024-01-22 13:18:30,447:INFO:Placement found: 6
+2024-01-22 13:18:30,464:INFO:Augment for 2-1 phase found: Pumping Up I
+2024-01-22 13:18:30,473:INFO:Augment for 3-2 phase found: Cybernetic Bulk II
+2024-01-22 13:18:30,480:INFO:Augment for 4-2 phase found: Lucky Gloves+
+2024-01-22 13:18:30,480:INFO:Match hash generated: 5d6b4c8d461c9793d13f017508381152
+2024-01-22 13:18:30,493:INFO:Placement found: 5
+2024-01-22 13:18:30,507:INFO:Augment for 2-1 phase found: Rich Get Richer
+2024-01-22 13:18:30,513:INFO:Augment for 3-2 phase found: Gift from the fallen
+2024-01-22 13:18:30,521:INFO:Augment for 4-2 phase found: Stationary Support III
+2024-01-22 13:18:30,521:INFO:Match hash generated: dd08983bbf32a1520fdd3a95eb3f68b5
+2024-01-22 13:18:30,533:INFO:Placement found: 3
+2024-01-22 13:18:30,550:INFO:Augment for 2-1 phase found: Magic Wand
+2024-01-22 13:18:30,557:INFO:Augment for 3-2 phase found: Cybernetic Bulk I
+2024-01-22 13:18:30,564:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:30,564:INFO:Match hash generated: af95f8f12decd6b902878e2ccf038ab2
+2024-01-22 13:18:30,577:INFO:Placement found: 5
+2024-01-22 13:18:30,591:INFO:Augment for 2-1 phase found: Stationary Support I
+2024-01-22 13:18:30,598:INFO:Augment for 3-2 phase found: Harmacist I
+2024-01-22 13:18:30,605:INFO:Augment for 4-2 phase found: Unified Resistance I
+2024-01-22 13:18:30,605:INFO:Match hash generated: 6ebe307ca0a2014aeb9739ab24943b0e
+2024-01-22 13:18:30,620:INFO:Placement found: 2
+2024-01-22 13:18:30,636:INFO:Augment for 2-1 phase found: Cybernetic Bulk I
+2024-01-22 13:18:30,643:INFO:Augment for 3-2 phase found: Unified Resistance I
+2024-01-22 13:18:30,652:INFO:Augment for 4-2 phase found: Binary Airdrop
+2024-01-22 13:18:30,652:INFO:Match hash generated: 448584cf21237b310d710c7347ac9a15
+2024-01-22 13:18:30,664:INFO:Placement found: 2
+2024-01-22 13:18:30,700:INFO:Augment for 2-1 phase found: Patient Study
+2024-01-22 13:18:30,707:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:30,714:INFO:Augment for 4-2 phase found: Jeweled Lotus III
+2024-01-22 13:18:30,714:INFO:Match hash generated: 84b6c13eefb755c92e9a8f7f71d39be0
+2024-01-22 13:18:30,726:INFO:Placement found: 1
+2024-01-22 13:18:30,739:INFO:Augment for 2-1 phase found: Stationary Support II
+2024-01-22 13:18:30,746:INFO:Augment for 3-2 phase found: Lucky Gloves+
+2024-01-22 13:18:30,753:INFO:Augment for 4-2 phase found: Pandora's Items
+2024-01-22 13:18:30,753:INFO:Match hash generated: fdb445b66b7cbc9784766ff06fbbae77
+2024-01-22 13:18:30,765:INFO:Placement found: 6
+2024-01-22 13:18:30,778:INFO:Augment for 2-1 phase found: Clear Mind
+2024-01-22 13:18:30,785:INFO:Augment for 3-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:30,791:INFO:Augment for 4-2 phase found: Cybernetic Uplink II
+2024-01-22 13:18:30,791:INFO:Match hash generated: 3eab358c4fa22833723ade36e30cd80c
+2024-01-22 13:18:30,803:INFO:Placement found: 3
+2024-01-22 13:18:30,837:INFO:Augment for 2-1 phase found: Escort Quest
+2024-01-22 13:18:30,844:INFO:Augment for 3-2 phase found: Cybernetic Bulk II
+2024-01-22 13:18:30,852:INFO:Augment for 4-2 phase found: You Have My Bow
+2024-01-22 13:18:30,852:INFO:Match hash generated: da65508b5c0aebc28603a641ef9ab99d
+2024-01-22 13:18:30,864:INFO:Placement found: 5
+2024-01-22 13:18:30,878:INFO:Augment for 2-1 phase found: Portable Forge
+2024-01-22 13:18:30,887:INFO:Augment for 3-2 phase found: Harmacist I
+2024-01-22 13:18:30,894:INFO:Augment for 4-2 phase found: Capricious Forge
+2024-01-22 13:18:30,894:INFO:Match hash generated: 07b12d1fd9db5cd3908f06c00001cde1
+2024-01-22 13:18:30,906:INFO:Placement found: 5
+2024-01-22 13:18:30,922:INFO:Augment for 2-1 phase found: Twin Terror I
+2024-01-22 13:18:30,928:INFO:Augment for 3-2 phase found: Stationary Support II
+2024-01-22 13:18:30,936:INFO:Augment for 4-2 phase found: Heroic grab bag
+2024-01-22 13:18:30,936:INFO:Match hash generated: 6bbbfcf913c113b91c0ecaf270277883
+2024-01-22 13:18:30,947:INFO:Placement found: 1
+2024-01-22 13:18:30,961:INFO:Augment for 2-1 phase found: What Doesn't Kill You
+2024-01-22 13:18:30,968:INFO:Augment for 3-2 phase found: Blistering Strikes
+2024-01-22 13:18:30,974:INFO:Augment for 4-2 phase found: Healing Orbs II
+2024-01-22 13:18:30,975:INFO:Match hash generated: af1f8d3a5bb67ff14a2416fff8d4c90c
+2024-01-22 13:18:30,986:INFO:Placement found: 1
+2024-01-22 13:18:31,009:INFO:Augment for 2-1 phase found: Cluttered Mind
+2024-01-22 13:18:31,016:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:31,023:INFO:Augment for 4-2 phase found: Salvage Bin+
+2024-01-22 13:18:31,023:INFO:Match hash generated: 08dcbd01a246994c0f927d2a16d55092
+2024-01-22 13:18:31,034:INFO:Placement found: 8
+2024-01-22 13:18:31,048:INFO:Augment for 2-1 phase found: Scape goat
+2024-01-22 13:18:31,055:INFO:Augment for 3-2 phase found: Blistering Strikes
+2024-01-22 13:18:31,062:INFO:Augment for 4-2 phase found: Stationary Support II
+2024-01-22 13:18:31,062:INFO:Match hash generated: 64289b7d524264ebe74351169b686c84
+2024-01-22 13:18:31,074:INFO:Placement found: 2
+2024-01-22 13:18:31,088:INFO:Augment for 2-1 phase found: Escort Quest
+2024-01-22 13:18:31,095:INFO:Augment for 3-2 phase found: Not Today
+2024-01-22 13:18:31,104:INFO:Augment for 4-2 phase found: Jeweled Lotus III
+2024-01-22 13:18:31,104:INFO:Match hash generated: f31e6172bbcff8dce49c2f015ea9e266
+2024-01-22 13:18:31,116:INFO:Placement found: 1
+2024-01-22 13:18:31,130:INFO:Augment for 2-1 phase found: Spoils of War II
+2024-01-22 13:18:31,136:INFO:Augment for 3-2 phase found: Partial Ascension
+2024-01-22 13:18:31,143:INFO:Augment for 4-2 phase found: Healing Orbs II
+2024-01-22 13:18:31,144:INFO:Match hash generated: 66f1e05e70ad60acc14905f2033565fa
+2024-01-22 13:18:31,155:INFO:Placement found: 8
+2024-01-22 13:18:31,169:INFO:Augment for 2-1 phase found: Caretaker's Favor
+2024-01-22 13:18:31,176:INFO:Augment for 3-2 phase found: Indomitable Will
+2024-01-22 13:18:31,184:INFO:Augment for 4-2 phase found: Crown Guarded
+2024-01-22 13:18:31,184:INFO:Match hash generated: 7cf0b674ab45fce24ce0da6b5b6cddfa
+2024-01-22 13:18:31,196:INFO:Placement found: 6
+2024-01-22 13:18:31,209:INFO:Augment for 2-1 phase found: Not Today
+2024-01-22 13:18:31,216:INFO:Augment for 3-2 phase found: Capricious Forge
+2024-01-22 13:18:31,223:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:31,223:INFO:Match hash generated: 8cbf0c2f487b5ba7b0d250383f1d3f6f
+2024-01-22 13:18:31,235:INFO:Placement found: 3
+2024-01-22 13:18:31,248:INFO:Augment for 2-1 phase found: Level Up!
+2024-01-22 13:18:31,254:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:31,261:INFO:Augment for 4-2 phase found: Healing Orbs I
+2024-01-22 13:18:31,261:INFO:Match hash generated: 5f3791dc779819224d8e9e367a4805b2
+2024-01-22 13:18:32,059:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=3
+2024-01-22 13:18:32,808:INFO:Match container elements found on page 3
+2024-01-22 13:18:32,836:INFO:Placement found: 2
+2024-01-22 13:18:32,854:INFO:Augment for 2-1 phase found: Scrappy Inventions
+2024-01-22 13:18:32,861:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:32,869:INFO:Augment for 4-2 phase found: Teaming Up II
+2024-01-22 13:18:32,870:INFO:Match hash generated: 624dc985078ba9d434ea75b7801b39ec
+2024-01-22 13:18:32,882:INFO:Placement found: 4
+2024-01-22 13:18:32,895:INFO:Augment for 2-1 phase found: Heroic grab bag
+2024-01-22 13:18:32,905:INFO:Augment for 3-2 phase found: Gift from the fallen
+2024-01-22 13:18:32,912:INFO:Augment for 4-2 phase found: Harmacist II
+2024-01-22 13:18:32,912:INFO:Match hash generated: 3d1ec0369451530d74931d75b35a5820
+2024-01-22 13:18:32,926:INFO:Placement found: 4
+2024-01-22 13:18:32,943:INFO:Augment for 2-1 phase found: Vampirism I
+2024-01-22 13:18:32,950:INFO:Augment for 3-2 phase found: Capricious Forge
+2024-01-22 13:18:32,957:INFO:Augment for 4-2 phase found: Binary Airdrop
+2024-01-22 13:18:32,957:INFO:Match hash generated: c306f3d0c1058869810f3c4fc32397ba
+2024-01-22 13:18:32,970:INFO:Placement found: 1
+2024-01-22 13:18:32,983:INFO:Augment for 2-1 phase found: Clear Mind
+2024-01-22 13:18:32,990:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:32,998:INFO:Augment for 4-2 phase found: Crash Test Dummies
+2024-01-22 13:18:32,998:INFO:Match hash generated: c7687c9227c2156dd820e47b6febbede
+2024-01-22 13:18:33,010:INFO:Placement found: 4
+2024-01-22 13:18:33,024:INFO:Augment for 2-1 phase found: Cluttered Mind
+2024-01-22 13:18:33,032:INFO:Augment for 3-2 phase found: Phreaky Friday+
+2024-01-22 13:18:33,040:INFO:Augment for 4-2 phase found: Not Today
+2024-01-22 13:18:33,040:INFO:Match hash generated: cc98f96eaf85479f5764e41202d6ce3e
+2024-01-22 13:18:33,051:INFO:Placement found: 1
+2024-01-22 13:18:33,083:INFO:Augment for 2-1 phase found: Crown Guarded
+2024-01-22 13:18:33,090:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:33,097:INFO:Augment for 4-2 phase found: Cybernetic Uplink II
+2024-01-22 13:18:33,097:INFO:Match hash generated: 77af50a6e644171f7f2b62d833b9f3ce
+2024-01-22 13:18:33,109:INFO:Placement found: 3
+2024-01-22 13:18:33,122:INFO:Augment for 2-1 phase found: Cruel Pact
+2024-01-22 13:18:33,129:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:33,136:INFO:Augment for 4-2 phase found: Know Your Enemy
+2024-01-22 13:18:33,136:INFO:Match hash generated: 48ddf23b166300b2ab91c99f19b70285
+2024-01-22 13:18:33,148:INFO:Placement found: 2
+2024-01-22 13:18:33,161:INFO:Augment for 2-1 phase found: Clear Mind
+2024-01-22 13:18:33,168:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:33,175:INFO:Augment for 4-2 phase found: Recombobulator
+2024-01-22 13:18:33,175:INFO:Match hash generated: cab0b2212f378b27f9c88367ab8b1a90
+2024-01-22 13:18:33,188:INFO:Placement found: 1
+2024-01-22 13:18:33,201:INFO:Augment for 2-1 phase found: Scrappy Inventions
+2024-01-22 13:18:33,208:INFO:Augment for 3-2 phase found: Healing Orbs I
+2024-01-22 13:18:33,216:INFO:Augment for 4-2 phase found: Know Your Enemy
+2024-01-22 13:18:33,216:INFO:Match hash generated: d081e7cff4be9d38d025ea0527c92e12
+2024-01-22 13:18:33,228:INFO:Placement found: 2
+2024-01-22 13:18:33,258:INFO:Augment for 2-1 phase found: Crown Guarded
+2024-01-22 13:18:33,266:INFO:Augment for 3-2 phase found: Magic Wand
+2024-01-22 13:18:33,275:INFO:Augment for 4-2 phase found: Pandora's Items II
+2024-01-22 13:18:33,275:INFO:Match hash generated: c8d6b04f402835deba5d27fdf7e153f0
+2024-01-22 13:18:33,288:INFO:Placement found: 5
+2024-01-22 13:18:33,300:INFO:Augment for 2-1 phase found: Rich Get Richer
+2024-01-22 13:18:33,308:INFO:Augment for 3-2 phase found: Big Grab Bag
+2024-01-22 13:18:33,314:INFO:Augment for 4-2 phase found: Cybernetic Bulk III
+2024-01-22 13:18:33,315:INFO:Match hash generated: 29d3ea1ecb51efa84868454caac209aa
+2024-01-22 13:18:33,328:INFO:Placement found: 5
+2024-01-22 13:18:33,342:INFO:Augment for 2-1 phase found: Cutting Corners
+2024-01-22 13:18:33,349:INFO:Augment for 3-2 phase found: Cybernetic Bulk I
+2024-01-22 13:18:33,356:INFO:Augment for 4-2 phase found: Recombobulator
+2024-01-22 13:18:33,356:INFO:Match hash generated: caf4bfa5c66a7292b5f628bed104c7c6
+2024-01-22 13:18:33,368:INFO:Placement found: 1
+2024-01-22 13:18:33,381:INFO:Augment for 2-1 phase found: Stationary Support III
+2024-01-22 13:18:33,389:INFO:Augment for 3-2 phase found: Vampirism II
+2024-01-22 13:18:33,396:INFO:Augment for 4-2 phase found: Big Grab Bag
+2024-01-22 13:18:33,396:INFO:Match hash generated: cd48dbc719e4fab91f706203fa5623be
+2024-01-22 13:18:33,410:INFO:Placement found: 5
+2024-01-22 13:18:33,423:INFO:Augment for 2-1 phase found: Sleight of Hand
+2024-01-22 13:18:33,430:INFO:Augment for 3-2 phase found: You Have My Sword
+2024-01-22 13:18:33,438:INFO:Augment for 4-2 phase found: Martyr
+2024-01-22 13:18:33,438:INFO:Match hash generated: 191ee4c24e29507e05572cc0a3adcfc4
+2024-01-22 13:18:33,450:INFO:Placement found: 1
+2024-01-22 13:18:33,463:INFO:Augment for 2-1 phase found: Cluttered Mind
+2024-01-22 13:18:33,470:INFO:Augment for 3-2 phase found: Stationary Support II
+2024-01-22 13:18:33,477:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:33,477:INFO:Match hash generated: 27edadc64301aebd90c9448c44d2865e
+2024-01-22 13:18:33,490:INFO:Placement found: 3
+2024-01-22 13:18:33,530:INFO:Augment for 2-1 phase found: Stationary Support II
+2024-01-22 13:18:33,538:INFO:Augment for 3-2 phase found: Recombobulator
+2024-01-22 13:18:33,545:INFO:Augment for 4-2 phase found: Capricious Forge
+2024-01-22 13:18:33,545:INFO:Match hash generated: e40e38e6b360238fe1cd1de03b73191a
+2024-01-22 13:18:33,557:INFO:Placement found: 4
+2024-01-22 13:18:33,570:INFO:Augment for 2-1 phase found: Stationary Support I
+2024-01-22 13:18:33,577:INFO:Augment for 3-2 phase found: Martyr
+2024-01-22 13:18:33,584:INFO:Augment for 4-2 phase found: Big Grab Bag
+2024-01-22 13:18:33,584:INFO:Match hash generated: 5965349262f65400c5b24c3cdc91e432
+2024-01-22 13:18:33,595:INFO:Placement found: 2
+2024-01-22 13:18:33,608:INFO:Augment for 2-1 phase found: Silver Spoon
+2024-01-22 13:18:33,615:INFO:Augment for 3-2 phase found: Late game Specialist
+2024-01-22 13:18:33,628:INFO:Augment for 4-2 phase found: Jeweled Lotus II
+2024-01-22 13:18:33,628:INFO:Match hash generated: 9443ffafc381e8fa16723775fe7eef4a
+2024-01-22 13:18:33,640:INFO:Placement found: 1
+2024-01-22 13:18:33,654:INFO:Augment for 2-1 phase found: Stationary Support III
+2024-01-22 13:18:33,661:INFO:Augment for 3-2 phase found: Vampirism II
+2024-01-22 13:18:33,668:INFO:Augment for 4-2 phase found: Remember Your Roots
+2024-01-22 13:18:33,668:INFO:Match hash generated: 61623560ae00b73e9bdbe53aecaa44df
+2024-01-22 13:18:33,679:INFO:Placement found: 2
+2024-01-22 13:18:33,693:INFO:Augment for 2-1 phase found: Buried Treasures II
+2024-01-22 13:18:33,700:INFO:Augment for 3-2 phase found: You Have My Sword
+2024-01-22 13:18:33,707:INFO:Augment for 4-2 phase found: Contagion
+2024-01-22 13:18:33,707:INFO:Match hash generated: f313c8a793692d5b6dfdc3308bee3ca2
+2024-01-22 13:18:34,441:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=4
+2024-01-22 13:18:35,365:INFO:Match container elements found on page 4
+2024-01-22 13:18:35,402:INFO:Placement found: 1
+2024-01-22 13:18:35,418:INFO:Augment for 2-1 phase found: Caretaker's Chosen
+2024-01-22 13:18:35,425:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:35,432:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:35,433:INFO:Match hash generated: c19fc4018f6327197d3b70d8178af66b
+2024-01-22 13:18:35,467:INFO:Placement found: 3
+2024-01-22 13:18:35,484:INFO:Augment for 2-1 phase found: Crown Guarded
+2024-01-22 13:18:35,491:INFO:Augment for 3-2 phase found: Blistering Strikes
+2024-01-22 13:18:35,499:INFO:Augment for 4-2 phase found: Stationary Support II
+2024-01-22 13:18:35,499:INFO:Match hash generated: fc3b26d1bac3b38185825ecdf0cb0b85
+2024-01-22 13:18:35,512:INFO:Placement found: 1
+2024-01-22 13:18:35,526:INFO:Augment for 2-1 phase found: Escort Quest
+2024-01-22 13:18:35,534:INFO:Augment for 3-2 phase found: Teaming Up I
+2024-01-22 13:18:35,541:INFO:Augment for 4-2 phase found: Not Today
+2024-01-22 13:18:35,541:INFO:Match hash generated: dd6bfba91bd0a4a3dde4bf5bc833def4
+2024-01-22 13:18:35,557:INFO:Placement found: 4
+2024-01-22 13:18:35,572:INFO:Augment for 2-1 phase found: What Doesn't Kill You
+2024-01-22 13:18:35,581:INFO:Augment for 3-2 phase found: Tiny Titans
+2024-01-22 13:18:35,589:INFO:Augment for 4-2 phase found: Stationary Support II
+2024-01-22 13:18:35,589:INFO:Match hash generated: a1985725d2dd59155c776265b00885ee
+2024-01-22 13:18:35,606:INFO:Placement found: 5
+2024-01-22 13:18:35,629:INFO:Augment for 2-1 phase found: Escort Quest
+2024-01-22 13:18:35,637:INFO:Augment for 3-2 phase found: Hologram
+2024-01-22 13:18:35,648:INFO:Augment for 4-2 phase found: Missed Connections
+2024-01-22 13:18:35,648:INFO:Match hash generated: fafc286bceb35dde8c4a67774b09d684
+2024-01-22 13:18:35,662:INFO:Placement found: 1
+2024-01-22 13:18:35,680:INFO:Augment for 2-1 phase found: Crown Guarded
+2024-01-22 13:18:35,689:INFO:Augment for 3-2 phase found: Healing Orbs I
+2024-01-22 13:18:35,697:INFO:Augment for 4-2 phase found: Teaming Up II
+2024-01-22 13:18:35,697:INFO:Match hash generated: 3317f9a41009e0fb85df4180d839fcdb
+2024-01-22 13:18:35,712:INFO:Placement found: 2
+2024-01-22 13:18:35,728:INFO:Augment for 2-1 phase found: Lucky Streak
+2024-01-22 13:18:35,737:INFO:Augment for 3-2 phase found: Late game Specialist
+2024-01-22 13:18:35,745:INFO:Augment for 4-2 phase found: Crash Test Dummies
+2024-01-22 13:18:35,746:INFO:Match hash generated: 016fd00e1d08e020ae77d51d16020169
+2024-01-22 13:18:35,761:INFO:Placement found: 6
+2024-01-22 13:18:35,779:INFO:Augment for 2-1 phase found: Scrappy Inventions
+2024-01-22 13:18:35,788:INFO:Augment for 3-2 phase found: Best Friends I
+2024-01-22 13:18:35,797:INFO:Augment for 4-2 phase found: Portable Forge++
+2024-01-22 13:18:35,797:INFO:Match hash generated: 875a499bf5fe59f7dc7b63c631842459
+2024-01-22 13:18:35,811:INFO:Placement found: 1
+2024-01-22 13:18:35,828:INFO:Augment for 2-1 phase found: Spoils of War I
+2024-01-22 13:18:35,837:INFO:Augment for 3-2 phase found: Unified Resistance II
+2024-01-22 13:18:35,845:INFO:Augment for 4-2 phase found: Big Grab Bag
+2024-01-22 13:18:35,845:INFO:Match hash generated: 604571daec6d67d529a55101a7daf079
+2024-01-22 13:18:35,860:INFO:Placement found: 7
+2024-01-22 13:18:35,877:INFO:Augment for 2-1 phase found: Patient Study
+2024-01-22 13:18:35,887:INFO:Augment for 3-2 phase found: Hedge Fund+
+2024-01-22 13:18:35,896:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:35,896:INFO:Match hash generated: 8f8f6ead9257c219e67258e130e4c407
+2024-01-22 13:18:35,912:INFO:Placement found: 1
+2024-01-22 13:18:35,928:INFO:Augment for 2-1 phase found: Component Buffet
+2024-01-22 13:18:35,936:INFO:Augment for 3-2 phase found: Big Grab Bag
+2024-01-22 13:18:35,944:INFO:Augment for 4-2 phase found: Little Buddies
+2024-01-22 13:18:35,944:INFO:Match hash generated: c7261ddad5a722b3bcd363801d67ec20
+2024-01-22 13:18:35,958:INFO:Placement found: 5
+2024-01-22 13:18:35,971:INFO:Augment for 2-1 phase found: Stationary Support I
+2024-01-22 13:18:35,978:INFO:Augment for 3-2 phase found: Teaming Up II
+2024-01-22 13:18:35,986:INFO:Augment for 4-2 phase found: You Have My Bow
+2024-01-22 13:18:35,986:INFO:Match hash generated: 9e4d6008623d5a3cb01d494a1ed5097f
+2024-01-22 13:18:35,998:INFO:Placement found: 5
+2024-01-22 13:18:36,012:INFO:Augment for 2-1 phase found: Cybernetic Bulk III
+2024-01-22 13:18:36,019:INFO:Augment for 3-2 phase found: Cybernetic Uplink I
+2024-01-22 13:18:36,027:INFO:Augment for 4-2 phase found: Capricious Forge
+2024-01-22 13:18:36,027:INFO:Match hash generated: 21f8d3264d0cd16b077ac7f92af59476
+2024-01-22 13:18:36,038:INFO:Placement found: 2
+2024-01-22 13:18:36,052:INFO:Augment for 2-1 phase found: Crown Guarded
+2024-01-22 13:18:36,059:INFO:Augment for 3-2 phase found: Item Grab Bag I
+2024-01-22 13:18:36,067:INFO:Augment for 4-2 phase found: Cybernetic Bulk II
+2024-01-22 13:18:36,067:INFO:Match hash generated: bbb7b21d736b6212b513e16d9c68071b
+2024-01-22 13:18:36,080:INFO:Placement found: 1
+2024-01-22 13:18:36,093:INFO:Augment for 2-1 phase found: Spoils of War II
+2024-01-22 13:18:36,100:INFO:Augment for 3-2 phase found: Martyr
+2024-01-22 13:18:36,109:INFO:Augment for 4-2 phase found: Crash Test Dummies
+2024-01-22 13:18:36,109:INFO:Match hash generated: 8c76b4c1d9181239f83a93456a725dd2
+2024-01-22 13:18:36,122:INFO:Placement found: 3
+2024-01-22 13:18:36,136:INFO:Augment for 2-1 phase found: Cluttered Mind
+2024-01-22 13:18:36,144:INFO:Augment for 3-2 phase found: Indomitable Will
+2024-01-22 13:18:36,153:INFO:Augment for 4-2 phase found: Martyr
+2024-01-22 13:18:36,153:INFO:Match hash generated: 5cd8f45e5e2ab2ddaad2b3ef6a29e658
+2024-01-22 13:18:36,166:INFO:Placement found: 1
+2024-01-22 13:18:36,179:INFO:Augment for 2-1 phase found: Sleight of Hand
+2024-01-22 13:18:36,188:INFO:Augment for 3-2 phase found: Partial Ascension
+2024-01-22 13:18:36,196:INFO:Augment for 4-2 phase found: Jeweled Lotus III
+2024-01-22 13:18:36,196:INFO:Match hash generated: 73c4e96854304707fc8b31d1b7d4d543
+2024-01-22 13:18:36,209:INFO:Placement found: 2
+2024-01-22 13:18:36,223:INFO:Augment for 2-1 phase found: Three's Company
+2024-01-22 13:18:36,230:INFO:Augment for 3-2 phase found: Teaming Up II
+2024-01-22 13:18:36,237:INFO:Augment for 4-2 phase found: Gift from the fallen
+2024-01-22 13:18:36,238:INFO:Match hash generated: 0437e34978161c9aff8fa75634ab6ede
+2024-01-22 13:18:36,249:INFO:Placement found: 2
+2024-01-22 13:18:36,264:INFO:Augment for 2-1 phase found: You Have My Bow
+2024-01-22 13:18:36,272:INFO:Augment for 3-2 phase found: Healing Orbs I
+2024-01-22 13:18:36,281:INFO:Augment for 4-2 phase found: Inspiring Epitaph
+2024-01-22 13:18:36,281:INFO:Match hash generated: 78f969d65862a538412720744a693ee5
+2024-01-22 13:18:36,294:INFO:Placement found: 1
+2024-01-22 13:18:36,307:INFO:Augment for 2-1 phase found: Latent Forge
+2024-01-22 13:18:36,315:INFO:Augment for 3-2 phase found: Cybernetic Bulk I
+2024-01-22 13:18:36,323:INFO:Augment for 4-2 phase found: Jeweled Lotus II
+2024-01-22 13:18:36,323:INFO:Match hash generated: 260ce99e8fe15a83ea8d1d69ff0da32c
+2024-01-22 13:18:37,134:INFO:Accessing page: https://lolchess.gg/profile/tr/Haval%C4%B1%20nick-TR1/set10/matches?gameMode=rank&page=5
+2024-01-22 13:18:38,255:INFO:Match container elements found on page 5
+2024-01-22 13:18:38,282:INFO:Placement found: 1
+2024-01-22 13:18:38,296:INFO:Augment for 2-1 phase found: Good For Something I
+2024-01-22 13:18:38,303:INFO:Augment for 3-2 phase found: Vampirism I
+2024-01-22 13:18:38,311:INFO:Augment for 4-2 phase found: Phreaky Friday+
+2024-01-22 13:18:38,311:INFO:Match hash generated: d9b9b9a8cf15545308c401c313ec302a
+2024-01-22 13:18:38,324:INFO:Placement found: 5
+2024-01-22 13:18:38,338:INFO:Augment for 2-1 phase found: Not Today
+2024-01-22 13:18:38,346:INFO:Augment for 3-2 phase found: Buried Treasures III
+2024-01-22 13:18:38,355:INFO:Augment for 4-2 phase found: Silver Veil
+2024-01-22 13:18:38,355:INFO:Match hash generated: 56178233440f3ef848590196da5dd58b
+2024-01-22 13:18:38,367:INFO:Placement found: 4
+2024-01-22 13:18:38,380:INFO:Augment for 2-1 phase found: Caretaker's Chosen
+2024-01-22 13:18:38,387:INFO:Augment for 3-2 phase found: Lucky Gloves+
+2024-01-22 13:18:38,396:INFO:Augment for 4-2 phase found: Stationary Support III
+2024-01-22 13:18:38,396:INFO:Match hash generated: bd5c5fca13543aa03c173a4b85aef6b3
+2024-01-22 13:18:38,408:INFO:Placement found: 1
+2024-01-22 13:18:38,422:INFO:Augment for 2-1 phase found: Tiny Titans
+2024-01-22 13:18:38,429:INFO:Augment for 3-2 phase found: Sticks And Stones
+2024-01-22 13:18:38,436:INFO:Augment for 4-2 phase found: Gift from the fallen
+2024-01-22 13:18:38,436:INFO:Match hash generated: 1366d59d3ca315cf079b6a688e0c8ad4
+2024-01-22 13:18:38,450:INFO:Placement found: 1
+2024-01-22 13:18:38,465:INFO:Augment for 2-1 phase found: Unified Resistance II
+2024-01-22 13:18:38,473:INFO:Augment for 3-2 phase found: Tiny Titans
+2024-01-22 13:18:38,481:INFO:Augment for 4-2 phase found: You Have My Bow
+2024-01-22 13:18:38,481:INFO:Match hash generated: 2493eaae51ea198e54a086b6add2bd5c
+2024-01-22 13:18:38,494:INFO:Placement found: 7
+2024-01-22 13:18:38,508:INFO:Augment for 2-1 phase found: Help Is On The Way
+2024-01-22 13:18:38,516:INFO:Augment for 3-2 phase found: Cybernetic Uplink I
+2024-01-22 13:18:38,523:INFO:Augment for 4-2 phase found: Cybernetic Bulk III
+2024-01-22 13:18:38,523:INFO:Match hash generated: 7cc1de3331a906b98ec93a6a5ef3326b
+2024-01-22 13:18:38,537:INFO:Placement found: 2
+2024-01-22 13:18:38,550:INFO:Augment for 2-1 phase found: Idealism
+2024-01-22 13:18:38,559:INFO:Augment for 3-2 phase found: Silver Veil
+2024-01-22 13:18:38,566:INFO:Augment for 4-2 phase found: Phreaky Friday+
+2024-01-22 13:18:38,566:INFO:Match hash generated: 32627ae279afe36618b16c512c297097
+2024-01-22 13:18:38,579:INFO:Placement found: 2
+2024-01-22 13:18:38,594:INFO:Augment for 2-1 phase found: Radiant Relics
+2024-01-22 13:18:38,602:INFO:Augment for 3-2 phase found: Teaming Up I
+2024-01-22 13:18:38,609:INFO:Augment for 4-2 phase found: Not Today
+2024-01-22 13:18:38,609:INFO:Match hash generated: 036053387da208da8ac3d60db717c79b
+2024-01-22 13:18:38,626:INFO:Placement found: 4
+2024-01-22 13:18:38,641:INFO:Augment for 2-1 phase found: Silver Spoon
+2024-01-22 13:18:38,650:INFO:Augment for 3-2 phase found: Jeweled Lotus II
+2024-01-22 13:18:38,657:INFO:Augment for 4-2 phase found: Pandora's Items II
+2024-01-22 13:18:38,658:INFO:Match hash generated: 782e9647f04168312a4ff53df6d66b29
+2024-01-22 13:18:38,670:INFO:Placement found: 2
+2024-01-22 13:18:38,685:INFO:Augment for 2-1 phase found: Healing Orbs II
+2024-01-22 13:18:38,694:INFO:Augment for 3-2 phase found: Silver Veil
+2024-01-22 13:18:38,703:INFO:Augment for 4-2 phase found: Capricious Forge
+2024-01-22 13:18:38,703:INFO:Match hash generated: 70b50eaba4805a90d7ac66e301bbb9ae
+2024-01-22 13:18:38,717:INFO:Placement found: 2
+2024-01-22 13:18:38,732:INFO:Augment for 2-1 phase found: Latent Forge
+2024-01-22 13:18:38,741:INFO:Augment for 3-2 phase found: Little Buddies
+2024-01-22 13:18:38,749:INFO:Augment for 4-2 phase found: Final Ascension
+2024-01-22 13:18:38,749:INFO:Match hash generated: 8b8583af89088f435dcc4b38eb63539c
+2024-01-22 13:18:38,761:INFO:Placement found: 1
+2024-01-22 13:18:38,775:INFO:Augment for 2-1 phase found: Cutting Corners
+2024-01-22 13:18:38,781:INFO:Augment for 3-2 phase found: Teaming Up II
+2024-01-22 13:18:38,789:INFO:Augment for 4-2 phase found: Little Buddies
+2024-01-22 13:18:38,789:INFO:Match hash generated: 4b1bb47462918bad251940ddd8e48e34
+2024-01-22 13:18:38,800:INFO:Placement found: 4
+2024-01-22 13:18:38,814:INFO:Augment for 2-1 phase found: Sleight of Hand
+2024-01-22 13:18:38,821:INFO:Augment for 3-2 phase found: Pandora's Items III
+2024-01-22 13:18:38,829:INFO:Augment for 4-2 phase found: New Recruit
+2024-01-22 13:18:38,829:INFO:Match hash generated: a613cc045970193d66c23edbe75d621e
+2024-01-22 13:18:38,840:INFO:Placement found: 8
+2024-01-22 13:18:38,853:INFO:Augment for 2-1 phase found: Item Grab Bag I
+2024-01-22 13:18:38,860:INFO:Augment for 3-2 phase found: Blistering Strikes
+2024-01-22 13:18:38,867:INFO:Augment for 4-2 phase found: Cybernetic Uplink III
+2024-01-22 13:18:38,867:INFO:Match hash generated: b486c275c4f14c3b1a42e6debb9ed914
+2024-01-22 13:18:38,879:INFO:Placement found: 1
+2024-01-22 13:18:38,892:INFO:Augment for 2-1 phase found: Scrappy Inventions
+2024-01-22 13:18:38,899:INFO:Augment for 3-2 phase found: Crash Test Dummies
+2024-01-22 13:18:38,907:INFO:Augment for 4-2 phase found: The Golden Egg
+2024-01-22 13:18:38,907:INFO:Match hash generated: 520d76f94bb4c2ed6eb950c3e4923697
+2024-01-22 13:18:38,918:INFO:Placement found: 4
+2024-01-22 13:18:38,932:INFO:Augment for 2-1 phase found: Blood Money
+2024-01-22 13:18:38,939:INFO:Augment for 3-2 phase found: Last Stand
+2024-01-22 13:18:38,946:INFO:Augment for 4-2 phase found: Healing Orbs II
+2024-01-22 13:18:38,946:INFO:Match hash generated: c8b975802be7bfdff1a62f1906ed65c5
+2024-01-22 13:18:38,958:INFO:Placement found: 6
+2024-01-22 13:18:38,971:INFO:Augment for 2-1 phase found: Iron Assets
+2024-01-22 13:18:38,979:INFO:Augment for 3-2 phase found: Teaming Up II
+2024-01-22 13:18:38,986:INFO:Augment for 4-2 phase found: Not Today
+2024-01-22 13:18:38,986:INFO:Match hash generated: bebf2daaa2ec4a74c9b813453a30a280
+2024-01-22 13:18:38,998:INFO:Placement found: 4
+2024-01-22 13:18:39,011:INFO:Augment for 2-1 phase found: Sleight of Hand
+2024-01-22 13:18:39,018:INFO:Augment for 3-2 phase found: Stationary Support III
+2024-01-22 13:18:39,025:INFO:Augment for 4-2 phase found: Little Buddies
+2024-01-22 13:18:39,025:INFO:Match hash generated: 9c983626ed80b287bef739809ca62ee7
+2024-01-22 13:18:39,036:INFO:Placement found: 1
+2024-01-22 13:18:39,049:INFO:Augment for 2-1 phase found: Clear Mind
+2024-01-22 13:18:39,056:INFO:Augment for 3-2 phase found: Tiniest Titan+
+2024-01-22 13:18:39,063:INFO:Augment for 4-2 phase found: Little Buddies
+2024-01-22 13:18:39,063:INFO:Match hash generated: 4c8d2885e398afbee241876f57936e12
+2024-01-22 13:18:39,074:INFO:Placement found: 8
+2024-01-22 13:18:39,088:INFO:Augment for 2-1 phase found: Iron Assets
+2024-01-22 13:18:39,095:INFO:Augment for 3-2 phase found: Healing Orbs II
+2024-01-22 13:18:39,102:INFO:Augment for 4-2 phase found: Martyr
+2024-01-22 13:18:39,102:INFO:Match hash generated: 6d9aaaa49847c55537517b33422e6f25
+2024-01-22 13:18:39,104:INFO:Match data for Haval\u0131 nick#TR1 saved.
+2024-01-22 13:20:05,186:INFO:Fetching top players from the leaderboard...
+2024-01-22 13:20:07,414:INFO:Leaderboard loaded.
+2024-01-22 13:20:11,834:INFO:Starting to create augment mapping...
+2024-01-22 13:20:20,224:INFO:Augment mapping creation finished.
+2024-01-22 13:42:42,059:INFO:Data collection complete.

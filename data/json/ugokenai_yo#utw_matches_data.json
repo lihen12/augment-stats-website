@@ -1,0 +1,902 @@
+[
+    {
+        "unique_id": "70f113616cfbb5ff9d897eaf9ff41298",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Healing Orbs I",
+            "4-2": "Infernal Contract"
+        }
+    },
+    {
+        "unique_id": "5642405318bcb4bfcaa904d96145dfa5",
+        "placement": 2,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "cc95fa3b240093a30623d018090a8f66",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stimpack",
+            "3-2": "Big Grab Bag",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "6612ae70acf161d6d2ff329cd6a974cd",
+        "placement": 1,
+        "augments": {
+            "2-1": "Blistering Strikes",
+            "3-2": "Vampirism I",
+            "4-2": "Infernal Contract"
+        }
+    },
+    {
+        "unique_id": "ad73e9a73e9eee9014e54e0b115ef74b",
+        "placement": 4,
+        "augments": {
+            "2-1": "You Have My Sword",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Pandora's Items II"
+        }
+    },
+    {
+        "unique_id": "7096147948e284c8946f255b8aafa6ee",
+        "placement": 2,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Cybernetic Uplink II"
+        }
+    },
+    {
+        "unique_id": "a5219b92970ba6f7fdd23423737c3bfa",
+        "placement": 1,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Healing Orbs II",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "d92887aec8f1b3b7e315ef09241b653f",
+        "placement": 1,
+        "augments": {
+            "2-1": "You Have My Bow",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "81a852a297d71d61ac1f8adb9f583639",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Teaming Up II",
+            "4-2": "Final Ascension"
+        }
+    },
+    {
+        "unique_id": "0847f2be2b2d9e3c6f48b044c09b8656",
+        "placement": 1,
+        "augments": {
+            "2-1": "A Cut Above",
+            "3-2": "Tiny Titans",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "d99b7bbd926e7402af7afbc948bb2209",
+        "placement": 2,
+        "augments": {
+            "2-1": "Blistering Strikes",
+            "3-2": "Heart throbs",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "25842b868502b1202ae378b9212ff02f",
+        "placement": 2,
+        "augments": {
+            "2-1": "Twin Terror I",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "544a9e0d6215748ca0b796fc6a350ddc",
+        "placement": 4,
+        "augments": {
+            "2-1": "Roll The Dice",
+            "3-2": "Lucky Gloves+",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "0f96131d05052c13df777cae5ae501c3",
+        "placement": 1,
+        "augments": {
+            "2-1": "AFK",
+            "3-2": "Harmacist I",
+            "4-2": "Silver Veil"
+        }
+    },
+    {
+        "unique_id": "639598b3149815f86952668c49b70360",
+        "placement": 4,
+        "augments": {
+            "2-1": "Determined investors",
+            "3-2": "Stationary Support III",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "6ccee4586e1d9112db7638bccd5a3345",
+        "placement": 1,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Know Your Enemy",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "fd2a04331de49e2dbb21cef2ef16087c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Best Friends I",
+            "3-2": "Indomitable Will",
+            "4-2": "Heavy Hitters"
+        }
+    },
+    {
+        "unique_id": "1f0cd0cf839d35cc2d9571e9571e7fae",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Stationary Support II",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "8761878a1c7d4c9fe54604f8d7daacc8",
+        "placement": 1,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "f283d7d8f76f52ebb0336dab68a59952",
+        "placement": 4,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Inspiring Epitaph",
+            "4-2": "Phreaky Friday+"
+        }
+    },
+    {
+        "unique_id": "448dcbfb728505ed42eb742e6d047bf9",
+        "placement": 8,
+        "augments": {
+            "2-1": "Blood Money",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Missed Connections"
+        }
+    },
+    {
+        "unique_id": "e07a8adfb23abc9487b94795a3256177",
+        "placement": 6,
+        "augments": {
+            "2-1": "Low Interest Rates",
+            "3-2": "Sleight of Hand",
+            "4-2": "Double The Funk"
+        }
+    },
+    {
+        "unique_id": "0280c4d05fe1142f0c2eec6d483e0402",
+        "placement": 4,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Ascension"
+        }
+    },
+    {
+        "unique_id": "c9de532f306aa4b475be19f4fe7b6430",
+        "placement": 6,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Partial Ascension",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "714b6ac973582528b16c9c7cdb544402",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Portable Forge++",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "3d5edc6c4c3b5a2c497205c7116b3de3",
+        "placement": 1,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Support Cache",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "793a18eaad4050acaa634164f14014ed",
+        "placement": 5,
+        "augments": {
+            "2-1": "Keepers II",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "8d5a6b94a753a4ed7a40f3949b9f2394",
+        "placement": 3,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Missed Connections",
+            "4-2": "Cybernetic Bulk I"
+        }
+    },
+    {
+        "unique_id": "02805242089c613afb65c9b1837eb578",
+        "placement": 1,
+        "augments": {
+            "2-1": "Tiny Titans",
+            "3-2": "Vampirism I",
+            "4-2": "Infernal Contract"
+        }
+    },
+    {
+        "unique_id": "3715708ec14d34696519fc654dbf1760",
+        "placement": 1,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Inspiring Epitaph",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "9b7f9ca961f4fb28b36bfdbb58e1d3e1",
+        "placement": 2,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Vampirism II",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "fe9da00785daeb567305067b0eb28710",
+        "placement": 1,
+        "augments": {
+            "2-1": "Level Up!",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "ecde6478cc2f30758b526dd54f97ec5d",
+        "placement": 2,
+        "augments": {
+            "2-1": "Heroic grab bag",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Healing Orbs I"
+        }
+    },
+    {
+        "unique_id": "57b1984cb7dc6a6afb8fd205fa0e736b",
+        "placement": 5,
+        "augments": {
+            "2-1": "On a Roll",
+            "3-2": "Big Grab Bag",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "993519c509b9915e75772f90bf3f544f",
+        "placement": 6,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Team Building",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "73d9e1d464b1c4c97fae0462dbea50a4",
+        "placement": 5,
+        "augments": {
+            "2-1": "Magic Wand",
+            "3-2": "What The Forge",
+            "4-2": "One, Two, Five!"
+        }
+    },
+    {
+        "unique_id": "ca67b6f7df7d4940dc9c2419b3add627",
+        "placement": 1,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Balanced Budget II",
+            "4-2": "Lucky Gloves+"
+        }
+    },
+    {
+        "unique_id": "2882aed336f744aac8e05786baebb00a",
+        "placement": 1,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "bcd73e8de950d0c4fdca73da2fa88907",
+        "placement": 2,
+        "augments": {
+            "2-1": "Blinged Out",
+            "3-2": "Overwhelming Force",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "19196e379bc115413097a0a84bbd5534",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Idealism",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "5076f5ac519234d9f1d7b75030e22d7d",
+        "placement": 6,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Big Grab Bag",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "f34bdf6e919db7f418cdd23d1bce4c92",
+        "placement": 2,
+        "augments": {
+            "2-1": "Crown Guarded",
+            "3-2": "Lucky Gloves+",
+            "4-2": "Balanced Budget II"
+        }
+    },
+    {
+        "unique_id": "fed43548805f6e7ddf8c896dc17c3fd2",
+        "placement": 2,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "6b01c40d42431cdf65793c3a7776302a",
+        "placement": 1,
+        "augments": {
+            "2-1": "Remember Your Roots",
+            "3-2": "Heavy Hitters",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "e41921c91d084af05dc0ea41ab879ed8",
+        "placement": 7,
+        "augments": {
+            "2-1": "Tons of Stats!",
+            "3-2": "Binary Airdrop",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "364348435651c74f6f4e0a48a8ddd43c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Prisimatic Ticket",
+            "4-2": "Impenetrable Bulwark"
+        }
+    },
+    {
+        "unique_id": "f019c26030ab68d279719223265d403d",
+        "placement": 2,
+        "augments": {
+            "2-1": "Shock Treatment",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "You Have My Sword"
+        }
+    },
+    {
+        "unique_id": "729f620e7f5af5742a648bdcef6cd4bf",
+        "placement": 4,
+        "augments": {
+            "2-1": "Birthday Present",
+            "3-2": "Overwhelming Force",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "5b458c796d60508a2f49a0b48958edcf",
+        "placement": 6,
+        "augments": {
+            "2-1": "Tiny Titans",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Harmacist III"
+        }
+    },
+    {
+        "unique_id": "fa3cccef25a63c973882954706c5ee85",
+        "placement": 4,
+        "augments": {
+            "2-1": "Support Cache",
+            "3-2": "Sleight of Hand",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "aa08c5440b5ec764e7abb331a83055d8",
+        "placement": 5,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
+        "unique_id": "53a3f339855ac5fc7b768184a090b620",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "4de9f5d8c9292d3d8dda6b68d30f7f5f",
+        "placement": 4,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Tiny Titans",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "6b2c3219ca05b95eccf41757385a41ad",
+        "placement": 8,
+        "augments": {
+            "2-1": "Keepers I",
+            "3-2": "Unified Resistance I",
+            "4-2": "Talent Search"
+        }
+    },
+    {
+        "unique_id": "15aa914731b85d61be34fab14bad8419",
+        "placement": 3,
+        "augments": {
+            "2-1": "Blistering Strikes",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "5ac6d8b4c13a6d3eaa7c06107e1650a7",
+        "placement": 4,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Capricious Forge",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "a0d9545af6ece9b47b0aa0280d92e57d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "c85258ff846de8eebc458102a9519dce",
+        "placement": 4,
+        "augments": {
+            "2-1": "Silver Spoon",
+            "3-2": "Little Buddies",
+            "4-2": "Phreaky Friday+"
+        }
+    },
+    {
+        "unique_id": "7a51197192646baed0481c68b85a4363",
+        "placement": 7,
+        "augments": {
+            "2-1": "Twin Terror II",
+            "3-2": "Harmacist II",
+            "4-2": "Heavy Hitters"
+        }
+    },
+    {
+        "unique_id": "4933fc1b37290f230b2f2a27201741ec",
+        "placement": 6,
+        "augments": {
+            "2-1": "Stimpack",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "One, Two, Five!"
+        }
+    },
+    {
+        "unique_id": "6b05a187695260c30a15d246feb9c42b",
+        "placement": 4,
+        "augments": {
+            "2-1": "Frequent Flier",
+            "3-2": "Crown Guarded",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "0096e08ade168c6e11644fe72598ef7c",
+        "placement": 3,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Stationary Support III",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "4bcd7ca57291f3592a79838400a4e528",
+        "placement": 1,
+        "augments": {
+            "2-1": "Support Cache",
+            "3-2": "Determined investors",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "b6c1ad3542b836fd9505027760fe80be",
+        "placement": 3,
+        "augments": {
+            "2-1": "Cybernetic Bulk II",
+            "3-2": "Overwhelming Force",
+            "4-2": "Indomitable Will"
+        }
+    },
+    {
+        "unique_id": "6b3744a0165002969bfed1ede902dea5",
+        "placement": 4,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Idealism",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "945b50c3f1313e858be3888ba1c7b0d4",
+        "placement": 6,
+        "augments": {
+            "2-1": "Going Long",
+            "3-2": "Tiny Titans",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "1965e0732fc4994112738bd9b210cec0",
+        "placement": 2,
+        "augments": {
+            "2-1": "Tiniest Titan",
+            "3-2": "Tiny Titans",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "d460fcfac0604c6d2c92967e602860c6",
+        "placement": 2,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "d3f5165bbcb173db4061dce1910ebeca",
+        "placement": 3,
+        "augments": {
+            "2-1": "Prisimatic Ticket",
+            "3-2": "Vampirism I",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "ff1b8d1c27112ce467c308cef103297f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Balanced Budget II",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "19c34c810196a0c21bb428ff4857adad",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Harmacist I",
+            "4-2": "Submit To The Pit"
+        }
+    },
+    {
+        "unique_id": "fc556279e7dbc77b5047e673f8c19aed",
+        "placement": 2,
+        "augments": {
+            "2-1": "Stationary Support III",
+            "3-2": "Buried Treasures III",
+            "4-2": "Harmacist III"
+        }
+    },
+    {
+        "unique_id": "1ac581ee6983b18454fc6bf959a3373a",
+        "placement": 4,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Cybernetic Bulk I"
+        }
+    },
+    {
+        "unique_id": "189cd5291d9d05a0b859f01fe4fe9fbe",
+        "placement": 2,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Tiny Titans",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "d9f07f2b7990054c7818165d70d12ca7",
+        "placement": 6,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "One, Two, Five!"
+        }
+    },
+    {
+        "unique_id": "bc7ceae938cb1a4ae37f1e9f38a6234c",
+        "placement": 4,
+        "augments": {
+            "2-1": "Bounty Hunters",
+            "3-2": "Harmacist I",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "3d6466a30f00db6e6d330165ad64ecfd",
+        "placement": 1,
+        "augments": {
+            "2-1": "Cybernetic Bulk III",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "1a57c400953f28392867accb83dd19d1",
+        "placement": 1,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Heroic grab bag",
+            "4-2": "Blinged Out"
+        }
+    },
+    {
+        "unique_id": "5a63abd59d2d37c1f375a0e8c01ffb4a",
+        "placement": 1,
+        "augments": {
+            "2-1": "Support Cache",
+            "3-2": "Tiny Titans",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "fc8dcf5bce14a01e3565168d543c0be3",
+        "placement": 3,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Partial Ascension",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "1b018317bc32b028334e1503726a6bd5",
+        "placement": 7,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Little Buddies",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "065d430ceb56422d2b233a39225b70bf",
+        "placement": 2,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Crash Test Dummies",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "2af4e11f8c07b787d13a9d1c03e46e65",
+        "placement": 4,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Portable Forge++",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "6d37971e2c42e27d8daf588b929d15f4",
+        "placement": 2,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Ascension",
+            "4-2": "Gift from the fallen"
+        }
+    },
+    {
+        "unique_id": "137359d6d6c0711300560357f8845d62",
+        "placement": 6,
+        "augments": {
+            "2-1": "Young and Wild and Free",
+            "3-2": "Binary Airdrop",
+            "4-2": "Prisimatic Ticket"
+        }
+    },
+    {
+        "unique_id": "b0ec13c1d1e50dd7d94fd9aa6647eca6",
+        "placement": 6,
+        "augments": {
+            "2-1": "Twin Terror I",
+            "3-2": "Heroic grab bag",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "a0a93a691c13a5333f91fbbe5e596afa",
+        "placement": 1,
+        "augments": {
+            "2-1": "Cybernetic Bulk II",
+            "3-2": "Pandora's Items",
+            "4-2": "Overwhelming Force"
+        }
+    },
+    {
+        "unique_id": "d5bd8469641458249fc03b2659d1e210",
+        "placement": 1,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Metal Heads",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "c0c6e5ac5d3900735b008b01c4522990",
+        "placement": 6,
+        "augments": {
+            "2-1": "Team Building",
+            "3-2": "Indomitable Will",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "7738b9a6053e53e5cae012c4311811d6",
+        "placement": 5,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Teaming Up II",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "cddace36f2f95218a5b5ab533fafbf50",
+        "placement": 1,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Frequent Flier",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "166cd52d2dcfa47ab03c6d1181fa3288",
+        "placement": 8,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Tiny Titans",
+            "4-2": "One, Two, Five!"
+        }
+    },
+    {
+        "unique_id": "f0184254532eb9b1021da5ccd032214e",
+        "placement": 3,
+        "augments": {
+            "2-1": "Patient Study",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "3e583be89460c498db675cf689317ab9",
+        "placement": 2,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Contagion",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "695e44a962d9d0f90b401f4b2a9fc3b9",
+        "placement": 3,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Tiny Titans",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "18e4ae0c76c74b9cff1238bed98e5f19",
+        "placement": 3,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Missed Connections",
+            "4-2": "Blistering Strikes"
+        }
+    },
+    {
+        "unique_id": "dfb5b4c2523a07d2a3182c3ddfe713cc",
+        "placement": 4,
+        "augments": {
+            "2-1": "Stimpack",
+            "3-2": "Tiny Titans",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "a1d96ce198675d224e921ceb7f55ca11",
+        "placement": 7,
+        "augments": {
+            "2-1": "Double The Funk",
+            "3-2": "Final Ascension",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "74582c00a655c271d8c42b0c59533d3a",
+        "placement": 3,
+        "augments": {
+            "2-1": "Shock Treatment",
+            "3-2": "Keepers I",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "24d25541c6b9fe43e404dd65f7ff136c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Fully Adapted",
+            "3-2": "Ascension",
+            "4-2": "Phreaky Friday+"
+        }
+    }
+]

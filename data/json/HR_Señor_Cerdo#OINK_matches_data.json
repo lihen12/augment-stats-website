@@ -1,0 +1,902 @@
+[
+    {
+        "unique_id": "bfc33fc153b5dbf1bafeee8e1bef7ab5",
+        "placement": 4,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Martyr",
+            "4-2": "Gift from the fallen"
+        }
+    },
+    {
+        "unique_id": "eda4c9e8f53136d2ab4a3572f4e24f08",
+        "placement": 3,
+        "augments": {
+            "2-1": "Silver Spoon",
+            "3-2": "Little Buddies",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "c812facadefe849c6df0c875f27f268e",
+        "placement": 4,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Rolling For Days I",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "0f350afe49144119386b2be4bbcd113b",
+        "placement": 8,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Determined investors",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "456d97876382a11badaaec09b51cdd95",
+        "placement": 7,
+        "augments": {
+            "2-1": "Vampirism I",
+            "3-2": "Three's a Crowd",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "63e5cfb8d244e3d7d2e27dee315c3c41",
+        "placement": 2,
+        "augments": {
+            "2-1": "Cruel Pact",
+            "3-2": "Prisimatic Ticket",
+            "4-2": "Phreaky Friday+"
+        }
+    },
+    {
+        "unique_id": "1b00ae8e00ddbf2c9bdee7515d037703",
+        "placement": 1,
+        "augments": {
+            "2-1": "Jeweled Lotus II",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "f599dd90c1c02a02d5cddff1eaf8f1ca",
+        "placement": 1,
+        "augments": {
+            "2-1": "Heroic grab bag",
+            "3-2": "Martyr",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "2eab964503d1c05ab530b3798d364dba",
+        "placement": 1,
+        "augments": {
+            "2-1": "Item Grab Bag I",
+            "3-2": "Rolling For Days I",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "cbf9f8e2b80ee18063b085b35546fa28",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scape goat",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "7d50c92bd25f92c98ddb9c79505c909f",
+        "placement": 7,
+        "augments": {
+            "2-1": "Switching Gears",
+            "3-2": "Stationary Support II",
+            "4-2": "Metal Heads"
+        }
+    },
+    {
+        "unique_id": "b24176a0ea7e57ab818618e11801dd3c",
+        "placement": 3,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Overwhelming Force",
+            "4-2": "Emotional Connection"
+        }
+    },
+    {
+        "unique_id": "c431e58d4880a3ff7333d680886013e4",
+        "placement": 3,
+        "augments": {
+            "2-1": "Caretaker's Ally",
+            "3-2": "Harmacist II",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "e33a89b371091daed54f47e05f2ef901",
+        "placement": 6,
+        "augments": {
+            "2-1": "March of Progress",
+            "3-2": "Teaming Up I",
+            "4-2": "Balanced Budget II"
+        }
+    },
+    {
+        "unique_id": "8686ab193a34f2c62ada736631ba10a0",
+        "placement": 5,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Vampirism I",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "06a703584cfe9c738e3b7c7851fc40b4",
+        "placement": 2,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Radiant Relics",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "f45dff3ac9f9516ef909b6633056700b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Shock Treatment",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "4519c2d2bb32abd44346b670eda2d107",
+        "placement": 1,
+        "augments": {
+            "2-1": "Hedge Fund",
+            "3-2": "Vampirism I",
+            "4-2": "Gift from the fallen"
+        }
+    },
+    {
+        "unique_id": "1668d2f1fa1ca3de37a631a2fb29324a",
+        "placement": 4,
+        "augments": {
+            "2-1": "Heart throbs",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "c2b5e0d30d5fe66265048d14533b5d2e",
+        "placement": 6,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Inspiring Epitaph",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "1f32dbbfc7620f23e4cb85357dc734df",
+        "placement": 2,
+        "augments": {
+            "2-1": "Patient Study",
+            "3-2": "Rolling For Days I",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "6f260c18dc1c4e00485df1a360b4f943",
+        "placement": 3,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Big Grab Bag",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "23df2b0d3aeba5d133b7de65f14891ea",
+        "placement": 3,
+        "augments": {
+            "2-1": "Know Your Enemy",
+            "3-2": "Cybernetic Uplink I",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "175d19152e9faac773ab5de866a072d7",
+        "placement": 3,
+        "augments": {
+            "2-1": "Cybernetic Uplink I",
+            "3-2": "Partial Ascension",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "1f71b028f9f987ce8b23e3350565db47",
+        "placement": 4,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Blistering Strikes",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "40b042f8aa462261cf611affdb8190cf",
+        "placement": 1,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "New Recruit",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "fbbc2312e75b8e4d5c5d819f96e3df71",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scrappy Inventions",
+            "3-2": "Teaming Up I",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "237da56604a41a167f5083a5ee001b5b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Martyr",
+            "3-2": "Binary Airdrop",
+            "4-2": "Cybernetic Uplink I"
+        }
+    },
+    {
+        "unique_id": "dd32730c8595c0e0d1fb8dae800af169",
+        "placement": 3,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Magic Wand",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "67003c177b039dc0d5afb5c7fe84e4d1",
+        "placement": 3,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Twin Terror II",
+            "4-2": "Item Grab Bag I"
+        }
+    },
+    {
+        "unique_id": "420a433242d69d70d5d0396ad253d9b2",
+        "placement": 1,
+        "augments": {
+            "2-1": "Risky Moves",
+            "3-2": "Last Stand",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "430db2048d9146273fcc825a0105da3c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "ac17148222c7e9e3fd7bd0cca8f3cc6f",
+        "placement": 4,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Lucky Gloves+",
+            "4-2": "Ascension"
+        }
+    },
+    {
+        "unique_id": "7ac6355325eb59fc2284aca380dff4f9",
+        "placement": 2,
+        "augments": {
+            "2-1": "Jeweled Lotus II",
+            "3-2": "Martyr",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "07b955c482e25f309dc17981e77d319e",
+        "placement": 4,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Harmacist III",
+            "4-2": "Parting Gifts"
+        }
+    },
+    {
+        "unique_id": "f610750dd75a33aa451e1d021adb912f",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scrappy Inventions",
+            "3-2": "Heroic grab bag",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "66f110cd6187f1802a1b73027721b832",
+        "placement": 1,
+        "augments": {
+            "2-1": "Martyr",
+            "3-2": "Tons of Stats!",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "e2ab8f34f7b82bcccd16f259ac8404b7",
+        "placement": 2,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Rolling For Days I",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "37ff1440105e42abda29096b237e8cd2",
+        "placement": 4,
+        "augments": {
+            "2-1": "Cybernetic Uplink I",
+            "3-2": "On a Roll",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "d397930fa7f6d8078ea2c7607d0bd080",
+        "placement": 3,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Harmacist III",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "dffee08a7cb7ab9f52f0e514835203ff",
+        "placement": 5,
+        "augments": {
+            "2-1": "Twin Terror II",
+            "3-2": "Martyr",
+            "4-2": "Heroic Presence"
+        }
+    },
+    {
+        "unique_id": "19a40a73632ea9f073ba1a8ee9fba820",
+        "placement": 2,
+        "augments": {
+            "2-1": "Stationary Support I",
+            "3-2": "Crown Guarded",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "e7fa82f2979a2555790af16250bdc70d",
+        "placement": 3,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Big Grab Bag",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
+        "unique_id": "df3ee21b440d0784cbaae8c8625fd4eb",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scrappy Inventions",
+            "3-2": "Rolling For Days I",
+            "4-2": "Cybernetic Uplink II"
+        }
+    },
+    {
+        "unique_id": "bfb5bdebac17f4c140771ace28a7f9f5",
+        "placement": 6,
+        "augments": {
+            "2-1": "Emotional Connection",
+            "3-2": "Unleashed Arcana",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "303d89cf0ea64b3e40d37259c61e858d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Heroic grab bag",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "394b805fab08bc975ce9768d7baf0d2f",
+        "placement": 1,
+        "augments": {
+            "2-1": "Keepers II",
+            "3-2": "Hologram",
+            "4-2": "Crown Guarded"
+        }
+    },
+    {
+        "unique_id": "7f2fa65012692de1b6b4e63f83c7fde2",
+        "placement": 5,
+        "augments": {
+            "2-1": "AFK",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Metal Heads"
+        }
+    },
+    {
+        "unique_id": "76446b7ec01d3bb6141f81279908cba3",
+        "placement": 4,
+        "augments": {
+            "2-1": "Roll The Dice",
+            "3-2": "Cybernetic Uplink I",
+            "4-2": "Cybernetic Uplink II"
+        }
+    },
+    {
+        "unique_id": "50988fdd2ffc0ba5b125c95dd88e0ac8",
+        "placement": 3,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Unleashed Arcana",
+            "4-2": "Infusion"
+        }
+    },
+    {
+        "unique_id": "f8ec27fbfd4d17ba4ec005b803c7b719",
+        "placement": 4,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Magic Wand",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "2dff19311a3aa2af6e2025955a887dd3",
+        "placement": 3,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Idealism",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "5c1230d30762ad9fb94a0beca4ead97f",
+        "placement": 2,
+        "augments": {
+            "2-1": "Team Building",
+            "3-2": "Cybernetic Uplink I",
+            "4-2": "Cybernetic Uplink III"
+        }
+    },
+    {
+        "unique_id": "93ecff33c368377270d0fac4f5e7ee19",
+        "placement": 6,
+        "augments": {
+            "2-1": "March of Progress",
+            "3-2": "Harmacist I",
+            "4-2": "Three's a Crowd"
+        }
+    },
+    {
+        "unique_id": "96d6a694109551a40e43c7a65c6db81d",
+        "placement": 5,
+        "augments": {
+            "2-1": "Extended Play",
+            "3-2": "Lucky Streak",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
+        "unique_id": "0f78857696ae40621d8d822ecebf7e70",
+        "placement": 4,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "New Recruit",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "b5a07e7e0f57937401f016b94828d3a3",
+        "placement": 1,
+        "augments": {
+            "2-1": "Good For Something II",
+            "3-2": "Heart throbs",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "15c061770b902edcf509ca3bd049bfd9",
+        "placement": 6,
+        "augments": {
+            "2-1": "Too Big To Fail",
+            "3-2": "Determined investors",
+            "4-2": "Blistering Strikes"
+        }
+    },
+    {
+        "unique_id": "876bbc121c64837252c26ac1a5859148",
+        "placement": 4,
+        "augments": {
+            "2-1": "Sticks And Stones",
+            "3-2": "Idealism",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "e0d38589ad392ddddbd3152bfa7efa5d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Spoils of War II",
+            "3-2": "Determined investors",
+            "4-2": "Keepers II"
+        }
+    },
+    {
+        "unique_id": "1405d2808183a3a14ddb07766d17f4a4",
+        "placement": 2,
+        "augments": {
+            "2-1": "Emotional Connection",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "25344c2f5f23711f440541ad622c42dd",
+        "placement": 6,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Buried Treasures III",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "548dedbd767d58ad4632307532ebcb97",
+        "placement": 3,
+        "augments": {
+            "2-1": "Roll The Dice",
+            "3-2": "Stationary Support II",
+            "4-2": "Recombobulator"
+        }
+    },
+    {
+        "unique_id": "fc84876412693ef058ff0e56c7f6d001",
+        "placement": 5,
+        "augments": {
+            "2-1": "Extended Play",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Overwhelming Force"
+        }
+    },
+    {
+        "unique_id": "80bb0915c280bab6fa978db3d9b2f0b5",
+        "placement": 6,
+        "augments": {
+            "2-1": "That's Jazz, Baby!",
+            "3-2": "Vampirism I",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "cf2ae2b7748359453e4592096ed325cd",
+        "placement": 1,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Capricious Forge",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "dbc3fb97ca51aa8cd820b8879da3e2e9",
+        "placement": 2,
+        "augments": {
+            "2-1": "Submit To The Pit",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "090673e065326aabefb3dd830d308f68",
+        "placement": 1,
+        "augments": {
+            "2-1": "Item Grab Bag I",
+            "3-2": "Recombobulator",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "cf45ee81efde302d8b1f4865beb0fc58",
+        "placement": 1,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Phreaky Friday+",
+            "4-2": "One, Two, Five!"
+        }
+    },
+    {
+        "unique_id": "c3ab871a8a88f4c984906e45f896d171",
+        "placement": 5,
+        "augments": {
+            "2-1": "Remember Your Roots",
+            "3-2": "Harmacist II",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "910e0b4a2d4993e3ca743673c851880d",
+        "placement": 5,
+        "augments": {
+            "2-1": "Escort Quest",
+            "3-2": "You Have My Sword",
+            "4-2": "Capricious Forge"
+        }
+    },
+    {
+        "unique_id": "8814496cf893c80e9849c0570eac9080",
+        "placement": 2,
+        "augments": {
+            "2-1": "Spoils of War I",
+            "3-2": "You Have My Bow",
+            "4-2": "Blinged Out"
+        }
+    },
+    {
+        "unique_id": "1e40df7061beae8d86cf4e4798a2e9ce",
+        "placement": 2,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "New Recruit",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "f198445095ab99d3883e0e107ee2acff",
+        "placement": 1,
+        "augments": {
+            "2-1": "AFK",
+            "3-2": "Last Stand",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "9dd10d1d62da75a998b705176b1490f3",
+        "placement": 7,
+        "augments": {
+            "2-1": "Good For Something I",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Infernal Contract"
+        }
+    },
+    {
+        "unique_id": "3b74ca22ba1dbb03b68400651e493138",
+        "placement": 4,
+        "augments": {
+            "2-1": "Idealism",
+            "3-2": "Harmacist I",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "d6701370546c01f6cd31aca09e98504e",
+        "placement": 3,
+        "augments": {
+            "2-1": "Insert Coin",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "239f98324d9c3986b9a3403c1a84ef6b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Switching Gears",
+            "3-2": "Portable Forge++",
+            "4-2": "Harmacist III"
+        }
+    },
+    {
+        "unique_id": "280b278ba6ff4c6c919fe7694810935c",
+        "placement": 2,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Vampirism I",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "afd0c37e194a0b6649cdac1fbd73e824",
+        "placement": 6,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Vampirism II",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "2b0deebd24e47a0a58fa4bc7af7bf230",
+        "placement": 4,
+        "augments": {
+            "2-1": "Trade Sector",
+            "3-2": "Heroic grab bag",
+            "4-2": "Support Cache"
+        }
+    },
+    {
+        "unique_id": "c6b36bda54035354c891b793450bc45d",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scape goat",
+            "3-2": "Vampirism II",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "29089be0ebb61234484b521987337af0",
+        "placement": 2,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Vampirism II",
+            "4-2": "Cursed Crown"
+        }
+    },
+    {
+        "unique_id": "686f71056f8e4846efee915d52b42d34",
+        "placement": 2,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "bcb66aa69ae3cd033615dbaa93d8f8a3",
+        "placement": 3,
+        "augments": {
+            "2-1": "Insert Coin",
+            "3-2": "Buried Treasures III",
+            "4-2": "Blistering Strikes"
+        }
+    },
+    {
+        "unique_id": "ca01f06a0c8bc9fd0504dae53efc4122",
+        "placement": 6,
+        "augments": {
+            "2-1": "Switching Gears",
+            "3-2": "Keepers I",
+            "4-2": "Cybernetic Uplink I"
+        }
+    },
+    {
+        "unique_id": "a36837565a21f5c650fda7057cb9783c",
+        "placement": 3,
+        "augments": {
+            "2-1": "Blood Money",
+            "3-2": "Indomitable Will",
+            "4-2": "Teaming Up I"
+        }
+    },
+    {
+        "unique_id": "d6011d34fd290e2c303eee9e35ce8b31",
+        "placement": 2,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Sleight of Hand",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "6735b661db3224d789b55ea62271d6a9",
+        "placement": 8,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Harmacist II",
+            "4-2": "Submit To The Pit"
+        }
+    },
+    {
+        "unique_id": "4574076c7bebe7ad1eec4eb6e3d0fdc8",
+        "placement": 4,
+        "augments": {
+            "2-1": "You Have My Bow",
+            "3-2": "Item Grab Bag I",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "c772dcad4496277ade585dc8c625a7c2",
+        "placement": 3,
+        "augments": {
+            "2-1": "Vampirism I",
+            "3-2": "Missed Connections",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "349d0b2493c78274bb0acc32e4b4730f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Stationary Support III",
+            "4-2": "Lucky Gloves+"
+        }
+    },
+    {
+        "unique_id": "8dafeaed04f548465368808c5afe3b48",
+        "placement": 3,
+        "augments": {
+            "2-1": "Too Big To Fail",
+            "3-2": "Cybernetic Uplink I",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "ab4ef7d9a1fd4c5c4c28650720d5c1cf",
+        "placement": 1,
+        "augments": {
+            "2-1": "Twin Terror I",
+            "3-2": "Vampirism I",
+            "4-2": "Expose Weakness"
+        }
+    },
+    {
+        "unique_id": "0c8f0dda5036edd53867f82453ddf2d9",
+        "placement": 1,
+        "augments": {
+            "2-1": "Tons of Stats!",
+            "3-2": "Indomitable Will",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "f462207e00d35bfa0a4537b214befca7",
+        "placement": 5,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Cybernetic Uplink I",
+            "4-2": "Cybernetic Uplink II"
+        }
+    },
+    {
+        "unique_id": "5f29361e079111cbde6f451f20492c77",
+        "placement": 5,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Pandora's Items",
+            "4-2": "Radiant Relics"
+        }
+    },
+    {
+        "unique_id": "89449c390fd0af678130972362362f8a",
+        "placement": 6,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Unified Resistance I",
+            "4-2": "Raise the Tempo"
+        }
+    },
+    {
+        "unique_id": "0da2101c9414a145a4eec35b324ef7e8",
+        "placement": 6,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Indomitable Will",
+            "4-2": "What The Forge"
+        }
+    },
+    {
+        "unique_id": "b983c377bfa755cf7dd6d9f85ff67859",
+        "placement": 2,
+        "augments": {
+            "2-1": "Good For Something II",
+            "3-2": "Impenetrable Bulwark",
+            "4-2": "One, Two, Five!"
+        }
+    }
+]

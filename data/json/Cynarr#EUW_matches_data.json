@@ -1,0 +1,902 @@
+[
+    {
+        "unique_id": "3249bf895dd67591d94327bd964b7b02",
+        "placement": 1,
+        "augments": {
+            "2-1": "Pumping Up II",
+            "3-2": "Twin Terror II",
+            "4-2": "Harmacist I"
+        }
+    },
+    {
+        "unique_id": "f9a309718ceed3c1a32a348be6a5b915",
+        "placement": 2,
+        "augments": {
+            "2-1": "Silver Spoon",
+            "3-2": "Big Grab Bag",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "1f861f7dce23e50b84dd93988770dfa1",
+        "placement": 1,
+        "augments": {
+            "2-1": "Remember Your Roots",
+            "3-2": "Magic Wand",
+            "4-2": "Keepers II"
+        }
+    },
+    {
+        "unique_id": "e2c2965bf8901ac8523e7946affc113e",
+        "placement": 4,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Teaming Up I",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "5463249ca05dbbad52963a44e623c901",
+        "placement": 3,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Crown Guarded",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "21520e376b5c2d6c705747620f4173e4",
+        "placement": 5,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Teaming Up I",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "fb7defdb015b96c32043ce0df319d562",
+        "placement": 3,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Crash Test Dummies",
+            "4-2": "Remember Your Roots"
+        }
+    },
+    {
+        "unique_id": "b6895621f674631d8a3bca27053f8d56",
+        "placement": 5,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Blinding Speed"
+        }
+    },
+    {
+        "unique_id": "a083d0f6709d3b7bdae2501c9e300af4",
+        "placement": 4,
+        "augments": {
+            "2-1": "Cybernetic Bulk II",
+            "3-2": "Cybernetic Uplink II",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "cca8eaab38a9f7dd094608095ea7ff9b",
+        "placement": 1,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Harmacist III",
+            "4-2": "Return on Investment"
+        }
+    },
+    {
+        "unique_id": "f44bed69efd4b41290df6ba898ebd9f4",
+        "placement": 3,
+        "augments": {
+            "2-1": "A Cut Above",
+            "3-2": "Stationary Support II",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "90c061e402c3aca849577643029d1edd",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items III",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "3e72ed293c0a6c432cee63b276a7e664",
+        "placement": 4,
+        "augments": {
+            "2-1": "Pandora's Items",
+            "3-2": "Vampirism I",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "f6253a1da1e2046d0cbd5724a6ea59f8",
+        "placement": 2,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Not Today",
+            "4-2": "Binary Airdrop"
+        }
+    },
+    {
+        "unique_id": "84be158ed3050392a453f8fc1c09b785",
+        "placement": 2,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Teaming Up II",
+            "4-2": "Harmacist III"
+        }
+    },
+    {
+        "unique_id": "9be629bd8702e451a28aced7eb5b2037",
+        "placement": 2,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Binary Airdrop",
+            "4-2": "You Have My Sword"
+        }
+    },
+    {
+        "unique_id": "ee94de31d928f767ca3a59094894b5e1",
+        "placement": 4,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Tiny Titans",
+            "4-2": "Martyr"
+        }
+    },
+    {
+        "unique_id": "14c9709dad5a5d8ecb0908305b4212f8",
+        "placement": 2,
+        "augments": {
+            "2-1": "One Twos Three",
+            "3-2": "Healing Orbs I",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "ad470b8345e309026ed72a90b11f38db",
+        "placement": 1,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "634135216d4ac6721ad05107bcd5913c",
+        "placement": 4,
+        "augments": {
+            "2-1": "Stars are Born",
+            "3-2": "Jeweled Lotus III",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "f1932e36d150d62031fcf64940d61575",
+        "placement": 1,
+        "augments": {
+            "2-1": "Jeweled Lotus II",
+            "3-2": "Keepers II",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "0eebd2acfcd4341ffdd0e90532607efb",
+        "placement": 7,
+        "augments": {
+            "2-1": "Support Cache",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "a47b910238ec8f2db50a6596d9b3da4a",
+        "placement": 1,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Teaming Up II",
+            "4-2": "Crash Test Dummies"
+        }
+    },
+    {
+        "unique_id": "b1c3b87379101493cbb91ead5e62552d",
+        "placement": 3,
+        "augments": {
+            "2-1": "Support Cache",
+            "3-2": "Healing Orbs II",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "2b70dda6db9054adb84536c622856050",
+        "placement": 2,
+        "augments": {
+            "2-1": "Pumping Up III",
+            "3-2": "Tiny Titans",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "25e722057b3fbfc8a58b8698b580db2c",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Portable Forge++",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "4025f760848d8492f8e23fa1244ffa6b",
+        "placement": 5,
+        "augments": {
+            "2-1": "Lucky Streak",
+            "3-2": "Last Stand",
+            "4-2": "Final Ascension"
+        }
+    },
+    {
+        "unique_id": "abed38d6a588e6bad541a2a64d0cc04b",
+        "placement": 5,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Tons of Stats!",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "efe7f7b8921b720e69fda6fd4fa4fd5a",
+        "placement": 2,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Gift from the fallen",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "unique_id": "8cfe1ecd5bbd4a96add0d6cdcc6d39c1",
+        "placement": 2,
+        "augments": {
+            "2-1": "You Have My Bow",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Contagion"
+        }
+    },
+    {
+        "unique_id": "4b608c42bc10a831572734b7ac8b707e",
+        "placement": 4,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Recombobulator",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "77bf7f00427815f0a6ab693d4a4642c7",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Vampirism II",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "unique_id": "a8b4d0924eaf51c41cbb2a247efa4f1b",
+        "placement": 5,
+        "augments": {
+            "2-1": "Healing Orbs II",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "e7d149e60cf44c346ddb2321e7dd1520",
+        "placement": 1,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Unified Resistance I",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "a2d3d9d9517d6c2b85d535625bb25e15",
+        "placement": 6,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Teaming Up II",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "47c525b64dad0f606ac4f10c3d3e5ef7",
+        "placement": 1,
+        "augments": {
+            "2-1": "Latent Forge",
+            "3-2": "Submit To The Pit",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "aa424ba1888aad797919c6d5da2f53f6",
+        "placement": 2,
+        "augments": {
+            "2-1": "Caretaker's Favor",
+            "3-2": "Vampirism I",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "10e208ca4e4e4c1cce0f7b9ef0f5e04a",
+        "placement": 3,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Tiny Titans",
+            "4-2": "Overwhelming Force"
+        }
+    },
+    {
+        "unique_id": "228511816fb91cd54dd2768da139b8fc",
+        "placement": 2,
+        "augments": {
+            "2-1": "Component Buffet",
+            "3-2": "Vampirism I",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "8b972f6af8fbd6410a4c5c92b57c0fa6",
+        "placement": 4,
+        "augments": {
+            "2-1": "Vampirism I",
+            "3-2": "Healing Orbs I",
+            "4-2": "Cybernetic Bulk I"
+        }
+    },
+    {
+        "unique_id": "b8909cf74a75f9d3259ca417c83149b7",
+        "placement": 1,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Hedge Fund+",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "620cd82aef15188310eafda4ac2f58ca",
+        "placement": 6,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Little Buddies",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "e7bb7707232caf6075882febbd0f6d50",
+        "placement": 1,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Crash Test Dummies",
+            "4-2": "New Recruit"
+        }
+    },
+    {
+        "unique_id": "0025c8176ab018ee1bb71f674227b76f",
+        "placement": 6,
+        "augments": {
+            "2-1": "Remember Your Roots",
+            "3-2": "Roll The Dice",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "b106cab5761435e5f8ac0f04180234a4",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scape goat",
+            "3-2": "Sleight of Hand",
+            "4-2": "Big Grab Bag"
+        }
+    },
+    {
+        "unique_id": "900fa956d3bf78787af96bf4d81ca7fa",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures III",
+            "3-2": "Vampirism I",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "172c08747e398f89198a46139269ad4d",
+        "placement": 5,
+        "augments": {
+            "2-1": "Harmacist I",
+            "3-2": "Teaming Up I",
+            "4-2": "Phreaky Friday+"
+        }
+    },
+    {
+        "unique_id": "fc03967c7fe651bdd54f7b405847b8d2",
+        "placement": 7,
+        "augments": {
+            "2-1": "Cybernetic Bulk I",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "You Have My Sword"
+        }
+    },
+    {
+        "unique_id": "8b9fab1954f3aa87597c63f6af69f66f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Combat Caster",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "816b5c6470c71aab8ecf002bbf1ac748",
+        "placement": 4,
+        "augments": {
+            "2-1": "Heroic Presence",
+            "3-2": "Final Ascension",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "1257c9f436cb128a99aa914d3b59e114",
+        "placement": 7,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Unified Resistance I",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "59e4dcd5a4f1e23fa0213476d771612b",
+        "placement": 5,
+        "augments": {
+            "2-1": "Patient Study",
+            "3-2": "Binary Airdrop",
+            "4-2": "Cybernetic Bulk III"
+        }
+    },
+    {
+        "unique_id": "75dfb7e009236536ec58613f4d85d41f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Stationary Support III",
+            "3-2": "Cybernetic Bulk III",
+            "4-2": "Harmacist I"
+        }
+    },
+    {
+        "unique_id": "75b9a355da53a24493d2128e1649c94d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Inspiring Epitaph",
+            "4-2": "Support Cache"
+        }
+    },
+    {
+        "unique_id": "a9a1dbc9d4e35e4d5983427095da22a9",
+        "placement": 7,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Stationary Support II",
+            "4-2": "Little Buddies"
+        }
+    },
+    {
+        "unique_id": "1dbb2f5541ebbda69e67196867947f53",
+        "placement": 6,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Healing Orbs I"
+        }
+    },
+    {
+        "unique_id": "65077e6f34f7af5fc80f04a552b85af0",
+        "placement": 4,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Stationary Support III",
+            "4-2": "Silver Veil"
+        }
+    },
+    {
+        "unique_id": "e1f6e749e1fc42192901059f57b78238",
+        "placement": 3,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Lucky Gloves+",
+            "4-2": "Blistering Strikes"
+        }
+    },
+    {
+        "unique_id": "73d9a917613da9665d2482ca3ab3aab5",
+        "placement": 3,
+        "augments": {
+            "2-1": "Radiant Relics",
+            "3-2": "Healing Orbs I",
+            "4-2": "Inspiring Epitaph"
+        }
+    },
+    {
+        "unique_id": "9be7d8e1cda907ff66eef7d10f05c516",
+        "placement": 4,
+        "augments": {
+            "2-1": "Unknown Augment",
+            "3-2": "Jeweled Lotus II",
+            "4-2": "Know Your Enemy"
+        }
+    },
+    {
+        "unique_id": "63c22d3204435fb0edca85e170adc405",
+        "placement": 5,
+        "augments": {
+            "2-1": "Not Today",
+            "3-2": "You Have My Bow",
+            "4-2": "Prisimatic Ticket"
+        }
+    },
+    {
+        "unique_id": "2b32d9504255990b4996dcfd36c5bff3",
+        "placement": 8,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Harmacist II",
+            "4-2": "Hedge Fund++"
+        }
+    },
+    {
+        "unique_id": "d71084e01c31a050ec11c7cf2bce6c62",
+        "placement": 1,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Last Stand",
+            "4-2": "Jeweled Lotus II"
+        }
+    },
+    {
+        "unique_id": "d1c591f5ef771a5c900485ef0e512627",
+        "placement": 1,
+        "augments": {
+            "2-1": "Vampirism I",
+            "3-2": "Teaming Up I",
+            "4-2": "Cybernetic Uplink I"
+        }
+    },
+    {
+        "unique_id": "5ce9d8cded207f79467937c7325fdde3",
+        "placement": 5,
+        "augments": {
+            "2-1": "Vampirism II",
+            "3-2": "Contagion",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "d02cc79b702a86c766db9e04a0e582d1",
+        "placement": 8,
+        "augments": {
+            "2-1": "Clear Mind",
+            "3-2": "Tiny Titans",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "dd3dbaa33371147cc0b065ba51c7ac9f",
+        "placement": 7,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Ascension",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "fe9225d9e9d1768502a25e9ff39e5f12",
+        "placement": 5,
+        "augments": {
+            "2-1": "Gargantuan Resolve",
+            "3-2": "Inspiring Epitaph",
+            "4-2": "Harmacist III"
+        }
+    },
+    {
+        "unique_id": "04b59fd853003b40108021181d51b877",
+        "placement": 8,
+        "augments": {
+            "2-1": "Help Is On The Way",
+            "3-2": "Vampirism I",
+            "4-2": "Cybernetic Bulk I"
+        }
+    },
+    {
+        "unique_id": "7a6a34d3209626426c74ba052a8028ae",
+        "placement": 6,
+        "augments": {
+            "2-1": "Know Your Enemy",
+            "3-2": "Rolling For Days I",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "9e95bb219c628f7d7c7e1b0ef9e50f64",
+        "placement": 5,
+        "augments": {
+            "2-1": "Fully Adapted",
+            "3-2": "Salvage Bin+",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "3b30a07dad77e369a8c5d88d881277b3",
+        "placement": 1,
+        "augments": {
+            "2-1": "Portable Forge",
+            "3-2": "Last Stand",
+            "4-2": "Heroic grab bag"
+        }
+    },
+    {
+        "unique_id": "7dffaab2da5b9c2ce9b8d41297c6665e",
+        "placement": 7,
+        "augments": {
+            "2-1": "Buried Treasures I",
+            "3-2": "Missed Connections",
+            "4-2": "Roll The Dice"
+        }
+    },
+    {
+        "unique_id": "4029c57adce55467160d3c901822caba",
+        "placement": 7,
+        "augments": {
+            "2-1": "Phreaky Friday",
+            "3-2": "Silver Veil",
+            "4-2": "Lucky Gloves+"
+        }
+    },
+    {
+        "unique_id": "7b228ce7faf77a14a71056c3a203d965",
+        "placement": 7,
+        "augments": {
+            "2-1": "Team Building",
+            "3-2": "Tiny Titans",
+            "4-2": "Healing Orbs II"
+        }
+    },
+    {
+        "unique_id": "e42e88ab7eae4a999e91e2e6b7fdd00c",
+        "placement": 8,
+        "augments": {
+            "2-1": "Cluttered Mind",
+            "3-2": "Martyr",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "4262ee622e26aa5fb71a1e5486ba8dcd",
+        "placement": 5,
+        "augments": {
+            "2-1": "Tiny Titans",
+            "3-2": "Idealism",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "972b1f8e2eeefc0c85d68751d848c97f",
+        "placement": 4,
+        "augments": {
+            "2-1": "Stationary Support III",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Support Cache"
+        }
+    },
+    {
+        "unique_id": "ac5f058dbc28f2bc4539bba0fdeb91ff",
+        "placement": 1,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Lucky Gloves+",
+            "4-2": "Silver Veil"
+        }
+    },
+    {
+        "unique_id": "f8cff8e06cab79cdf860f4c82ec6fd0c",
+        "placement": 3,
+        "augments": {
+            "2-1": "Rich Get Richer",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "7152007b292ff05778194881952b6e6f",
+        "placement": 3,
+        "augments": {
+            "2-1": "Salvage Bin",
+            "3-2": "Young and Wild and Free",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "a7aa0602e0615662b02e9a90db770d81",
+        "placement": 3,
+        "augments": {
+            "2-1": "Roll The Dice",
+            "3-2": "Healing Orbs I",
+            "4-2": "Not Today"
+        }
+    },
+    {
+        "unique_id": "979cc455b459dda49169062ee9ed290f",
+        "placement": 6,
+        "augments": {
+            "2-1": "Metabolic Accelerator",
+            "3-2": "Rolling For Days I",
+            "4-2": "Unified Resistance II"
+        }
+    },
+    {
+        "unique_id": "44b4eea2906085b7c752ed182fbca8c0",
+        "placement": 1,
+        "augments": {
+            "2-1": "Iron Assets",
+            "3-2": "Salvage Bin+",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "6e19cf4625e9d03bc684481f0e0f716e",
+        "placement": 1,
+        "augments": {
+            "2-1": "Stimpack",
+            "3-2": "Healing Orbs I",
+            "4-2": "Unified Resistance I"
+        }
+    },
+    {
+        "unique_id": "39baeac7fd9b785ef84da9bef6fc272d",
+        "placement": 6,
+        "augments": {
+            "2-1": "Cybernetic Bulk III",
+            "3-2": "Vampirism I",
+            "4-2": "Cybernetic Bulk II"
+        }
+    },
+    {
+        "unique_id": "68ad22fffed57be1c09e1bad7ca2b33b",
+        "placement": 5,
+        "augments": {
+            "2-1": "What Doesn't Kill You",
+            "3-2": "Little Buddies",
+            "4-2": "Magic Wand"
+        }
+    },
+    {
+        "unique_id": "b341adda4c8809af5188edf2d6f3d79f",
+        "placement": 1,
+        "augments": {
+            "2-1": "Jeweled Lotus II",
+            "3-2": "Remember Your Roots",
+            "4-2": "Combat Caster"
+        }
+    },
+    {
+        "unique_id": "5e67495c080524862eb0869e416a39b9",
+        "placement": 2,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Crash Test Dummies",
+            "4-2": "Ascension"
+        }
+    },
+    {
+        "unique_id": "75f7dedfedaa7d04cc1419d8aff525a7",
+        "placement": 8,
+        "augments": {
+            "2-1": "Healing Orbs II",
+            "3-2": "Partial Ascension",
+            "4-2": "Stationary Support II"
+        }
+    },
+    {
+        "unique_id": "1eeefe48968b39778bccf3a88885a00c",
+        "placement": 1,
+        "augments": {
+            "2-1": "Roll The Dice",
+            "3-2": "Vampirism I",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "dde096ae1d1c5d8862cccf3cada6650d",
+        "placement": 1,
+        "augments": {
+            "2-1": "Buried Treasures II",
+            "3-2": "Cybernetic Bulk I",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "8fb547ea6b8b2888cc5c4610021b19ca",
+        "placement": 2,
+        "augments": {
+            "2-1": "Stationary Support II",
+            "3-2": "Rolling For Days I",
+            "4-2": "Portable Forge++"
+        }
+    },
+    {
+        "unique_id": "c5742460254c46352fc873c2d7570001",
+        "placement": 4,
+        "augments": {
+            "2-1": "Blistering Strikes",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "Jeweled Lotus III"
+        }
+    },
+    {
+        "unique_id": "daa945b1979ac07ba0e0c556a7d3b2c6",
+        "placement": 7,
+        "augments": {
+            "2-1": "Escort Quest",
+            "3-2": "Sleight of Hand",
+            "4-2": "Harmacist II"
+        }
+    },
+    {
+        "unique_id": "ceefce3e3f5bfd51c34f7607b8d1a6d1",
+        "placement": 8,
+        "augments": {
+            "2-1": "Prisimatic Ticket",
+            "3-2": "Phreaky Friday+",
+            "4-2": "Tons of Stats!"
+        }
+    },
+    {
+        "unique_id": "909c93b3f5ae7f9fa38f6cb8e041b559",
+        "placement": 4,
+        "augments": {
+            "2-1": "Living Forge",
+            "3-2": "Idealism",
+            "4-2": "Teaming Up II"
+        }
+    },
+    {
+        "unique_id": "aa2ae181f4f4b9bd5cf8d3f7d4623038",
+        "placement": 4,
+        "augments": {
+            "2-1": "Sleight of Hand",
+            "3-2": "Capricious Forge",
+            "4-2": "You Have My Bow"
+        }
+    },
+    {
+        "unique_id": "76faba425c660994bdf38006448ebed9",
+        "placement": 6,
+        "augments": {
+            "2-1": "Three's Company",
+            "3-2": "Heroic grab bag",
+            "4-2": "Bigger Shot"
+        }
+    },
+    {
+        "unique_id": "cb889478f2e6323484e4a44e28f312cc",
+        "placement": 2,
+        "augments": {
+            "2-1": "Scrappy Inventions",
+            "3-2": "Cybernetic Bulk II",
+            "4-2": "Healing Orbs II"
+        }
+    }
+]
