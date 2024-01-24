@@ -12,7 +12,8 @@ const App = () => {
 
     const fetchAugments = async () => {
         try {
-            const response = await fetch('http://localhost:3000/api/augments/stats');
+            // local: const response = await fetch('http://localhost:3000/api/augments/stats');
+            const response = await fetch('https://augment-stats-website-80d31fae8bea.herokuapp.com/api/augments/stats');
             const data = await response.json();
             if (Array.isArray(data)) {
                 setAugments(data);
@@ -30,7 +31,8 @@ const App = () => {
             return;
         }
         try {
-            const response = await fetch(`http://localhost:3000/api/augments/search?term=${encodeURIComponent(searchTerm)}`);
+            // local: const response = await fetch(`http://localhost:3000/api/augments/search?term=${encodeURIComponent(searchTerm)}`);
+            const response = await fetch(`https://augment-stats-website-80d31fae8bea.herokuapp.com/api/augments/search?term=${encodeURIComponent(searchTerm)}`);
             const data = await response.json();
             if (Array.isArray(data)) {
                 setAugments(data);
@@ -43,7 +45,9 @@ const App = () => {
 
     const refreshData = async () => {
       try {
-          const response = await fetch('http://localhost:3000/api/refresh-data', { method: 'POST' });
+          // local: const response = await fetch('http://localhost:3000/api/refresh-data', { method: 'POST' });
+          const response = await fetch('https://augment-stats-website-80d31fae8bea.herokuapp.com/api/refresh-data', { method: 'POST' });
+          
           if (response.ok) {
               console.log('Data refresh initiated');
               fetchAugments(); // Refetch the augment data after refresh
